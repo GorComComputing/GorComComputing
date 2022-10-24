@@ -3,18 +3,51 @@
 </div>
 
 
-**GorComComputing/GorComComputing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GorComComputing/GorComComputing** этот профиль посвящен Computer Science.  
+Он хранит проекты для всех уровней абстракции, от низкоуровневой логики процессоров, создания операционных систем, компиляторов, и баз данных, до высокоуровневых приложений, таких как нейронные сети и блокчейн.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+В проектах используются следующие технологии:  
+Системное программирование:
+- C/C++
+- Assembly x86-64
+
+Back-end: 
+- Java: Tomcat, Spring, Hibernate, gRPC, Lombok, Swing, JSP
+- Python: Django, Flask, Tkinter
+- PHP: Laravel, Modx, Bitrix
+- Ruby: Ruby on Rails
+- Node.js
+
+Front-end: 
+- JavaScript: React, Vue.js, Angular, JQuery
+- TypeScript
+- HTML & CSS
+
+Базы данных:
+- SQL: MySQL, PostgreSQL, SQLite
+- NoSQL: MongoDB, Redis 
+
+Программный инжиниринг:
+- ОС: Linux, Windows
+- Bash
+- Контроль версий: Git и GitHub, SVN
+- Сборка: Make, Ant+Ivy, Maven, Gradle, Jenkins
+
+Автоматизированное тестирование:
+- TDD: JUnit (Java)
+- BDD: RSpec (Ruby), Selenium (Python)
+- BugTracker
+
+Облачные архитектуры:
+- Yandex.Cloud: Terraform, Ansible
+- Hypervisor: ESXi, mRemoteNG
+- Контейнеры: Docker, Kubernetes
+
+
+
+
+
 
 
 ---
