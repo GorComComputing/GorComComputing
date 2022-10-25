@@ -9,20 +9,24 @@
 
 ### В проектах используются технологии
 Системное программирование:
-- C/C++
-- Assembly x86-64
+- C и Assembly x86-64
 
-Back-end: 
+Desktop:
+- C++
+- Java: 
+- Python: Tkinter
+
+Web back-end:
 - Java: Tomcat, Spring, Hibernate, gRPC, Lombok, Swing, JSP
-- Python: Django, Flask, Tkinter
+- Python: Django, Flask
 - PHP: Laravel, Modx, Bitrix
 - Ruby: Ruby on Rails
-- Node.js
+- Node.js: Express.js
 
-Front-end: 
+Web front-end:
 - JavaScript: React, Vue.js, Angular, JQuery
 - TypeScript
-- HTML & CSS
+- HTML & CSS: Bootstrap
 
 Базы данных:
 - SQL: MySQL, PostgreSQL, SQLite
@@ -30,14 +34,14 @@ Front-end:
 
 Программный инжиниринг:
 - ОС: Linux, Windows
-- Bash
+- CLI: Bash, PowerShell
 - Контроль версий: Git и GitHub, SVN
 - Сборка: Make, Ant+Ivy, Maven, Gradle, Jenkins
 
 Автоматизированное тестирование:
-- TDD: JUnit (Java)
-- BDD: RSpec (Ruby), Selenium (Python)
-- BugTracker
+- Java: JUnit
+- Python: Selenium
+- Ruby: RSpec
 
 Облачные архитектуры:
 - Yandex.Cloud: Terraform, Ansible
