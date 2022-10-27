@@ -19,7 +19,7 @@ Desktop:
 Web back-end:
 - Java: Tomcat, Spring, Hibernate, gRPC, Lombok, Swing, JSP
 - Python: Django, Flask
-- PHP: Laravel, Modx, Bitrix
+- PHP: Laravel, Yii, Modx, Bitrix
 - Ruby: Ruby on Rails
 - Node.js: Express.js
 
