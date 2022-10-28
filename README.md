@@ -9,17 +9,17 @@
 
 ##### Виртуальные машины
 * [8-bit-AON-Computer](https://github.com/GorComComputing/8-bit-AON-Computer) (на JavaScript)
-##### CLI
-* [Shell](https://github.com/GorComComputing/Shell) (на C)
-##### Базы данных
-* [SQLite](https://github.com/GorComComputing/SQLite) (на C)
-* [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python)
 ##### Операционные системы
 * [OS_Doors16](https://github.com/GorComComputing/OS_Doors16) (на Assembly)
 * [OS_Doors32](https://github.com/GorComComputing/OS_Doors32) (на C & Assembly)
+##### Интерпретаторы командной строки (CLI)
+* [Shell](https://github.com/GorComComputing/Shell) (на C)
 ##### Компиляторы
 * [Basic512](https://github.com/GorComComputing/Basic512) (на Assembly)
 * [C_Compiler](https://github.com/GorComComputing/C_Compiler) (на Python)
+##### Базы данных
+* [SQLite](https://github.com/GorComComputing/SQLite) (на C)
+* [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python)
 ##### Web front-end
 * [Framework.js](https://github.com/GorComComputing/Framework.js) (на JavaScript)
 ##### Web back-end
