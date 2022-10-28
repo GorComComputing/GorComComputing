@@ -1,7 +1,3 @@
-<!--div id="header" align="center">
-  <img src="https://media.giphy.com/media/3ohc157IyQlpWtqbug/giphy.gif" width="100"/>
-</div-->
-
 ![MapOfComputerScience.jpg](MapOfComputerScience.jpg)
 
 **GorComComputing** репозиторий посвящен Computer Science.  
@@ -26,10 +22,12 @@
 * [Git](https://github.com/GorComComputing/Git)
 * [Docker](https://github.com/GorComComputing/Docker)
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3ohc157IyQlpWtqbug/giphy.gif" width="100"/>
+</div>
 
 
-
-#### Технологии, которые используются в проектах:
+## Технологии, которые используются в проектах:
 Системное программирование:
 - [C](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=) и [Assembly x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=)
 
