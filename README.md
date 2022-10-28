@@ -7,19 +7,30 @@
 
 ## Список проектов
 
+#### Виртуальные машины
 * [8-bit-AON-Computer](https://github.com/GorComComputing/8-bit-AON-Computer)
-* [Basic512](https://github.com/GorComComputing/Basic512)
+#### CLI
 * [Shell](https://github.com/GorComComputing/Shell)
+#### Базы данных
 * [SQLite](https://github.com/GorComComputing/SQLite)
+* [NoSQL](https://github.com/GorComComputing/NoSQL)
+#### Операционные системы
 * [OS_Doors16](https://github.com/GorComComputing/OS_Doors16)
 * [OS_Doors32](https://github.com/GorComComputing/OS_Doors32)
+#### Компиляторы
+* [Basic512](https://github.com/GorComComputing/Basic512)
 * [C_Compiler](https://github.com/GorComComputing/C_Compiler)
+#### Web front-end
 * [Framework.js](https://github.com/GorComComputing/Framework.js)
+#### Web back-end
 * [Web_Server](https://github.com/GorComComputing/Web_Server)
+#### Blockchain
 * [Blockchain](https://github.com/GorComComputing/Blockchain)
+#### Автоматизированное тестирование
 * [AutoTinder](https://github.com/GorComComputing/AutoTinder)
-* [NoSQL](https://github.com/GorComComputing/NoSQL)
+#### Программная инжинирия
 * [Git](https://github.com/GorComComputing/Git)
+#### Виртуализация
 * [Docker](https://github.com/GorComComputing/Docker)
 
 <div id="header" align="center">
