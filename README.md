@@ -61,18 +61,18 @@ Web front-end:
 - [HTML & CSS](https://github.com/GorComComputing?tab=repositories&q=&type=&language=html&sort=): Bootstrap
 
 Базы данных:
-- SQL: MySQL, PostgreSQL, SQLite
+- SQL: MySQL, PostgreSQL, [SQLite](https://github.com/GorComComputing/SQLite)
 - NoSQL: MongoDB, Redis 
 
 Программный инжиниринг:
 - ОС: Linux, Windows
 - CLI: Bash, PowerShell
-- Контроль версий: Git и GitHub, SVN
+- Контроль версий: [Git](https://github.com/GorComComputing/Git) и GitHub, SVN
 - Сборка: Make, Ant+Ivy, Maven, Gradle, Jenkins
 
 Автоматизированное тестирование:
 - Java: JUnit
-- Python: Selenium
+- Python: [Selenium](https://github.com/GorComComputing/AutoTinder)
 - Ruby: RSpec
 
 Облачные архитектуры:
