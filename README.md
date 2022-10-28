@@ -11,6 +11,7 @@
 #### Технологии, которые используются в проектах:
 Системное программирование:
 - C и Assembly x86-64
+- [Assembly x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=)
 
 Desktop:
 - C++
