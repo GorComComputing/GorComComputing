@@ -10,13 +10,12 @@
 
 #### Технологии, которые используются в проектах:
 Системное программирование:
-- C и Assembly x86-64
-- [Assembly x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=)
+- [C](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=) и [Assembly x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=)
 
 Desktop:
 - C++
 - Java: 
-- Python: Tkinter
+- [Python](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Tkinter
 
 Web back-end:
 - Java: Tomcat, Spring, Hibernate, gRPC, Lombok, Swing, JSP
@@ -26,9 +25,9 @@ Web back-end:
 - Node.js: Express.js
 
 Web front-end:
-- JavaScript: React, Vue.js, Angular, JQuery
+- [JavaScript](https://github.com/GorComComputing?tab=repositories&q=&type=&language=javascript&sort=): React, Vue.js, Angular, JQuery
 - TypeScript
-- HTML & CSS: Bootstrap
+- [HTML & CSS](https://github.com/GorComComputing?tab=repositories&q=&type=&language=html&sort=): Bootstrap
 
 Базы данных:
 - SQL: MySQL, PostgreSQL, SQLite
