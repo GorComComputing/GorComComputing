@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/3ohc157IyQlpWtqbug/giphy.gif" width="100"/>
 </div>
 
+![MapOfComputerScience.jpg](MapOfComputerScience.jpg)
 
 **GorComComputing** профиль посвящен Computer Science.  
 Проекты для всех уровней абстракции, от низкоуровневой логики процессоров, создания операционных систем, компиляторов, и баз данных, до высокоуровневых приложений, как нейронные сети и блокчейн.
