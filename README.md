@@ -91,4 +91,6 @@ Web front-end:
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GorComComputing&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Мои контакты<br/>
+[![](https://img.shields.io/badge/Telegram-Account-informational?style=flat&logo=telegram&logoColor=white&color=31a2db)](https://t.me/extendedsuperbass)<br/>
 
