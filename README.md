@@ -4,8 +4,29 @@
 
 ![MapOfComputerScience.jpg](MapOfComputerScience.jpg)
 
-**GorComComputing** профиль посвящен Computer Science.  
+**GorComComputing** репозиторий посвящен Computer Science.  
 Проекты для всех уровней абстракции, от низкоуровневой логики процессоров, создания операционных систем, компиляторов, и баз данных, до высокоуровневых приложений, нейронных сети и блокчейн.
+
+> *What I cannot create, I do not understand — Richard Feynman.*
+
+## Список проектов
+
+* [8-bit-AON-Computer](https://github.com/GorComComputing/8-bit-AON-Computer)
+* [Basic512](https://github.com/GorComComputing/Basic512)
+* [Shell](https://github.com/GorComComputing/Shell)
+* [SQLite](https://github.com/GorComComputing/SQLite)
+* [OS_Doors16](https://github.com/GorComComputing/OS_Doors16)
+* [OS_Doors32](https://github.com/GorComComputing/OS_Doors32)
+* [C_Compiler](https://github.com/GorComComputing/C_Compiler)
+* [Framework.js](https://github.com/GorComComputing/Framework.js)
+* [Web_Server](https://github.com/GorComComputing/Web_Server)
+* [Blockchain](https://github.com/GorComComputing/Blockchain)
+* [AutoTinder](https://github.com/GorComComputing/AutoTinder)
+* [NoSQL](https://github.com/GorComComputing/NoSQL)
+* [Git](https://github.com/GorComComputing/Git)
+* [Docker](https://github.com/GorComComputing/Docker)
+
+
 
 
 #### Технологии, которые используются в проектах:
