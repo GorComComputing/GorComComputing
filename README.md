@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!--div id="header" align="center">
   <img src="https://media.giphy.com/media/3ohc157IyQlpWtqbug/giphy.gif" width="100"/>
-</div>
+</div-->
 
 ![MapOfComputerScience.jpg](MapOfComputerScience.jpg)
 
