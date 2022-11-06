@@ -15,7 +15,7 @@
 * [OS Doors32](https://github.com/GorComComputing/OS_Doors32) (на C & Assembly)
 ##### Интерпретаторы командной строки (CLI)
 * [Shell](https://github.com/GorComComputing/Shell) (на C)
-* [Shell_Arduino](https://github.com/GorComComputing/Shell_Arduino) (на C)
+* [Shell Arduino](https://github.com/GorComComputing/Shell_Arduino) (на C)
 ##### Компиляторы
 * [Basic512](https://github.com/GorComComputing/Basic512) (на Assembly)
 * [C Compiler](https://github.com/GorComComputing/C_Compiler) (на Python)
