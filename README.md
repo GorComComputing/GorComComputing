@@ -18,6 +18,7 @@
 * [Shell Arduino](https://github.com/GorComComputing/Shell_Arduino) (на C)
 ##### Компиляторы
 * [Basic512](https://github.com/GorComComputing/Basic512) (на Assembly)
+* [Basic Arduino](https://github.com/GorComComputing/Basic_Arduino) (на C)
 * [C Compiler](https://github.com/GorComComputing/C_Compiler) (на Python)
 ##### Базы данных
 * [SQLite](https://github.com/GorComComputing/SQLite) (на C)
