@@ -44,7 +44,7 @@
 ## Технологии, которые используются в проектах:
 Системное программирование:
 - [C](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=) и [Assembly x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=)
-- [Arduino (C и Assembly AVR)](https://github.com/stars/GorComComputing/lists/embedded)
+- [Arduino (C++ и Assembly AVR)](https://github.com/stars/GorComComputing/lists/embedded)
 
 Desktop:
 - C++
