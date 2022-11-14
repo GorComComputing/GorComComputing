@@ -47,7 +47,7 @@
 - [Arduino (C++ и Assembly AVR)](https://github.com/stars/GorComComputing/lists/embedded)
 
 Desktop:
-- C++
+- C++: STL
 - Java: 
 - [Python](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Tkinter
 
