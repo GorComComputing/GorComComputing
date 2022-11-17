@@ -44,8 +44,9 @@
 ## Технологии, которые используются в проектах:
 Embedded:
 - [C](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=)
+- C++: [Arduino](https://github.com/stars/GorComComputing/lists/embedded)
 - Assembly: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, AVR
-- [Arduino (C++ и Assembly AVR)](https://github.com/stars/GorComComputing/lists/embedded)
+
 
 Desktop:
 - C++: STL
