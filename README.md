@@ -74,6 +74,7 @@ Web front-end:
 - CLI: Bash, PowerShell
 - Контроль версий: [Git](https://github.com/GorComComputing/Git) и GitHub, SVN
 - Сборка: Make, Ant+Ivy, Maven, Gradle, Jenkins
+- Архитектура: UML
 
 Автоматизированное тестирование:
 - Java: JUnit
