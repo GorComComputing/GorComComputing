@@ -42,49 +42,48 @@
 
 
 ## Технологии, которые используются в проектах:
-Embedded:
-- [**C**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=)
-- **C++**: [Arduino](https://github.com/stars/GorComComputing/lists/embedded)
+##### Embedded:
+- [**C/C++**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=): [Arduino](https://github.com/stars/GorComComputing/lists/embedded)
 - **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, AVR
 
 
-Desktop:
-- C++: STL
-- Java: 
-- [Python](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Tkinter
+##### Desktop:
+- **C++**: STL
+- **Java**: 
+- [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Tkinter
 
-Web back-end:
-- Java: Tomcat, Spring, Hibernate, gRPC, Lombok, Swing, JSP
-- Python: Django, Flask
-- PHP: Laravel, Yii, Modx, Bitrix
-- Ruby: Ruby on Rails
-- Node.js: Express.js
+##### Web back-end:
+- **Java**: Tomcat, Spring, Hibernate, gRPC, Lombok, Swing, JSP
+- **Python**: Django, Flask
+- **PHP**: Laravel, Yii, Modx, Bitrix
+- **Ruby**: Ruby on Rails
+- **Node.js**: Express.js
 
-Web front-end:
-- [JavaScript](https://github.com/GorComComputing?tab=repositories&q=&type=&language=javascript&sort=): React, Vue.js, Angular, JQuery
-- TypeScript
-- [HTML & CSS](https://github.com/GorComComputing?tab=repositories&q=&type=&language=html&sort=): Bootstrap
+##### Web front-end:
+- [**JavaScript**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=javascript&sort=): React, Vue.js, Angular, JQuery
+- **TypeScript**
+- [**HTML** & **CSS**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=html&sort=): Bootstrap
 
-Базы данных:
-- SQL: MySQL, PostgreSQL, [SQLite](https://github.com/GorComComputing/SQLite)
-- NoSQL: MongoDB, Redis 
+##### Базы данных:
+- **SQL**: MySQL, PostgreSQL, [SQLite](https://github.com/GorComComputing/SQLite)
+- **NoSQL**: MongoDB, Redis 
 
-Программный инжиниринг:
-- ОС: Linux, Windows
-- CLI: Bash, PowerShell
-- Контроль версий: [Git](https://github.com/GorComComputing/Git) и GitHub, SVN
-- Сборка: Make, Ant+Ivy, Maven, Gradle, Jenkins
-- Архитектура: UML
+##### Программный инжиниринг:
+- **ОС**: Linux, Windows
+- **CLI**: Bash, PowerShell
+- **Контроль версий**: [Git](https://github.com/GorComComputing/Git) и GitHub, SVN
+- **Сборка**: Make, Ant+Ivy, Maven, Gradle, Jenkins
+- **Архитектура**: UML
 
-Автоматизированное тестирование:
-- Java: JUnit
-- Python: [Selenium](https://github.com/GorComComputing/AutoTinder)
-- Ruby: RSpec
+##### Автоматизированное тестирование:
+- **Java**: JUnit
+- **Python**: [Selenium](https://github.com/GorComComputing/AutoTinder)
+- **Ruby**: RSpec
 
-Облачные архитектуры:
-- Yandex.Cloud: Terraform, Ansible
-- Hypervisor: ESXi, mRemoteNG
-- Контейнеры: Docker, Kubernetes
+##### Облачные архитектуры:
+- **Yandex.Cloud**: Terraform, Ansible
+- **Hypervisor**: ESXi, mRemoteNG
+- **Контейнеры**: Docker, Kubernetes
 
 
 
