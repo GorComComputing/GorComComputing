@@ -48,7 +48,7 @@
 
 
 ##### Desktop:
-- **C++**: STL
+- **C**/**C++**: STL
 - **Java**: 
 - [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Tkinter
 
