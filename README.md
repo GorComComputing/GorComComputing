@@ -73,7 +73,7 @@
 - **CLI**: Bash, PowerShell
 - **Контроль версий**: [Git](https://github.com/GorComComputing/Git) и GitHub, SVN
 - **Сборка**: Make, Ant+Ivy, Maven, Gradle, Jenkins
-- **Архитектура**: UML
+- **Архитектура**: UML, Archimate
 
 ##### Автоматизированное тестирование:
 - **Java**: JUnit
