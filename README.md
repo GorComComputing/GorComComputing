@@ -74,6 +74,7 @@
 - **Контроль версий**: [Git](https://github.com/GorComComputing/Git) и GitHub, SVN
 - **Сборка**: Make, Ant+Ivy, Maven, Gradle, Jenkins
 - **Архитектура**: UML, Archimate, BPMN
+- **PM**: Scrum
 
 ##### Автоматизированное тестирование:
 - **Java**: JUnit
