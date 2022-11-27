@@ -13,16 +13,18 @@
 ##### Операционные системы
 * [OS Doors16](https://github.com/GorComComputing/OS_Doors16) (на Assembly)
 * [OS Doors32](https://github.com/GorComComputing/OS_Doors32) (на C & Assembly)
-##### Интерпретаторы командной строки (CLI)
+##### Интерпретаторы
 * [Shell](https://github.com/GorComComputing/Shell) (на C)
 * [Shell Arduino](https://github.com/GorComComputing/Shell_Arduino) (на C++)
-##### Компиляторы
 * [Basic512](https://github.com/GorComComputing/Basic512) (на Assembly)
 * [Basic TCP Arduino](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++)
+##### Компиляторы
 * [C Compiler](https://github.com/GorComComputing/C_Compiler) (на Python)
 ##### Базы данных
 * [SQLite](https://github.com/GorComComputing/SQLite) (на C)
 * [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python)
+##### Компьютерная графика
+* [Графическая библиотека](https://github.com/GorComComputing/Graphics) (на C)
 ##### Web front-end
 * [Framework.js](https://github.com/GorComComputing/Framework.js) (на JavaScript)
 ##### Web back-end
