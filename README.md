@@ -50,7 +50,7 @@
 
 
 ##### Desktop:
-- **C**/**C++**: STL, SFML
+- **C**/**C++**: STL, SFML, WinAPI, OpenGL
 - **Java**: 
 - [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Tkinter
 
