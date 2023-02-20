@@ -24,6 +24,7 @@
 * [SQLite](https://github.com/GorComComputing/SQLite) (на C)
 * [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python)
 ##### Компьютерная графика
+* [Оконный графический интерфейс](https://github.com/GorComComputing/GUI_Window) (на C)
 * [Графическая библиотека](https://github.com/GorComComputing/Graphics) (на C)
 * [Игра на Arduino](https://github.com/GorComComputing/Game_Arduino) (на C++)
 ##### Web front-end
