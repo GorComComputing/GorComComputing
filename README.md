@@ -19,7 +19,7 @@
 * [Basic512](https://github.com/GorComComputing/Basic512) (на Assembly)
 * [Basic TCP Arduino](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++)
 ##### Компиляторы
-* [C Compiler](https://github.com/GorComComputing/C_Compiler) (на Python)
+* [Компилятор Oberon](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
 ##### Базы данных
 * [SQLite](https://github.com/GorComComputing/SQLite) (на C)
 * [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python)
