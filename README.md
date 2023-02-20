@@ -38,9 +38,9 @@
 ##### Автоматизированное тестирование
 * [AutoTinder](https://github.com/GorComComputing/AutoTinder) (на Python)
 ##### Программная инжинирия
-* [Git](https://github.com/GorComComputing/Git) (на Python) <font color='red'>- в разработке</font>
+* [Git](https://github.com/GorComComputing/Git) (на Python) - в разработке
 ##### Виртуализация
-* [Docker](https://github.com/GorComComputing/Docker) (на C) <font color='red'>- в разработке</font>
+* [Docker](https://github.com/GorComComputing/Docker) (на C) - в разработке
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3ohc157IyQlpWtqbug/giphy.gif" width="100"/>
