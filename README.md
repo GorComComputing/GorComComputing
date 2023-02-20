@@ -30,7 +30,7 @@
 * [Компилятор Oberon](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
 ##### Базы данных
 * [SQLite](https://github.com/GorComComputing/SQLite) (на C)
-* [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python)
+* [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python) - в разработке
 ##### Компьютерная графика
 * [Оконный графический интерфейс](https://github.com/GorComComputing/GUI_Window) (на C)
 * [Графическая библиотека](https://github.com/GorComComputing/Graphics) (на C)
