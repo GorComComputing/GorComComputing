@@ -25,6 +25,7 @@
 * [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python)
 ##### Компьютерная графика
 * [Графическая библиотека](https://github.com/GorComComputing/Graphics) (на C)
+* [Игра на Arduino](https://github.com/GorComComputing/Game_Arduino) (на C++)
 ##### Web front-end
 * [Framework.js](https://github.com/GorComComputing/Framework.js) (на JavaScript)
 ##### Web back-end
