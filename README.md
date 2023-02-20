@@ -32,6 +32,7 @@
 ##### Web back-end
 * [Web Server](https://github.com/GorComComputing/Web_Server) (на C)
 * [Чат TCP](https://github.com/GorComComputing/Chat_TCP) (на C)
+* [Чат p2p](https://github.com/GorComComputing/p2p_chat) (на Python)
 ##### Blockchain
 * [Blockchain](https://github.com/GorComComputing/Blockchain) (на Python)
 ##### Автоматизированное тестирование
