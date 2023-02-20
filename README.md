@@ -11,12 +11,12 @@
 ##### Виртуальные машины
 * [8 bit AON Computer](https://github.com/GorComComputing/8-bit-AON-Computer) (на JavaScript)
 ##### Операционные системы
-* [OS Doors16](https://github.com/GorComComputing/OS_Doors16) (на Assembly)
-* [OS Doors32](https://github.com/GorComComputing/OS_Doors32) (на C & Assembly)
+* [OS Doors32](https://github.com/GorComComputing/OS_Doors32) (на C & Assembly x86-64)
+* [OS Doors16](https://github.com/GorComComputing/OS_Doors16) (на Assembly x86)
 ##### Интерпретаторы
 * [Shell](https://github.com/GorComComputing/Shell) (на C)
 * [Shell Arduino](https://github.com/GorComComputing/Shell_Arduino) (на C++)
-* [Basic512](https://github.com/GorComComputing/Basic512) (на Assembly)
+* [Basic512](https://github.com/GorComComputing/Basic512) (на Assembly x86)
 * [Basic TCP Arduino](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++)
 ##### Компиляторы
 * [Компилятор Oberon](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
