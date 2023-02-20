@@ -30,6 +30,7 @@
 * [Framework.js](https://github.com/GorComComputing/Framework.js) (на JavaScript)
 ##### Web back-end
 * [Web Server](https://github.com/GorComComputing/Web_Server) (на C)
+* [Чат TCP](https://github.com/GorComComputing/Chat_TCP) (на C)
 ##### Blockchain
 * [Blockchain](https://github.com/GorComComputing/Blockchain) (на Python)
 ##### Автоматизированное тестирование
