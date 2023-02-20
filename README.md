@@ -11,7 +11,7 @@
 ##### Виртуальные машины
 * [8 bit AON Computer](https://github.com/GorComComputing/8-bit-AON-Computer) (на JavaScript)
 ##### Операционные системы
-* [OS Doors32](https://github.com/GorComComputing/OS_Doors32) (на C & Assembly x86-64)
+* [OS Doors32](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly x86-64)
 * [OS Doors16](https://github.com/GorComComputing/OS_Doors16) (на Assembly x86)
 ##### Интерпретаторы
 * [Shell](https://github.com/GorComComputing/Shell) (на C)
