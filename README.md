@@ -16,14 +16,18 @@
 
 ## Список моих проектов
 
-##### Виртуальные машины и компиляторы
+##### Компиляторы и виртуальные машины
 * [8 bit AON Computer](https://github.com/GorComComputing/8-bit-AON-Computer) (на JavaScript)
 * [Компилятор Oberon](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
 * [Компилятор C](https://github.com/GorComComputing/C_Compiler) (на Delphi) - в разработке
 ##### Операционные системы
 * [OS Doors32](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly x86-64)
 * [OS Doors16](https://github.com/GorComComputing/OS_Doors16) (на Assembly x86)
-##### Интерпретаторы
+##### Компьютерная графика
+* [Оконный графический интерфейс](https://github.com/GorComComputing/GUI_Window) (на C)
+* [Графическая библиотека](https://github.com/GorComComputing/Graphics) (на C)
+* [Игра на Arduino](https://github.com/GorComComputing/Game_Arduino) (на C++)
+##### Командные интерпретаторы
 * [Shell](https://github.com/GorComComputing/Shell) (на C)
 * [Shell Arduino](https://github.com/GorComComputing/Shell_Arduino) (на C++)
 * [Basic512](https://github.com/GorComComputing/Basic512) (на Assembly x86)
@@ -31,10 +35,6 @@
 ##### Базы данных
 * [SQLite](https://github.com/GorComComputing/SQLite) (на C)
 * [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python) - в разработке
-##### Компьютерная графика
-* [Оконный графический интерфейс](https://github.com/GorComComputing/GUI_Window) (на C)
-* [Графическая библиотека](https://github.com/GorComComputing/Graphics) (на C)
-* [Игра на Arduino](https://github.com/GorComComputing/Game_Arduino) (на C++)
 ##### Web front-end
 * [Framework.js](https://github.com/GorComComputing/Framework.js) (на JavaScript)
 ##### Web back-end
