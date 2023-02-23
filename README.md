@@ -19,7 +19,7 @@
 ##### Виртуальные машины и компиляторы
 * [8 bit AON Computer](https://github.com/GorComComputing/8-bit-AON-Computer) (на JavaScript)
 * [Компилятор Oberon](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
-* [Компилятор C](https://github.com/GorComComputing/Oberon_Compiler) (на Delphi) - в разработке
+* [Компилятор C](https://github.com/GorComComputing/C_Compiler) (на Delphi) - в разработке
 ##### Операционные системы
 * [OS Doors32](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly x86-64)
 * [OS Doors16](https://github.com/GorComComputing/OS_Doors16) (на Assembly x86)
