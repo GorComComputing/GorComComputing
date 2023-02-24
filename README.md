@@ -28,10 +28,9 @@
 ##### Embedded
 * [Игра на микроконтроллере ATmega328](https://github.com/GorComComputing/Game_Arduino) (на C++)
 ##### Командные интерпретаторы
-* [Shell](https://github.com/GorComComputing/Shell) (на C)
-* [Shell для Arduino](https://github.com/GorComComputing/Shell_Arduino) (на C++)
+* [Shell для Linux](https://github.com/GorComComputing/Shell) (на C)
 * [Basic 512 байт (в загрузочный сектор)](https://github.com/GorComComputing/Basic512) (на Assembly x86)
-* [Basic для Arduino (TCP)](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++)
+* [Basic на микроконтроллере ATmega328](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++)
 ##### Базы данных
 * [СУБД SQLite](https://github.com/GorComComputing/SQLite) (на C)
 * [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python) - `в разработке` :clock10:
