@@ -17,9 +17,9 @@
 ## Список моих проектов
 
 ##### Компиляторы и виртуальные машины
-* [8 bit AON Computer](https://github.com/GorComComputing/8-bit-AON-Computer) (на JavaScript)
-* [Компилятор Oberon](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
-* [Компилятор C](https://github.com/GorComComputing/C_Compiler) (на Delphi) - в разработке
+* [Виртуальный процессор 8 bit AON Computer](https://github.com/GorComComputing/8-bit-AON-Computer) (на JavaScript)
+* [Компилятор языка Oberon](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
+* [Компилятор языка C](https://github.com/GorComComputing/C_Compiler) (на Delphi) - в разработке
 ##### Операционные системы
 * [OS Doors32](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly x86-64)
 * [OS Doors16](https://github.com/GorComComputing/OS_Doors16) (на Assembly x86)
@@ -29,18 +29,18 @@
 * [Игра на Arduino](https://github.com/GorComComputing/Game_Arduino) (на C++)
 ##### Командные интерпретаторы
 * [Shell](https://github.com/GorComComputing/Shell) (на C)
-* [Shell Arduino](https://github.com/GorComComputing/Shell_Arduino) (на C++)
-* [Basic512](https://github.com/GorComComputing/Basic512) (на Assembly x86)
-* [Basic TCP Arduino](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++)
+* [Shell для Arduino](https://github.com/GorComComputing/Shell_Arduino) (на C++)
+* [Basic 512 байт (в загрузочный сектор)](https://github.com/GorComComputing/Basic512) (на Assembly x86)
+* [Basic для Arduino (TCP)](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++)
 ##### Базы данных
-* [SQLite](https://github.com/GorComComputing/SQLite) (на C)
+* [СУБД SQLite](https://github.com/GorComComputing/SQLite) (на C)
 * [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python) - в разработке
 ##### Web front-end
 * [Framework.js](https://github.com/GorComComputing/Framework.js) (на JavaScript)
 ##### Web back-end
 * [Web Server](https://github.com/GorComComputing/Web_Server) (на C)
-* [Чат TCP](https://github.com/GorComComputing/Chat_TCP) (на C)
-* [Чат p2p](https://github.com/GorComComputing/p2p_chat) (на Python)
+* [Чат клиент-сервер (TCP)](https://github.com/GorComComputing/Chat_TCP) (на C)
+* [Чат p2p (TCP)](https://github.com/GorComComputing/p2p_chat) (на Python)
 ##### Blockchain
 * [Blockchain](https://github.com/GorComComputing/Blockchain) (на Python)
 ##### Автоматизированное тестирование
@@ -65,6 +65,7 @@
 - **C**/**C++**: STL, SFML, WinAPI, OpenGL
 - **Java**: 
 - [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Tkinter
+- **Delphi**: 
 
 ##### Web back-end:
 - **Java**: Tomcat, Spring, Hibernate, gRPC, Lombok, Swing, JSP
