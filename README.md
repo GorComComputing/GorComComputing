@@ -23,7 +23,7 @@
 * [Компилятор языка Oberon](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
 * [Компилятор языка C](https://github.com/GorComComputing/C_Compiler) (на Delphi) - `в разработке` :clock10:
 ##### Компьютерная графика
-* [Оконный графический интерфейс](https://github.com/GorComComputing/GUI_Window) (на C)
+* [Оконный графический интерфейс (для операционной системы)](https://github.com/GorComComputing/GUI_Window) (на C)
 * [Графическая библиотека](https://github.com/GorComComputing/Graphics) (на C)
 ##### Командные интерпретаторы
 * [Shell для Linux](https://github.com/GorComComputing/Shell) (на C)
