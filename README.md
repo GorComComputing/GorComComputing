@@ -16,16 +16,16 @@
 
 ## Список моих проектов
 
+##### Операционные системы
+* [Операционная система Doors 32-бит](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly x86-64)
 ##### Компиляторы и виртуальные машины
 * [Виртуальный процессор 8 bit AON Computer](https://github.com/GorComComputing/8-bit-AON-Computer) (на JavaScript)
 * [Компилятор языка Oberon](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
 * [Компилятор языка C](https://github.com/GorComComputing/C_Compiler) (на Delphi) - `в разработке` :clock10:
-##### Операционные системы
-* [OS Doors32](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly x86-64)
-* [OS Doors16](https://github.com/GorComComputing/OS_Doors16) (на Assembly x86)
 ##### Компьютерная графика
 * [Оконный графический интерфейс](https://github.com/GorComComputing/GUI_Window) (на C)
 * [Графическая библиотека](https://github.com/GorComComputing/Graphics) (на C)
+##### Embedded
 * [Игра на микроконтроллере ATmega328](https://github.com/GorComComputing/Game_Arduino) (на C++)
 ##### Командные интерпретаторы
 * [Shell](https://github.com/GorComComputing/Shell) (на C)
