@@ -19,7 +19,7 @@
 ##### Компиляторы и виртуальные машины
 * [Виртуальный процессор 8 bit AON Computer](https://github.com/GorComComputing/8-bit-AON-Computer) (на JavaScript)
 * [Компилятор языка Oberon](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
-* [Компилятор языка C](https://github.com/GorComComputing/C_Compiler) (на Delphi) - в разработке
+* [Компилятор языка C](https://github.com/GorComComputing/C_Compiler) (на Delphi) - в разработке :clock10:
 ##### Операционные системы
 * [OS Doors32](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly x86-64)
 * [OS Doors16](https://github.com/GorComComputing/OS_Doors16) (на Assembly x86)
@@ -34,7 +34,7 @@
 * [Basic для Arduino (TCP)](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++)
 ##### Базы данных
 * [СУБД SQLite](https://github.com/GorComComputing/SQLite) (на C)
-* [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python) - в разработке
+* [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python) - в разработке :clock10:
 ##### Web front-end
 * [Framework.js](https://github.com/GorComComputing/Framework.js) (на JavaScript)
 ##### Web back-end
@@ -46,9 +46,9 @@
 ##### Автоматизированное тестирование
 * [AutoTinder](https://github.com/GorComComputing/AutoTinder) (на Python)
 ##### Программная инжинирия
-* [Git](https://github.com/GorComComputing/Git) (на Python) - в разработке
+* [Git](https://github.com/GorComComputing/Git) (на Python) - в разработке :clock10:
 ##### Виртуализация
-* [Docker](https://github.com/GorComComputing/Docker) (на C) - в разработке
+* [Docker](https://github.com/GorComComputing/Docker) (на C) - в разработке :clock10:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3ohc157IyQlpWtqbug/giphy.gif" width="100"/>
