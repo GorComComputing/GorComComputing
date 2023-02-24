@@ -26,7 +26,7 @@
 ##### Компьютерная графика
 * [Оконный графический интерфейс](https://github.com/GorComComputing/GUI_Window) (на C)
 * [Графическая библиотека](https://github.com/GorComComputing/Graphics) (на C)
-* [Игра на Arduino](https://github.com/GorComComputing/Game_Arduino) (на C++)
+* [Игра на микроконтроллере ATmega328](https://github.com/GorComComputing/Game_Arduino) (на C++)
 ##### Командные интерпретаторы
 * [Shell](https://github.com/GorComComputing/Shell) (на C)
 * [Shell для Arduino](https://github.com/GorComComputing/Shell_Arduino) (на C++)
