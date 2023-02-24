@@ -25,15 +25,15 @@
 ##### Компьютерная графика
 * [Оконный графический интерфейс](https://github.com/GorComComputing/GUI_Window) (на C)
 * [Графическая библиотека](https://github.com/GorComComputing/Graphics) (на C)
-##### Embedded
-* [Игра на микроконтроллере ATmega328](https://github.com/GorComComputing/Game_Arduino) (на C++)
 ##### Командные интерпретаторы
 * [Shell для Linux](https://github.com/GorComComputing/Shell) (на C)
 * [Basic 512 байт (в загрузочный сектор)](https://github.com/GorComComputing/Basic512) (на Assembly x86)
-* [Basic на микроконтроллере ATmega328](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++)
 ##### Базы данных
 * [СУБД SQLite](https://github.com/GorComComputing/SQLite) (на C)
 * [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python) - `в разработке` :clock10:
+##### Embedded
+* [Игра на микроконтроллере ATmega328](https://github.com/GorComComputing/Game_Arduino) (на C++)
+* [Basic на микроконтроллере ATmega328](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++)
 ##### Web front-end
 * [Framework.js](https://github.com/GorComComputing/Framework.js) (на JavaScript)
 ##### Web back-end
