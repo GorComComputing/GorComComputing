@@ -43,7 +43,7 @@
 ##### Blockchain
 * [Blockchain](https://github.com/GorComComputing/Blockchain) (на Python)
 ##### Автоматизированное тестирование
-* [AutoTinder](https://github.com/GorComComputing/AutoTinder) (на Python)
+* [Бот для Tinder](https://github.com/GorComComputing/AutoTinder) (на Python)
 ##### Программная инжинирия
 * [Git](https://github.com/GorComComputing/Git) (на Python) - `в разработке` :clock10:
 ##### Виртуализация
