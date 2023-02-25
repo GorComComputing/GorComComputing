@@ -18,12 +18,12 @@
 
 ##### Операционные системы
 * [Операционная система Doors 32-бит](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly x86-64)
+* [Оконный графический интерфейс (для операционной системы)](https://github.com/GorComComputing/GUI_Window) (на C)
 ##### Компиляторы и виртуальные машины
 * [Виртуальный процессор 8-bit-AON](https://github.com/GorComComputing/8-bit-AON-Computer) (на JavaScript)
-* [Компилятор языка Oberon](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
-* [Компилятор языка C](https://github.com/GorComComputing/C_Compiler) (на Delphi)
+* [Компилятор языка Oberon для стековой виртуальной машины](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
+* [Компилятор языка C для процессора 8-bit-AON](https://github.com/GorComComputing/C_Compiler) (на Delphi)
 ##### Компьютерная графика
-* [Оконный графический интерфейс (для операционной системы)](https://github.com/GorComComputing/GUI_Window) (на C)
 * [Графическая библиотека](https://github.com/GorComComputing/Graphics) (на C)
 ##### Командные интерпретаторы
 * [Shell для Linux](https://github.com/GorComComputing/Shell) (на C)
