@@ -22,7 +22,7 @@
 ##### Компиляторы и виртуальные машины
 * [Компилятор и ассемблер для процессора 8-bit-AON](https://github.com/GorComComputing/C_Compiler) (на Delphi)
 * [Виртуальный процессор 8-bit-AON](https://github.com/GorComComputing/8-bit-AON-Computer) (на JavaScript)
-* [Компилятор языка Oberon для стековой виртуальной машины](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
+* [Компилятор языка Oberon для стековой виртуальной машины OVM](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
 ##### Компьютерная графика
 * [Графическая библиотека](https://github.com/GorComComputing/Graphics) (на C)
 ##### Командные интерпретаторы
