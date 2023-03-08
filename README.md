@@ -69,7 +69,7 @@
 ##### Web back-end:
 - **Java**: Tomcat, Spring, Hibernate, gRPC, Lombok, Swing, JSP
 - **Python**: Django, Flask
-- **PHP**: Laravel, Yii, Modx, Bitrix
+- **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 - **Ruby**: Ruby on Rails
 - **Node.js**: Express.js
 
@@ -99,6 +99,9 @@
 - **Yandex.Cloud**: Terraform, Ansible
 - **Hypervisor**: ESXi, mRemoteNG
 - **Контейнеры**: Docker, Kubernetes
+
+##### 1С:
+- **1C:Предприятие**:
 
 
 
