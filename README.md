@@ -103,8 +103,8 @@
 - **Hypervisor**: ESXi, mRemoteNG
 - **Контейнеры**: Docker, Kubernetes
 
-##### 1С:
-- **1C:Предприятие**:
+##### 1С:Предприятие:
+
 
 
 
