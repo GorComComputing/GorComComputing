@@ -49,7 +49,7 @@
 ##### Виртуализация
 * [Docker](https://github.com/GorComComputing/Docker) (на C) - `в разработке` :clock10:
 ##### 1С:Предприятите
-* [1С:Дневник](https://github.com/GorComComputing/1C_Diary) (на 1С:Предприятие)
+* [1С:Дневник](https://github.com/GorComComputing/1C_Diary) (на 1С)
 
 
 <div id="header" align="center">
