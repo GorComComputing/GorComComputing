@@ -48,6 +48,9 @@
 * [Git](https://github.com/GorComComputing/Git) (на Python) - `в разработке` :clock10:
 ##### Виртуализация
 * [Docker](https://github.com/GorComComputing/Docker) (на C) - `в разработке` :clock10:
+##### 1С:Предприятите
+* [1С:Дневник](https://github.com/GorComComputing/1C_Diary) (на 1С:Предприятие)
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3ohc157IyQlpWtqbug/giphy.gif" width="100"/>
