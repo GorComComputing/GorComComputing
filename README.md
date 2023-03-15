@@ -95,7 +95,7 @@
 ##### Автоматизированное тестирование:
 - **Java**: JUnit
 - **Python**: [Selenium](https://github.com/GorComComputing/AutoTinder)
-- **Ruby**: RSpec
+- **Ruby**: [RSpec](https://github.com/GorComComputing/SQLite)
 
 ##### Облачные архитектуры:
 - **Yandex.Cloud**: Terraform, Ansible
