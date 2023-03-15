@@ -99,8 +99,7 @@
 - **PM**: RUP, PMI, SCRUM, Kanban
 
 ##### Облачные архитектуры:
-- **Yandex.Cloud**: Terraform, Ansible
-<!-- - **Hypervisor**: ESXi, mRemoteNG -->
+- **Yandex.Cloud**: Terraform, Ansible <!-- - **Hypervisor**: ESXi, mRemoteNG -->
 - **Контейнеры**: Docker, Kubernetes
 
 ##### [1С:Предприятие](https://github.com/GorComComputing/1C_Diary)
