@@ -75,26 +75,28 @@
 <!-- - **Node.js**: Express.js -->
 
 ##### Web front-end:
-- [**JavaScript**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=javascript&sort=): React, Angular, JQuery <!-- Vue.js -->
-<!-- - **TypeScript** -->
+- [**JavaScript**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=javascript&sort=): React, Angular, JQuery <!-- Vue.js --> <!-- - **TypeScript** -->
 - [**HTML** & **CSS**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=html&sort=): Bootstrap
 
 ##### Базы данных:
 - **SQL**: MySQL, PostgreSQL, [SQLite](https://github.com/GorComComputing/SQLite)
 - **NoSQL**: MongoDB, Redis 
 
-##### Программный инжиниринг:
-- **ОС**: Linux, Windows <!--, Unix -->
-- **CLI**: Bash, Cmd, PowerShell
-- **Контроль версий**: [Git](https://github.com/GorComComputing/Git) и GitHub <!-- , SVN -->
-- **Сборка**: Make, Ant+Ivy, Maven <!--, Gradle -->, Jenkins
-- **Архитектура**: UML, Archimate, BPMN
-- **PM**: RUP, PMI, SCRUM, Kanban
+##### Системы сборки:
+- **C**: Make
+- **Java**: Maven, <!-- Ant+Ivy, Gradle, Jenkins -->
 
 ##### Автоматизированное тестирование:
 - **Java**: JUnit
 - **Python**: [Selenium](https://github.com/GorComComputing/AutoTinder)
 - **Ruby**: [RSpec](https://github.com/GorComComputing/SQLite)
+
+##### Программный инжиниринг:
+- **ОС**: Linux, Windows <!--, Unix -->
+- **CLI**: Bash, Cmd, PowerShell
+- **Контроль версий**: [Git](https://github.com/GorComComputing/Git) и GitHub <!-- , SVN -->
+- **Архитектура**: UML, Archimate, BPMN
+- **PM**: RUP, PMI, SCRUM, Kanban
 
 ##### Облачные архитектуры:
 - **Yandex.Cloud**: Terraform, Ansible
