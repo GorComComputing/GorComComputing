@@ -66,7 +66,7 @@
 ##### Desktop:
 - **C**/**C++**: STL, SFML, WinAPI, OpenGL
 - [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Tkinter
-- [**Delphi**](https://github.com/GorComComputing/C_Compiler): 
+- [**Delphi**](https://github.com/GorComComputing/C_Compiler) 
 
 ##### Web back-end:
 - **Java**: Spring, Hibernate, Tomcat, gRPC, Lombok
@@ -102,7 +102,7 @@
 - **Hypervisor**: ESXi, mRemoteNG
 - **Контейнеры**: Docker, Kubernetes
 
-##### [1С:Предприятие](https://github.com/GorComComputing/1C_Diary):
+##### [1С:Предприятие](https://github.com/GorComComputing/1C_Diary)
 
 
 
