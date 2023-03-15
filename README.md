@@ -62,22 +62,21 @@
 - [**C**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=)/**C++**: [Arduino](https://github.com/stars/GorComComputing/lists/embedded), ESP, STM
 - **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR
 
-
 ##### Desktop:
 - **C**/**C++**: STL, SFML, WinAPI, OpenGL
 - [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Tkinter
 - [**Delphi**](https://github.com/GorComComputing/C_Compiler) 
 
-##### Web back-end:
-- **Java**: Spring, Hibernate, Tomcat, gRPC, Lombok
+##### Back-end:
+- **Java**: Spring, Hibernate, Tomcat, gRPC <!--, Lombok-->
 - **Python**: Django, Flask
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
-- **Ruby**: Ruby on Rails
-- **Node.js**: Express.js
+<!-- - **Ruby**: Ruby on Rails-->
+<!-- - **Node.js**: Express.js -->
 
 ##### Web front-end:
-- [**JavaScript**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=javascript&sort=): React, Vue.js, Angular, JQuery
-- **TypeScript**
+- [**JavaScript**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=javascript&sort=): React, Angular, JQuery <!-- Vue.js -->
+<!-- - **TypeScript** -->
 - [**HTML** & **CSS**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=html&sort=): Bootstrap
 
 ##### Базы данных:
@@ -85,10 +84,10 @@
 - **NoSQL**: MongoDB, Redis 
 
 ##### Программный инжиниринг:
-- **ОС**: Linux, Windows, Unix
-- **CLI**: Bash, PowerShell
-- **Контроль версий**: [Git](https://github.com/GorComComputing/Git) и GitHub, SVN
-- **Сборка**: Make, Ant+Ivy, Maven, Gradle, Jenkins
+- **ОС**: Linux, Windows <!--, Unix -->
+- **CLI**: Bash, Cmd, PowerShell
+- **Контроль версий**: [Git](https://github.com/GorComComputing/Git) и GitHub <!-- , SVN -->
+- **Сборка**: Make, Ant+Ivy, Maven <!--, Gradle -->, Jenkins
 - **Архитектура**: UML, Archimate, BPMN
 - **PM**: RUP, PMI, SCRUM, Kanban
 
@@ -99,7 +98,7 @@
 
 ##### Облачные архитектуры:
 - **Yandex.Cloud**: Terraform, Ansible
-- **Hypervisor**: ESXi, mRemoteNG
+<!-- - **Hypervisor**: ESXi, mRemoteNG -->
 - **Контейнеры**: Docker, Kubernetes
 
 ##### [1С:Предприятие](https://github.com/GorComComputing/1C_Diary)
