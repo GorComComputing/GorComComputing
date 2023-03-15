@@ -84,7 +84,7 @@
 
 ##### Системы сборки:
 - **C**: Make
-- **Java**: Maven, <!-- Ant+Ivy, Gradle, Jenkins -->
+- **Java**: Maven <!-- , Ant+Ivy, Gradle, Jenkins -->
 
 ##### Автоматизированное тестирование:
 - **Java**: JUnit
