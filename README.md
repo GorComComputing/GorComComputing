@@ -65,12 +65,11 @@
 
 ##### Desktop:
 - **C**/**C++**: STL, SFML, WinAPI, OpenGL
-- **Java**: 
 - [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Tkinter
 - **Delphi**: 
 
 ##### Web back-end:
-- **Java**: Tomcat, Spring, Hibernate, gRPC, Lombok, Swing, JSP
+- **Java**: Spring, Hibernate, Tomcat, gRPC, Lombok
 - **Python**: Django, Flask
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 - **Ruby**: Ruby on Rails
