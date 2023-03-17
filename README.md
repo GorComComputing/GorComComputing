@@ -68,7 +68,7 @@
 - [**Delphi**](https://github.com/GorComComputing/C_Compiler) 
 
 ##### Back-end:
-- **Java**: Spring, Hibernate, Tomcat, JDBC, gRPC <!--, Lombok-->
+- **Java**: Spring, Hibernate, JDBC, Tomcat <!--, gRPC , Lombok-->
 - **Python**: Django, Flask
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 <!-- - **Ruby**: Ruby on Rails-->
