@@ -51,7 +51,7 @@
 ##### 1С:Предприятите
 * [1С:Дневник](https://github.com/GorComComputing/1C_Diary) (на 1С)
 ##### Мобильные приложения
-* [Игра Driver](https://github.com/GorComComputing/Driver_J2ME) (на Java ME) - `написана в 2007 году` :calendar:
+* [Мобильная игра Driver](https://github.com/GorComComputing/Driver_J2ME) (на Java ME) - `написана в 2007 году` :calendar:
 
 
 
@@ -66,12 +66,12 @@
 - **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR
 
 ##### Desktop:
-- **C**/**C++**: STL, SFML, WinAPI, OpenGL
+- **C**/**C++**: STL, SFML, WinAPI, OpenGL, C++ Builder
 - [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Tkinter
 - [**Delphi**](https://github.com/GorComComputing/C_Compiler) 
 
 ##### Back-end:
-- **Java**: Spring, Hibernate, JDBC, Tomcat <!--, gRPC , Lombok-->
+- **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL <!--, gRPC , Lombok-->
 - **Python**: Django, Flask
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 <!-- - **Ruby**: Ruby on Rails-->
@@ -99,7 +99,7 @@
 - **CLI**: Bash, Cmd, PowerShell
 - **Контроль версий**: [Git](https://github.com/GorComComputing/Git) и GitHub <!-- , SVN -->
 - **Архитектура**: UML, Archimate, BPMN
-- **PM**: RUP, PMI, SCRUM, Kanban
+- **Управление проектами**: RUP, PMI, SCRUM, Kanban
 
 ##### Облачные архитектуры:
 - **Yandex.Cloud**: Terraform, Ansible <!-- - **Hypervisor**: ESXi, mRemoteNG -->
