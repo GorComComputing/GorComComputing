@@ -67,7 +67,7 @@
 
 ##### Desktop:
 - **C**/**C++**: STL, SFML, WinAPI, OpenGL, C++ Builder
-- [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Tkinter
+- [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Qt, GTK, Tkinter
 - [**Delphi**](https://github.com/GorComComputing/C_Compiler) 
 
 ##### Back-end:
