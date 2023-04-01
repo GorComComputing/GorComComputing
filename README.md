@@ -38,6 +38,7 @@
 * [Framework.js](https://github.com/GorComComputing/Framework.js) (на JavaScript)
 ##### Web back-end
 * [Web Server](https://github.com/GorComComputing/Web_Server) (на C)
+* [Сайт по электронике]() (на Python Django) - `в разработке` :clock10:
 ##### Сети
 * [Чат клиент-сервер (TCP)](https://github.com/GorComComputing/Chat_TCP) (на C)
 * [Чат p2p (TCP)](https://github.com/GorComComputing/p2p_chat) (на Python)
