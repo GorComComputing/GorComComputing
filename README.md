@@ -38,6 +38,7 @@
 * [Framework.js](https://github.com/GorComComputing/Framework.js) (на JavaScript)
 ##### Web back-end
 * [Web Server](https://github.com/GorComComputing/Web_Server) (на C)
+##### Сети
 * [Чат клиент-сервер (TCP)](https://github.com/GorComComputing/Chat_TCP) (на C)
 * [Чат p2p (TCP)](https://github.com/GorComComputing/p2p_chat) (на Python)
 ##### Blockchain
@@ -66,11 +67,11 @@
 - **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR
 
 ##### Desktop:
-- **C**/**C++**: STL, SFML, WinAPI, OpenGL, C++ Builder
+- **C**/**C++**: STL, SFML, WinAPI, OpenGL, Qt, C++ Builder
 - [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Qt, GTK, Tkinter
 - [**Delphi**](https://github.com/GorComComputing/C_Compiler) 
 
-##### Back-end:
+##### Web back-end:
 - **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL <!--, gRPC , Lombok-->
 - **Python**: Django, Flask
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
