@@ -80,7 +80,7 @@
 <!-- - **Node.js**: Express.js -->
 
 ##### Web front-end:
-- [**JavaScript**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=javascript&sort=): React, Angular, JQuery <!-- Vue.js --> <!-- - **TypeScript** -->
+- [**JavaScript**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=javascript&sort=): React, Angular, JQuery, Web Assembly <!-- Vue.js --> <!-- - **TypeScript** -->
 - [**HTML** & **CSS**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=html&sort=): Bootstrap
 
 ##### Базы данных:
