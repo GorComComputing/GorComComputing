@@ -55,6 +55,8 @@
 * [1С:Дневник](https://github.com/GorComComputing/1C_Diary) (на 1С)
 ##### Мобильные приложения
 * [Мобильная игра Driver](https://github.com/GorComComputing/Driver_J2ME) (на Java ME) - `написана в 2007 году` :calendar:
+##### Алгоритмы и структуры данных
+* [Алгоритмы и структуры данных](https://github.com/GorComComputing/Algorithms) (на C++)
 
 
 
