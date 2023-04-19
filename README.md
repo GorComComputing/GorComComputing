@@ -71,7 +71,7 @@
 - **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR
 
 ##### Desktop:
-- **C**/**C++**: STL, WinAPI, POSIX, SFML, OpenGL, Qt, FLTK, wxWidgets, GTK, C++ Builder
+- **C**/**C++**: STL, WinAPI, POSIX, SFML, OpenGL, SDL, Qt, FLTK, wxWidgets, GTK, C++ Builder
 - [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Qt, GTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL) 
 - [**Pascal**](https://github.com/GorComComputing/C_Compiler): Delphi, Free Pascal 
 
@@ -91,7 +91,7 @@
 - **NoSQL**: MongoDB, Redis 
 
 ##### Системы сборки:
-- **C**: Make <!-- , CMake -->
+- **C**: Make, CMake
 - **Java**: Maven <!-- , Ant+Ivy, Gradle, Jenkins -->
 
 ##### Автоматизированное тестирование:
