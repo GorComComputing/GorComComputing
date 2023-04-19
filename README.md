@@ -73,7 +73,7 @@
 ##### Desktop:
 - **C**/**C++**: STL, WinAPI, POSIX, SFML, OpenGL, Qt, FLTK, wxWidgets, GTK, C++ Builder
 - [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Qt, GTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL) 
-- [**Delphi**](https://github.com/GorComComputing/C_Compiler) 
+- [**Pascal**](https://github.com/GorComComputing/C_Compiler): Delphi, Free Pascal 
 
 ##### Web back-end:
 - **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL <!--, gRPC , Lombok-->
