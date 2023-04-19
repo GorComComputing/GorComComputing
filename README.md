@@ -91,7 +91,7 @@
 - **NoSQL**: MongoDB, Redis 
 
 ##### Системы сборки:
-- **C/C++**: Make, CMake
+- **C**/**C++**: Make, CMake
 - **Java**: Maven <!-- , Ant+Ivy, Gradle, Jenkins -->
 
 ##### Автоматизированное тестирование:
