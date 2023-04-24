@@ -20,7 +20,7 @@
 * [Операционная система Doors 32-бит](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly x86-64)
 * [Оконный графический интерфейс (для операционной системы Doors)](https://github.com/GorComComputing/GUI_Window) (на C)
 ##### Компиляторы и виртуальные машины
-* [Компилятор и ассемблер для процессора 8-bit-AON](https://github.com/GorComComputing/C_Compiler) (на Delphi)
+* [Компилятор и ассемблер для процессора 8-bit-AON](https://github.com/GorComComputing/C_Compiler) (на Pascal в Delphi)
 * [Виртуальный процессор 8-bit-AON](https://github.com/GorComComputing/8-bit-AON-Computer) (на JavaScript)
 * [Компилятор языка Oberon для стековой виртуальной машины OVM](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
 ##### Компьютерная графика
