@@ -85,6 +85,7 @@
 ##### Web front-end:
 - [**JavaScript**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=javascript&sort=): React, Angular, JQuery, Web Assembly <!-- Vue.js --> <!-- - **TypeScript** -->
 - [**HTML** & **CSS**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=html&sort=): Bootstrap
+- **C**/**C++**: WebAssembly
 
 ##### Базы данных:
 - **SQL**: MySQL, PostgreSQL, [SQLite](https://github.com/GorComComputing/SQLite)
