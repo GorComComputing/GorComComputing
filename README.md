@@ -32,6 +32,7 @@
 ##### Базы данных
 * [СУБД SQLite](https://github.com/GorComComputing/SQLite) (на C)
 * [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python) - `в разработке` :clock10:
+* [Библиотека абстрактных типов данных](https://github.com/GorComComputing/Algorithms) (на C++)
 ##### Embedded
 * [Игра на микроконтроллере ATmega328](https://github.com/GorComComputing/Game_Arduino) (на C++)
 * [Basic на микроконтроллере ATmega328](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++)
@@ -56,8 +57,6 @@
 * [1С:Дневник](https://github.com/GorComComputing/1C_Diary) (на 1С)
 ##### Мобильные приложения
 * [Мобильная игра Driver](https://github.com/GorComComputing/Driver_J2ME) (на Java ME) - `написана в 2007 году` :calendar:
-##### Алгоритмы и структуры данных
-* [Алгоритмы и структуры данных](https://github.com/GorComComputing/Algorithms) (на C++)
 
 
 
