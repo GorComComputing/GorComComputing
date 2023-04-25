@@ -101,7 +101,7 @@
 - **Ruby**: [RSpec](https://github.com/GorComComputing/SQLite)
 
 ##### Программный инжиниринг:
-- **ОС**: Linux, Windows <!--, Unix -->
+- **ОС**: Windows, Linux, FreeBSD <!--, Unix -->
 - **CLI**: Bash, Cmd, PowerShell
 - **Контроль версий**: [Git](https://github.com/GorComComputing/Git) и GitHub <!-- , SVN -->
 - **Архитектура**: UML, Archimate, BPMN
