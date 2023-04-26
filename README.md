@@ -70,7 +70,7 @@
 - **C** & **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR
 - [**C++**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=): [ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32
 
-##### Desktop (Linux, Windows):
+##### Desktop (Windows, Linux, FreeBSD):
 - **C**/**C++**: STL, WinAPI, POSIX, SFML, OpenGL, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder
 - [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL) 
 - [**Delphi**](https://github.com/GorComComputing/C_Compiler)
@@ -101,7 +101,7 @@
 - **Ruby**: [RSpec](https://github.com/GorComComputing/SQLite)
 
 ##### Программный инжиниринг:
-- **ОС**: Windows, Linux, FreeBSD <!--, Unix -->
+<!-- - **ОС**: Windows, Linux, FreeBSD --> <!--, Unix -->
 - **CLI**: Bash, Cmd, PowerShell
 - **Контроль версий**: [Git](https://github.com/GorComComputing/Git) и GitHub <!-- , SVN -->
 - **Архитектура**: UML, BPMN, Archimate
