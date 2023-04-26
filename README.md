@@ -68,7 +68,7 @@
 ## Технологии, которые используются в проектах:
 ##### Embedded:
 - **C** & **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR
-- [**C++**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=): [ATmega](https://github.com/stars/GorComComputing/lists/embedded), ESP, STM
+- [**C++**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=): [ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32
 
 ##### Desktop (Linux, Windows):
 - **C**/**C++**: STL, WinAPI, POSIX, SFML, OpenGL, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder
@@ -104,14 +104,13 @@
 - **ОС**: Windows, Linux, FreeBSD <!--, Unix -->
 - **CLI**: Bash, Cmd, PowerShell
 - **Контроль версий**: [Git](https://github.com/GorComComputing/Git) и GitHub <!-- , SVN -->
-- **Архитектура**: UML, Archimate, BPMN
-- **Управление проектами**: RUP, PMI, SCRUM, Kanban
+- **Архитектура**: UML, BPMN, Archimate
+ <!-- - **Управление проектами**: RUP, PMI, SCRUM, Kanban -->
 
 ##### Облачные архитектуры:
 - **Yandex.Cloud**: Terraform, Ansible <!-- - **Hypervisor**: ESXi, mRemoteNG -->
 - **Контейнеры**: Docker, Kubernetes
 
-##### [1С:Предприятие](https://github.com/GorComComputing/1C_Diary)
 
 
 
