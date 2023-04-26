@@ -100,12 +100,12 @@
 - **Python**: [Selenium](https://github.com/GorComComputing/AutoTinder)
 - **Ruby**: [RSpec](https://github.com/GorComComputing/SQLite)
 
-<!-- ##### Программный инжиниринг:
+<!-- ##### Программный инжиниринг: -->
 <!-- - **ОС**: Windows, Linux, FreeBSD --> <!--, Unix -->
-- **CLI**: Bash, Cmd, PowerShell
-- **Контроль версий**: [Git](https://github.com/GorComComputing/Git) и GitHub <!-- , SVN -->
-- **Архитектура**: UML, BPMN, Archimate
- <!-- - **Управление проектами**: RUP, PMI, SCRUM, Kanban --> -->
+<!-- - **CLI**: Bash, Cmd, PowerShell
+- **Контроль версий**: [Git](https://github.com/GorComComputing/Git) и GitHub --> <!-- , SVN -->
+<!-- - **Архитектура**: UML, BPMN, Archimate -->
+ <!-- - **Управление проектами**: RUP, PMI, SCRUM, Kanban --> 
 
 ##### Облачные архитектуры:
 - **Yandex.Cloud**: Terraform, Ansible <!-- - **Hypervisor**: ESXi, mRemoteNG -->
