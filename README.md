@@ -65,7 +65,7 @@
 </div>
 
 
-## Технологии, которые используются в проектах:
+## Технологии, используемые в проектах:
 ##### Embedded:
 - **C** & **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR
 - [**C++**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=): [ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32
