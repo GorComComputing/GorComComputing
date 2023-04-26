@@ -17,10 +17,10 @@
 ## Список моих проектов
 
 ##### Операционные системы
-* [Операционная система Doors 32-бит](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly x86-64)
+* [Операционная система Doors 32-бит](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly i386)
 * [Оконный графический интерфейс (для операционной системы Doors)](https://github.com/GorComComputing/GUI_Window) (на C)
 ##### Компиляторы и виртуальные машины
-* [Компилятор и ассемблер для процессора 8-bit-AON](https://github.com/GorComComputing/C_Compiler) (на Pascal в Delphi)
+* [Компилятор и ассемблер для процессора 8-bit-AON](https://github.com/GorComComputing/C_Compiler) (в Delphi XE 10.3)
 * [Виртуальный процессор 8-bit-AON](https://github.com/GorComComputing/8-bit-AON-Computer) (на JavaScript)
 * [Компилятор языка Oberon для стековой виртуальной машины OVM](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
 ##### Компьютерная графика
@@ -34,13 +34,13 @@
 * [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python) - `в разработке` :clock10:
 * [Библиотека абстрактных типов данных](https://github.com/GorComComputing/Algorithms) (на C++)
 ##### Embedded
-* [Игра на микроконтроллере ATmega328](https://github.com/GorComComputing/Game_Arduino) (на C++)
-* [Basic на микроконтроллере ATmega328](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++)
+* [Игра на микроконтроллере ATmega328](https://github.com/GorComComputing/Game_Arduino) (на C++ Arduino)
+* [Basic на микроконтроллере ATmega328](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++ Arduino)
 ##### Web front-end
 * [Framework.js](https://github.com/GorComComputing/Framework.js) (на JavaScript)
 ##### Web back-end
 * [Web Server](https://github.com/GorComComputing/Web_Server) (на C)
-* [Web Server (Сайт на Ассемблере)](https://github.com/GorComComputing/Site_on_Asm) (на Assembly x86)
+* [Web Server (Сайт на Ассемблере)](https://github.com/GorComComputing/Site_on_Asm) (на Assembly i386)
 * [Сайт по электронике]() (на Python Django) - `в разработке` :clock10:
 ##### Сети
 * [Чат клиент-сервер (TCP)](https://github.com/GorComComputing/Chat_TCP) (на C)
