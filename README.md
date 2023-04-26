@@ -53,8 +53,8 @@
 * [Git](https://github.com/GorComComputing/Git) (на Python) - `в разработке` :clock10:
 ##### Виртуализация
 * [Docker](https://github.com/GorComComputing/Docker) (на C) - `в разработке` :clock10:
-##### 1С:Предприятите
-* [1С:Дневник](https://github.com/GorComComputing/1C_Diary) (на 1С)
+##### 1С:Предприятие
+* [1С:Дневник](https://github.com/GorComComputing/1C_Diary) (в 1С:Предприятие 8.3)
 ##### Мобильные приложения
 * [Мобильная игра Driver](https://github.com/GorComComputing/Driver_J2ME) (на Java ME) - `написана в 2007 году` :calendar:
 
