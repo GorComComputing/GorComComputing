@@ -67,13 +67,13 @@
 
 ## Технологии, которые используются в проектах:
 ##### Embedded:
-- [**C**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=)/**C++**: [Arduino](https://github.com/stars/GorComComputing/lists/embedded), ESP, STM
-- **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR
+- **C** & **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR
+- [**C++**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=): [Arduino](https://github.com/stars/GorComComputing/lists/embedded), ESP, STM
 
-##### Desktop:
+##### Desktop (Linux, Windows):
 - **C**/**C++**: STL, WinAPI, POSIX, SFML, OpenGL, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder
 - [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL) 
-- [**Pascal**](https://github.com/GorComComputing/C_Compiler): Delphi, Free Pascal 
+- [**Delphi**](https://github.com/GorComComputing/C_Compiler)
 
 ##### Web back-end:
 - **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL <!--, gRPC , Lombok-->
@@ -85,7 +85,7 @@
 ##### Web front-end:
 - [**JavaScript**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=javascript&sort=): React, Angular, JQuery <!-- Vue.js --> <!-- - **TypeScript** -->
 - [**HTML** & **CSS**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=html&sort=): Bootstrap
-- **C**/**C++**: WebAssembly
+- **C++**: WebAssembly
 
 ##### Базы данных:
 - **SQL**: MySQL, PostgreSQL, [SQLite](https://github.com/GorComComputing/SQLite)
