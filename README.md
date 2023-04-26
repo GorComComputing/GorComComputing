@@ -91,9 +91,9 @@
 - **SQL**: MySQL, PostgreSQL, [SQLite](https://github.com/GorComComputing/SQLite)
 - **NoSQL**: MongoDB, Redis 
 
-##### Системы сборки:
+<!-- ##### Системы сборки:
 - **C**/**C++**: Make, CMake
-- **Java**: Maven <!-- , Ant+Ivy, Gradle, Jenkins -->
+- **Java**: Maven --> <!-- , Ant+Ivy, Gradle, Jenkins -->
 
 ##### Автоматизированное тестирование:
 - **Java**: JUnit
@@ -107,9 +107,9 @@
 <!-- - **Архитектура**: UML, BPMN, Archimate -->
  <!-- - **Управление проектами**: RUP, PMI, SCRUM, Kanban --> 
 
-##### Облачные архитектуры:
-- **Yandex.Cloud**: Terraform, Ansible <!-- - **Hypervisor**: ESXi, mRemoteNG -->
-- **Контейнеры**: Docker, Kubernetes
+<!-- ##### Облачные архитектуры:
+- **Yandex.Cloud**: Terraform, Ansible --> <!-- - **Hypervisor**: ESXi, mRemoteNG -->
+<!-- - **Контейнеры**: Docker, Kubernetes -->
 
 
 
