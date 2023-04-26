@@ -126,6 +126,6 @@
 
 ### Мои контакты
 Евгений Горячев  
-[![](https://img.shields.io/badge/Telegram-Account-informational?style=flat&logo=telegram&logoColor=white&color=31a2db)](https://t.me/extendedsuperbass)<br/>
-<a href="mailto:gorcom2012@gmail.com">![](https://img.shields.io/badge/Gmail-Address-informational?style=flat&logo=gmail&logoColor=white&color=e04a3e)</a>
+[![](https://img.shields.io/badge/Telegram-Account2-informational?style=flat&logo=telegram&logoColor=white&color=31a2db)](https://t.me/extendedsuperbass)<br/>
+<a href="mailto:gorcom2012@gmail.com">![](https://img.shields.io/badge/Gmail-Address2-informational?style=flat&logo=gmail&logoColor=white&color=e04a3e)</a>
 
