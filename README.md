@@ -31,7 +31,6 @@
 * [Basic 512 байт (в загрузочный сектор)](https://github.com/GorComComputing/Basic512) (на Assembly x86)
 ##### Базы данных
 * [СУБД SQLite](https://github.com/GorComComputing/SQLite) (на C)
-* [NoSQL](https://github.com/GorComComputing/NoSQL) (на Python) - `в разработке` :clock10:
 * [Библиотека абстрактных типов данных](https://github.com/GorComComputing/Algorithms) (на C++)
 ##### Embedded
 * [Игра на микроконтроллере ATmega328](https://github.com/GorComComputing/Game_Arduino) (на C++ Arduino)
