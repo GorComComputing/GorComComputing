@@ -71,7 +71,7 @@
 - [**C++**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=): [ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32
 
 ##### Desktop (Windows, Linux, FreeBSD):
-- **C**/**C++**: STL, WinAPI, POSIX, SFML, OpenGL, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder
+- **C++**: STL, WinAPI, POSIX, SFML, OpenGL, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder
 - [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL) 
 - [**Delphi**](https://github.com/GorComComputing/C_Compiler)
 
