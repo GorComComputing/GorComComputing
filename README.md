@@ -68,7 +68,7 @@
 ## Технологии, которые используются в проектах:
 ##### Embedded:
 - **C** & **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR
-- [**C++**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=): [Arduino](https://github.com/stars/GorComComputing/lists/embedded), ESP, STM
+- [**C++**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=): [ATmega](https://github.com/stars/GorComComputing/lists/embedded), ESP, STM
 
 ##### Desktop (Linux, Windows):
 - **C**/**C++**: STL, WinAPI, POSIX, SFML, OpenGL, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder
