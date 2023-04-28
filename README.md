@@ -14,7 +14,9 @@
 Многое из этого я уже сделал. Многое предстоит. На вопрос: зачем мне это? - отвечу словами физика нобелевского лауреата создателя атомной бомбы:smiley::  
 > *Что я не могу создать, я не понимаю (с) Ричард Фейнман*
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2YzYmEwNjk5NGVlNjY4ZjRmNDQ4YmZkNTExMzE5ZjY5YzQ3YjM4NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oEjHGJE2H5KMDjyj6/giphy.gif" width="100"/>
+</div>
 
 ## Операционная система Doors
 ##### Ядро
