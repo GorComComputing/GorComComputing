@@ -111,13 +111,13 @@
 [**<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="25" height="25"/></span>**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=) [ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32
 
 ##### Desktop (Windows, Linux<!--, FreeBSD -->):
-**<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="25" height="25"/></span>**: STL, WinAPI, POSIX, SFML, OpenGL, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder
-[**<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="25" height="25"/></span>**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL)  
+**<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="25" height="25"/></span>** STL, WinAPI, POSIX, SFML, OpenGL, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder  
+[**<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="25" height="25"/></span>**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=) Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL)  
 - [**Delphi**](https://github.com/GorComComputing/C_Compiler)
 
 ##### Web back-end:
-- **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL <!--, gRPC , Lombok-->
-- **Python**: Django, Flask
+- **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL <!--, gRPC , Lombok-->  
+**<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="25" height="25"/></span>** Django, Flask  
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 <!-- - **Ruby**: Ruby on Rails-->
 <!-- - **Node.js**: Express.js -->
@@ -136,8 +136,8 @@
 - **Java**: Maven --> <!-- , Ant+Ivy, Gradle, Jenkins -->
 
 ##### Автоматизированное тестирование:
-- **Java**: JUnit
-- **Python**: [Selenium](https://github.com/GorComComputing/AutoTinder)
+- **Java**: JUnit  
+**<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="25" height="25"/></span>** [Selenium](https://github.com/GorComComputing/AutoTinder)  
 - **Ruby**: [RSpec](https://github.com/GorComComputing/SQLite)
 
 <!-- ##### Программный инжиниринг: -->
