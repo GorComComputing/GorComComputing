@@ -110,8 +110,8 @@
 </div>
 
 ##### Embedded:
-- **<span id="header">C<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="20" height="20"/></span>** & **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR
-- [**C++**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=): [ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32
+- **<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="20" height="20"/></span>** & **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR
+- [**<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="20" height="20"/></span>**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=): [ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32
 
 ##### Desktop (Windows, Linux<!--, FreeBSD -->):
 - **C++**: STL, WinAPI, POSIX, SFML, OpenGL, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder
