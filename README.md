@@ -110,12 +110,12 @@
 </div>
 
 ##### Embedded:
-- **<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="30" height="30"/></span>** & **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR
-- [**<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="30" height="30"/></span>**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=) [ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32
+- **<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="25" height="25"/></span>** & **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR
+- [**<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="25" height="25"/></span>**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=) [ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32
 
 ##### Desktop (Windows, Linux<!--, FreeBSD -->):
 - **C++**: STL, WinAPI, POSIX, SFML, OpenGL, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder
-- [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL) 
+- [**<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="25" height="25"/></span>**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL) 
 - [**Delphi**](https://github.com/GorComComputing/C_Compiler)
 
 ##### Web back-end:
