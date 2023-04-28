@@ -15,7 +15,7 @@
 > *Что я не могу создать, я не понимаю (с) Ричард Фейнман*
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2YzYmEwNjk5NGVlNjY4ZjRmNDQ4YmZkNTExMzE5ZjY5YzQ3YjM4NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oEjHGJE2H5KMDjyj6/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2YzYmEwNjk5NGVlNjY4ZjRmNDQ4YmZkNTExMzE5ZjY5YzQ3YjM4NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oEjHGJE2H5KMDjyj6/giphy.gif" width="200"/>
 </div>
 
 ## Операционная система Doors
@@ -37,7 +37,13 @@
 * [Графическая библиотека]() (на C)
 * [Библиотека абстрактных типов данных]() (на C)
 
-## Список других моих проектов
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjgzYWFiMTY0ZTA2MzM0YzU3NGYwM2VhZjdlMzUwOTg5YWU1MTA3MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SmaYvew52UlC9MmB6l/giphy.gif" width="200"/>
+</div>
+
+
+
+## Другие мои проекты
 ##### Операционные системы
 * [Операционная система Doors 32-бит](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly i386)
 * [Оконный графический интерфейс (для операционной системы Doors)](https://github.com/GorComComputing/GUI_Window) (на C)
