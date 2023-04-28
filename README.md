@@ -89,14 +89,15 @@
 
 
 
-<div id="header" align="center">
+<!-- div id="header" align="center">
   <img src="https://media.giphy.com/media/3ohc157IyQlpWtqbug/giphy.gif" width="100"/>
-</div>
+</div -->
 
-<div align="center">
+<div id="header" align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;  
 </div>
+
 ## Технологии, используемые в проектах:
 ##### Embedded:
 - **C** & **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR
