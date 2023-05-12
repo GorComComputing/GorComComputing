@@ -134,7 +134,7 @@
 </div>
 
 ##### Embedded:
-**<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="25" height="25"/></span>** & **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR, MCS-51   
+**<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="25" height="25"/></span>** & **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, AVR, Xtensa, MCS-51   
 [**<span id="header"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="25" height="25"/></span>**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=c&sort=) [ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32
 
 ##### Desktop (Windows, Linux<!--, FreeBSD -->):
