@@ -134,9 +134,9 @@
 </div>
 
 ##### Embedded:
-- **Assembler**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, RISC-V, AVR, Xtensa, MCS-51   
-- **C**<!--: [ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32 -->
-- **C++**: Arduino <!--([ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266), STM32 -->
+**Assembler**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, RISC-V, AVR, Xtensa, MCS-51   
+**C**<!--: [ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32 -->
+**C++**: Arduino <!--([ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266), STM32 -->
 
 ##### Desktop (Linux, Windows<!--, FreeBSD -->):
 - **C**: POSIX, WinAPI  
