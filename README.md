@@ -14,13 +14,13 @@
 Многое из этого я уже сделал. Многое предстоит. На вопрос: зачем мне это? - отвечу словами физика нобелевского лауреата создателя атомной бомбы:smiley::  
 > *Что я не могу создать, я не понимаю (с) Ричард Фейнман*
 
-<div id="header" align="center">
+<!--div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjgzYWFiMTY0ZTA2MzM0YzU3NGYwM2VhZjdlMzUwOTg5YWU1MTA3MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SmaYvew52UlC9MmB6l/giphy.gif" width="200"/>
-</div>
+</div-->
 
 
 
-## Операционная система Doors
+<!--## Операционная система Doors
 ##### Ядро
 * [Ядро Doors для i386]() (на C и Assembly i386)
 * [Ядро Doors для ARM]() (на C и Assembly ARM)
@@ -37,7 +37,7 @@
 * [Библиотека работы со строками]() (на C)
 * [Математическая библиотека]() (на C)
 * [Графическая библиотека]() (на C)
-* [Библиотека абстрактных типов данных]() (на C)
+* [Библиотека абстрактных типов данных]() (на C)-->
 
 
 <div id="header" align="center">
@@ -47,6 +47,7 @@
 
 ## Другие мои проекты
 ##### Операционные системы
+* [Операционная система Doors 3](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly i386, ARM32, MIPS32)
 * [Операционная система Doors 32-бит](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly i386)
 * [Оконный графический интерфейс (для операционной системы Doors)](https://github.com/GorComComputing/GUI_Window) (на C)
 ##### Компиляторы и виртуальные машины
@@ -134,7 +135,7 @@
 </div>
 
 ##### Embedded:
-- **Assembler**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, RISC-V, AVR, Xtensa, MCS-51   
+- **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, RISC-V, AVR, Xtensa, MCS-51   
 - **C/C++**<!--: [ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32 -->  
 <!--**C++**: Arduino ([ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266), STM32 -->
 
