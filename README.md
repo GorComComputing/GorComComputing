@@ -140,9 +140,9 @@
 
 ##### Desktop (Linux, Windows<!--, FreeBSD -->):
 - **C**: POSIX, WinAPI  
-- **C++**: STL, SFML, OpenGL, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder  
-- [**Python**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=python&sort=): Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL)  
-- [**Delphi**](https://github.com/GorComComputing/C_Compiler)
+- **C++**: <!--STL,-->OpenGL, SFML, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder  
+- **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL)  
+- **Delphi**
 
 ##### Web back-end:
 - **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL <!--, gRPC , Lombok-->  
