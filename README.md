@@ -136,7 +136,7 @@
 
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, RISC-V, AVR, Xtensa, MCS-51   
-- **C**: FreeRTOS, Linux kernel  
+- **C**: Linux Kernel, FreeRTOS,  
 - **C++**: Arduino<!--[ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32 --> 
 
 ##### Приложения под <!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)-->:
