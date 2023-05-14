@@ -47,8 +47,8 @@
 
 ## Мои проекты
 ##### Операционные системы
-* [Операционная система Doors 3]() (на C и Assembly i386, ARM32, MIPS32)
-* [Операционная система Doors 32-бит](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly i386)
+* [Операционная система Doors 3]() (на C и Assembly i386, ARM32, MIPS32) - `в разработке` :clock10:
+* [Операционная система Doors 2 (32-бит)](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly i386)
 * [Оконный графический интерфейс (для операционной системы Doors)](https://github.com/GorComComputing/GUI_Window) (на C)
 ##### Компиляторы и виртуальные машины
 * [Компилятор и ассемблер для процессора 8-bit-AON](https://github.com/GorComComputing/C_Compiler) (в Delphi XE 10.3)
@@ -98,7 +98,7 @@
 <div id="header" align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="cmake" alt="cmake" width="40" height="40"/>&nbsp;
+<!--img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="cmake" alt="cmake" width="40" height="40"/>&nbsp;-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
@@ -136,9 +136,9 @@
 
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, RISC-V, AVR, Xtensa, MCS-51   
-- **C/C++**<!--: Arduino, [ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32 -->  
+- **C/C++**: Arduino, FreeRTOS<!--[ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32 -->  
 
-##### Операционные системы<!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)-->:
+##### Операционные системы <!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)-->:
 - **C**: POSIX, WinAPI  
 - **C++**: <!--STL,-->OpenGL, SFML, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder  
 - **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL)  
