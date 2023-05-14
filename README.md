@@ -136,11 +136,11 @@
 
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: [x86-64](https://github.com/GorComComputing?tab=repositories&q=&type=&language=assembly&sort=), ARM, MIPS, RISC-V, AVR, Xtensa, MCS-51   
-- **C/C++**: Arduino, FreeRTOS, Embedded Linux<!--[ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32 -->  
+- **C/C++**: Arduino, FreeRTOS, Linux kernel<!--[ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32 -->  
 
-##### Приложения для <!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)--> (POSIX, WinAPI):
+##### Приложения под <!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)-->:
 <!-- - **C**: POSIX, WinAPI  -->
-- **C/C++**: <!--STL,-->OpenGL, SFML, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder  
+- **C/C++**: <!--STL,-->POSIX, WinAPI, OpenGL, SFML, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder  
 - **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL)  
 - **Delphi**
 - **Java**
