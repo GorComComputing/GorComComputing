@@ -139,10 +139,13 @@
 - **C/C++**: Arduino, FreeRTOS<!--[ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32 -->  
 
 ##### Операционные системы <!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)-->:
-- **C**: POSIX, WinAPI  
+- **C**: Linux kernel, POSIX, WinAPI  
+
+##### Прикладные программы под Linux, Windows:
 - **C++**: <!--STL,-->OpenGL, SFML, SDL, Qt, GTK, wxWidgets, FLTK, Tcl/Tk, C++ Builder  
 - **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL)  
 - **Delphi**
+- **Java**
 
 ##### Web back-end:
 - **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL <!--, gRPC , Lombok-->  
@@ -153,8 +156,8 @@
 
 ##### Web front-end:
 - [**JavaScript**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=javascript&sort=): React, Angular, JQuery <!-- Vue.js --> <!-- - **TypeScript** -->
-- [**HTML** & **CSS**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=html&sort=): Bootstrap
 - **C++**: WebAssembly
+- [**HTML** & **CSS**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=html&sort=): Bootstrap
 
 ##### Базы данных:
 - **SQL**: MySQL, PostgreSQL, [SQLite](https://github.com/GorComComputing/SQLite)
