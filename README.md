@@ -25,9 +25,9 @@
 Многое из этого я уже сделал. Многое предстоит. На вопрос: зачем мне это? - отвечу словами физика нобелевского лауреата:smiley::  
 > *Что я не могу создать, я не понимаю (с) Ричард Фейнман*
 
-<!--div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjgzYWFiMTY0ZTA2MzM0YzU3NGYwM2VhZjdlMzUwOTg5YWU1MTA3MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SmaYvew52UlC9MmB6l/giphy.gif" width="200"/>
-</div-->
+</div>
 
 
 
@@ -51,9 +51,9 @@
 * [Библиотека абстрактных типов данных]() (на C)-->
 
 
-<div id="header" align="center">
+<!--div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2YzYmEwNjk5NGVlNjY4ZjRmNDQ4YmZkNTExMzE5ZjY5YzQ3YjM4NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oEjHGJE2H5KMDjyj6/giphy.gif" width="200"/>
-</div>
+</div-->
 
 
 ## Мои проекты
