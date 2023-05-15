@@ -170,7 +170,7 @@
 - **C++**: <!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk, C++ Builder  
 - **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL)  
 - **Delphi**
-- **Java**
+- **Java**: Swing
 
 ##### Web back-end:
 - **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL <!--, gRPC , Lombok-->  
