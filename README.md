@@ -179,8 +179,8 @@
 
 ##### Автоматизированное тестирование:
 - **Java**: JUnit  
-- **Python**: [Selenium](https://github.com/GorComComputing/AutoTinder)  
-- **Ruby**: [RSpec](https://github.com/GorComComputing/SQLite)
+- **Python**: Selenium 
+- **Ruby**: RSpec
 
 <!-- ##### Программный инжиниринг: -->
 <!-- - **ОС**: Windows, Linux, FreeBSD --> <!--, Unix -->
