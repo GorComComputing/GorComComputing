@@ -165,12 +165,12 @@
 <!-- - **Node.js**: Express.js -->
 
 ##### Web front-end:
-- [**JavaScript**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=javascript&sort=): React, Angular, JQuery <!-- Vue.js --> <!-- - **TypeScript** -->
+- **JavaScript**: React, Angular, JQuery <!-- Vue.js --> <!-- - **TypeScript** -->
 - **C++**: WebAssembly
-- [**HTML** & **CSS**](https://github.com/GorComComputing?tab=repositories&q=&type=&language=html&sort=): Bootstrap
+- **HTML** & **CSS**: Bootstrap
 
 ##### Базы данных:
-- **SQL**: MySQL, PostgreSQL, [SQLite](https://github.com/GorComComputing/SQLite)
+- **SQL**: MySQL, PostgreSQL, SQLite
 - **NoSQL**: MongoDB, Redis 
 
 <!-- ##### Системы сборки:
