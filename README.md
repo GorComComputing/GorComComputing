@@ -164,6 +164,7 @@
 - **Assembly**: x86-64, ARM, MIPS, RISC-V, AVR, Xtensa, MCS-51   
 - **C**: Linux Kernel, FreeRTOS
 - **C++**: Arduino<!--[ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32 --> 
+- **Go**: TinyGo
 
 ##### Приложения под <!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)-->:
 - **C**: POSIX, WinAPI, OpenGL, GTK
