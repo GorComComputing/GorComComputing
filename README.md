@@ -174,16 +174,16 @@
 - **Java**: Swing
 
 ##### Web back-end:
+- **Go**: Fiber
 - **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL <!--, gRPC , Lombok-->  
-- **Python**: Django, Flask  
-- **Go**: Fiber 
+- **Python**: Django, Flask   
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 <!-- - **Ruby**: Ruby on Rails-->
 <!-- - **Node.js**: Express.js -->
 
 ##### Web front-end:
 - **JavaScript**: React, Angular, JQuery <!-- Vue.js --> <!-- - **TypeScript** -->
-- **C++**: WebAssembly
+- **C++ | Go**: WebAssembly
 - **HTML** & **CSS**: Bootstrap
 
 ##### Базы данных:
