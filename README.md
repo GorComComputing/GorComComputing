@@ -163,9 +163,11 @@
 
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: x86-64, ARM, MIPS, RISC-V, AVR, Xtensa, MCS-51   
-- **C**: Linux Kernel, FreeRTOS
-- **C++**: Arduino<!--[ATmega328](https://github.com/stars/GorComComputing/lists/embedded), ESP32/8266, STM32 --> 
+- **C**: Linux kernel, FreeRTOS
+- **C++**: Arduino Wiring
 - **Go**: TinyGo
+- **Embedded Linux**: Buildroot, OpenWrt, U-Boot, Linux kernel, rootfs
+- **SoC**: ATmega328, ESP32/8266, STM32, Raspberry Pi
 
 ##### Приложения под <!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)-->:
 - **C**: POSIX, WinAPI, OpenGL, GTK
@@ -189,12 +191,12 @@
 - **HTML** & **CSS**: Bootstrap
 
 ##### Базы данных:
-- **SQL**: MySQL, PostgreSQL, SQLite
+- **SQL**: PostgreSQL, MySQL, SQLite
 - **NoSQL**: MongoDB, Redis 
 
-<!-- ##### Системы сборки:
+<!--##### Системы сборки:
 - **C**/**C++**: Make, CMake
-- **Java**: Maven --> <!-- , Ant+Ivy, Gradle, Jenkins -->
+- **Java**: Maven  --><!-- , Ant+Ivy, Gradle, Jenkins -->
 
 ##### Автоматизированное тестирование:
 - **Java**: JUnit  
@@ -208,10 +210,10 @@
 <!-- - **Архитектура**: UML, BPMN, Archimate -->
  <!-- - **Управление проектами**: RUP, PMI, SCRUM, Kanban --> 
 
-<!-- ##### Облачные архитектуры:
-- **Yandex.Cloud**: Terraform, Ansible --> <!-- - **Hypervisor**: ESXi, mRemoteNG -->
-<!-- - **Контейнеры**: Docker, Kubernetes -->
-
+##### Виртуализация:
+<!--- **Yandex.Cloud**: Terraform, Ansible --> <!-- - **Hypervisor**: ESXi, mRemoteNG -->
+- **Контейнеры**: LXC, Docker <!-- , Kubernetes -->
+- **Виртуальные машины**: QEMU
 
 
 
