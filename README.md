@@ -164,7 +164,7 @@
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: x86-64, ARM, MIPS, RISC-V, AVR, Xtensa, MCS-51  
 - **SoC**: ATmega328, ESP32/8266, STM32, Raspberry Pi 
-- **C**: Linux kernel, FreeRTOS
+- **C**: FreeRTOS
 - **C++**: Arduino Wiring
 - **Embedded Linux**: Buildroot, OpenWrt, U-Boot, Linux kernel, rootfs
 - **Go**: TinyGo
