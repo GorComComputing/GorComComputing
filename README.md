@@ -162,12 +162,14 @@
 </div>
 
 ##### Микропроцессорные системы<!--Embedded-->:
-- **Assembly**: x86-64, ARM, MIPS, RISC-V, AVR, Xtensa, MCS-51   
+- **Assembly**: x86-64, ARM, MIPS, RISC-V, AVR, Xtensa, MCS-51  
+- **SoC**: ATmega328, ESP32/8266, STM32, Raspberry Pi 
 - **C**: Linux kernel, FreeRTOS
 - **C++**: Arduino Wiring
-- **Go**: TinyGo
 - **Embedded Linux**: Buildroot, OpenWrt, U-Boot, Linux kernel, rootfs
-- **SoC**: ATmega328, ESP32/8266, STM32, Raspberry Pi
+- **Go**: TinyGo
+
+
 
 ##### Приложения под <!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)-->:
 - **C**: POSIX, WinAPI, OpenGL, GTK
