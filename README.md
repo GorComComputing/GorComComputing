@@ -162,11 +162,11 @@
 </div>
 
 ##### Микропроцессорные системы<!--Embedded-->:
-- **Assembly**: x86-64, ARM, MIPS, RISC-V, AVR, Xtensa, MCS-51  
+- **Assembly**: x86-64, ARM, MIPS, RISC-V, PowerPC, AVR, Xtensa, MCS-51  
 - **SoC**: ATmega328, ESP32/8266, STM32, Raspberry Pi, TP-LINK MR3020 
 - **C**: FreeRTOS
 - **C++**: Arduino Wiring
-- **Embedded Linux**: Buildroot, OpenWrt, crosstool-ng, U-Boot, Linux kernel, rootfs
+- **Embedded Linux**: Buildroot, OpenWrt, crosstool-ng, U-Boot, Linux kernel, BusyBox
 - **Go**: TinyGo
 
 
