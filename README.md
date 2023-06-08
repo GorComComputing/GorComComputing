@@ -33,6 +33,8 @@
   <img src="https://media.giphy.com/media/3ohc157IyQlpWtqbug/giphy.gif" width="100"/>
 </div>
 
+[Справочник](https://github.com/GorComComputing/knowledge) 
+
 
 
 <!--## Операционная система Doors
