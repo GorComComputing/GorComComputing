@@ -168,7 +168,7 @@
 - **SoC**: ATmega328, ESP32/8266, STM32, Raspberry Pi, TP-LINK MR3020 
 - **C**: FreeRTOS
 - **C++**: Arduino Wiring
-- **Embedded Linux**: Buildroot, OpenWrt, crosstool-ng, U-Boot, Linux kernel, BusyBox
+- **Embedded Linux**: Buildroot, OpenWrt, crosstool-ng, U-Boot, GRUB2, Linux kernel, BusyBox
 - **Go**: TinyGo
 
 
