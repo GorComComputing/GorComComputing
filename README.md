@@ -86,6 +86,7 @@
 * [Basic на микроконтроллере ATmega328](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++ Arduino)
 ##### Web front-end
 * [Framework.js](https://github.com/GorComComputing/Framework.js) (на JavaScript)
+* [Long Poll](https://github.com/GorComComputing/LongPoll) (на Go и JavaScript)
 ##### Web back-end
 * [Web Server](https://github.com/GorComComputing/Web_Server) (на C)
 * [Web Server (Сайт на Ассемблере)](https://github.com/GorComComputing/Site_on_Asm) (на Assembly i386)
