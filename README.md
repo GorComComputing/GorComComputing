@@ -74,7 +74,8 @@
 * [Компилятор языка Oberon для стековой виртуальной машины OVM](https://github.com/GorComComputing/Oberon_Compiler) (на Python)
 ##### Компьютерная графика
 * [Графическая библиотека](https://github.com/GorComComputing/Graphics) (на C)
-* [Игра (использование библиотеки PyGame)](https://github.com/GorComComputing/Game_PyGame) (на Python) 
+* [Игра (использование библиотеки PyGame)](https://github.com/GorComComputing/Game_PyGame) (на Python)
+* [TUI - графический интерфейс в терминале (библиотека Tview)](https://github.com/GorComComputing/Tview) (на Go)
 ##### Командные интерпретаторы
 * [Shell для Linux](https://github.com/GorComComputing/Shell) (на C)
 * [Basic 512 байт (в загрузочный сектор)](https://github.com/GorComComputing/Basic512) (на Assembly x86)
