@@ -201,21 +201,21 @@
 - **SQL**: PostgreSQL, MySQL, SQLite
 - **NoSQL**: MongoDB, Redis 
 
-<!--##### Системы сборки:
+##### Системы сборки:
 - **C**/**C++**: Make, CMake
-- **Java**: Maven  --><!-- , Ant+Ivy, Gradle, Jenkins -->
+- **Java**: Maven  <!-- , Ant+Ivy, Gradle, Jenkins -->
 
 ##### Автоматизированное тестирование:
 - **Java**: JUnit  
 - **Python**: Selenium 
 - **Ruby**: RSpec
 
-<!-- ##### Программный инжиниринг: -->
-<!-- - **ОС**: Windows, Linux, FreeBSD --> <!--, Unix -->
-<!-- - **CLI**: Bash, Cmd, PowerShell
+##### Программный инжиниринг:
+- **ОС**: Windows, Linux <!--, FreeBSD, Unix -->
+- **CLI**: Bash, Cmd, PowerShell
 - **Контроль версий**: [Git](https://github.com/GorComComputing/Git) и GitHub --> <!-- , SVN -->
-<!-- - **Архитектура**: UML, BPMN, Archimate -->
- <!-- - **Управление проектами**: RUP, PMI, SCRUM, Kanban --> 
+- **Архитектура**: UML, BPMN, Archimate
+- **Управление проектами**: RUP, PMI, SCRUM, Kanban
 
 ##### Виртуализация:
 <!--- **Yandex.Cloud**: Terraform, Ansible --> <!-- - **Hypervisor**: ESXi, mRemoteNG -->
