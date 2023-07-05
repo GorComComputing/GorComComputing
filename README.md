@@ -213,7 +213,7 @@
 ##### Программный инжиниринг:
 - **ОС**: Windows, Linux <!--, FreeBSD, Unix -->
 - **CLI**: Bash, Cmd, PowerShell
-- **Контроль версий**: Git и GitHub --> <!-- , SVN -->
+- **Контроль версий**: Git и GitHub <!-- , SVN -->
 - **Архитектура**: UML, BPMN, Archimate
 - **Управление проектами**: RUP, PMI, SCRUM, Kanban
 
