@@ -211,7 +211,7 @@
 - **Ruby**: RSpec
 
 ##### Программный инжиниринг:
-- **ОС**: Windows, Linux <!--, FreeBSD, Unix -->
+- **ОС**: Linux, Windows  <!--, FreeBSD, Unix -->
 - **CLI**: Bash, Cmd, PowerShell
 - **Контроль версий**: Git и GitHub <!-- , SVN -->
 - **Архитектура**: UML, BPMN, Archimate
