@@ -192,7 +192,7 @@
 <!-- - **Node.js**: Express.js -->
 
 ##### Web front-end:
-- **JavaScript**: React, <!-- Angular -->, JQuery, AJAX <!-- Vue.js --> <!-- - **TypeScript** -->
+- **JavaScript**: React, <!-- Angular, --> JQuery, AJAX <!-- Vue.js --> <!-- - **TypeScript** -->
 - **C++ | Go**: WebAssembly
 - **HTML** & **CSS**: Bootstrap
 
