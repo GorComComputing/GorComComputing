@@ -189,7 +189,7 @@
 - **Python**: Django, Flask   
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 <!-- - **Ruby**: Ruby on Rails-->
-<!-- - **Node.js**: Express.js -->
+- **JavaScript**: Node.js <!-- Express.js -->
 
 ##### Web front-end:
 - **JavaScript**: React, <!-- Angular, --> JQuery, AJAX <!-- Vue.js --> <!-- - **TypeScript** -->
