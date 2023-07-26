@@ -188,8 +188,8 @@
 - **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL <!--, gRPC , Lombok-->  
 - **Python**: Django, Flask   
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
-<!-- - **Ruby**: Ruby on Rails-->
 - **JavaScript**: Node.js <!-- Express.js -->
+<!-- - **Ruby**: Ruby on Rails-->
 
 ##### Web front-end:
 - **JavaScript**: React, <!-- Angular, --> JQuery, AJAX <!-- Vue.js --> <!-- - **TypeScript** -->
