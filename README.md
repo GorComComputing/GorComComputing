@@ -192,7 +192,7 @@
 <!-- - **Ruby**: Ruby on Rails-->
 
 ##### Web front-end:
-- **JavaScript**: React, <!-- Angular, --> JQuery, AJAX <!-- Vue.js --> <!-- - **TypeScript** -->
+- **JavaScript**: React, <!-- Angular, --> JQuery, AJAX, <!-- Vue.js --> <!-- - **TypeScript** --> WebGL
 - **C/C++ | Go**: WebAssembly
 - **HTML** & **CSS**: Bootstrap
 
