@@ -193,7 +193,7 @@
 
 ##### Web front-end:
 - **JavaScript**: React, <!-- Angular, --> JQuery, AJAX, <!-- Vue.js --> <!-- - **TypeScript** --> WebGL
-- **C/C++ | Go**: WebAssembly
+- **C/C++ | Go | Rust**: WebAssembly
 - **HTML** & **CSS**: Bootstrap
 
 ##### Базы данных:
