@@ -193,7 +193,7 @@
 
 ##### Web front-end:
 - **JavaScript**: React, <!-- Angular, --> JQuery, AJAX, <!-- Vue.js --> <!-- - **TypeScript** --> WebGL
-- **C/C++ | Go | Rust**: WebAssembly
+- **C/C++ | Go | Rust | WAT**: WebAssembly
 - **HTML** & **CSS**: Bootstrap
 
 ##### Базы данных:
@@ -211,7 +211,7 @@
 
 ##### Программный инжиниринг:
 - **ОС**: Linux, Windows  <!--, FreeBSD, Unix -->
-- **CLI**: Bash, Cmd, PowerShell
+- **CLI**: Bash, Cmd, PowerShell, Tcl
 - **Контроль версий**: Git и GitHub <!-- , SVN -->
 - **Архитектура**: UML, BPMN, Archimate
 - **Управление проектами**: RUP, PMI, SCRUM, Kanban
