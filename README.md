@@ -89,6 +89,7 @@
 * [Игра на микроконтроллере ATmega328](https://github.com/GorComComputing/Game_Arduino) (на C++ Arduino)
 * [Basic на микроконтроллере ATmega328](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++ Arduino)
 ##### Web front-end
+* [Браузер](https://github.com/GorComComputing/Browser) (на Python)
 * [Framework.js](https://github.com/GorComComputing/Framework.js) (на JavaScript)
 * [Long Poll](https://github.com/GorComComputing/LongPoll) (на Go и JavaScript)
 * [Веб-терминал для Linux](https://github.com/GorComComputing/WebConsole) (на Go и JavaScript)
