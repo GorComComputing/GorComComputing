@@ -80,6 +80,7 @@
 * [Shell для Linux](https://github.com/GorComComputing/Shell) (на C)
 * [Basic 512 байт (в загрузочный сектор)](https://github.com/GorComComputing/Basic512) (на Assembly x86)
 ##### Базы данных
+* [СУБД gSQL](https://github.com/GorComComputing/gSQL) (на Go)
 * [СУБД SQLite](https://github.com/GorComComputing/SQLite) (на C)
 * [Библиотека абстрактных типов данных](https://github.com/GorComComputing/Algorithms) (на C++)
 ##### Embedded
