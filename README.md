@@ -64,6 +64,7 @@
 
 ## Мои проекты
 ##### Операционные системы
+* [Оконный графический интерфейс (для операционной системы Doors)](https://github.com/GorComComputing/GUI_DOORS_Go) (на Go)
 * [Операционная система Doors 3](https://github.com/GorComComputing/OS_Doors3) (на C и Assembly i386, ARM32, MIPS32, RISC-V) - `в разработке` :clock10:
 * [Операционная система Doors 2 (32-бит)](https://github.com/GorComComputing/OS_Doors32) (на C и Assembly i386)
 * [Оконный графический интерфейс (для операционной системы Doors)](https://github.com/GorComComputing/GUI_Window) (на C)
