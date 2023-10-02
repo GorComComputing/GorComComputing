@@ -98,6 +98,7 @@
 * [Web Server (Сайт на Ассемблере)](https://github.com/GorComComputing/Site_on_Asm) (на Assembly i386)
 * [Сайт по электронике]() (на Python Django) - `в разработке` :clock10:
 ##### Сети
+* [SNMP](https://github.com/GorComComputing/GoSNMP) (на Go)
 * [Чат клиент-сервер (TCP)](https://github.com/GorComComputing/Chat_TCP) (на C)
 * [Чат p2p (TCP)](https://github.com/GorComComputing/p2p_chat) (на Python)
 ##### Blockchain
