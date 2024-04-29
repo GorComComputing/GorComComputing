@@ -172,6 +172,11 @@
 
 </div>
 
+##### ЧПУ:
+- **3D-принтеры**: Компас 3D, Cura
+- **G-code**: GRBL
+
+
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: x86-64, ARM, MIPS, RISC-V, PowerPC, AVR, Xtensa, MCS-51 <!-- - **SoC**: ATmega328, ESP32/8266, STM32, Raspberry Pi, TP-LINK MR3020 -->
 - **C**: FreeRTOS
