@@ -149,7 +149,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="tomcat" alt="tomcat" width="20" height="20"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring" alt="spring" width="20" height="20"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="20" height="20"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel" width="20" height="20"/>&nbsp;
 <!--img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="20" height="20"/>&nbsp;-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="yii" alt="yii" width="20" height="20"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/modx/modx-original-wordmark.svg" title="modx" alt="modx" width="20" height="20"/>&nbsp;
