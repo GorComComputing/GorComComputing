@@ -240,5 +240,5 @@
 Евгений Горячев  
 [![](https://img.shields.io/badge/Telegram-@extendedsuperbass-informational?style=flat&logo=telegram&logoColor=white&color=31a2db)](https://t.me/extendedsuperbass)<br/>
 <a href="mailto:gorcom2012@gmail.com">![](https://img.shields.io/badge/Gmail-GorCom2012@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=e04a3e)</a><br/>
-<a href="http://www.gorcom.online">![](https://img.shields.io/badge/Web-www.gorcom.online-informational?style=flat&logo=web&logoColor=blue&color=e09e35)</a>
+<a href="http://www.gorcom.online">![](https://img.shields.io/badge/Web-www.gorcom.online-informational?style=flat&logo=googlechrome&logoColor=white&color=blue)</a>
 
