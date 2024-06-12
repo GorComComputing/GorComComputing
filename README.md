@@ -175,7 +175,7 @@
 - **Assembly**: x86-64, ARM, MIPS, RISC-V, PowerPC, AVR, Xtensa, MCS-51 <!-- - **SoC**: ATmega328, ESP32/8266, STM32, Raspberry Pi, TP-LINK MR3020 -->
 - **C**: FreeRTOS
 - **C++**: Arduino Wiring
-- **Go**: TinyGo
+<!-- - **Go**: TinyGo -->
 - **Embedded Linux**: Buildroot, OpenWrt, crosstool-ng, U-Boot, GRUB2, Linux kernel, BusyBox
 
 ##### Приложения под <!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)-->:
