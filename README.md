@@ -180,19 +180,20 @@
 ##### Приложения под <!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)-->:
 - **C**: POSIX, WinAPI, OpenGL, GTK
 - **C++**: <!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk <!-- , C++ Builder -->
-- **Go**: Fyne, Tview
-- **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL)  
+- **Go**: Fyne, Tview, Fiber
+- **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL), Django, Flask   
 <!-- - **Delphi**-->
 <!-- - **Java**: Swing -->
 
+<!--
 ##### Web back-end:
 - **Go**: Fiber <!-- - **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL, gRPC , Lombok-->  
 - **Python**: Django, Flask   
-- **PHP**: Laravel, Yii, Modx, 1C:Bitrix
+- **PHP**: Laravel, Yii, Modx, 1C:Bitrix-->
 <!-- - **JavaScript**: Node.js, Express.js -->
 <!-- - **Ruby**: Ruby on Rails-->
 
-##### Web front-end:
+##### Web <!--front-end-->:
 - **JavaScript**: React, <!-- Angular, --> JQuery, AJAX, <!-- Vue.js --> <!-- - **TypeScript** --> WebGL
 - **C | C++ | Go<!-- | Rust | WAT -->**: WebAssembly
 - **HTML** & **CSS**: Bootstrap
