@@ -187,8 +187,7 @@
 <!-- - **Java**: Swing -->
 
 ##### Web back-end:
-- **Go**: Fiber
-<!-- - **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL, gRPC , Lombok-->  
+- **Go**: Fiber <!-- - **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL, gRPC , Lombok-->  
 - **Python**: Django, Flask   
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 - **JavaScript**: Node.js <!-- Express.js -->
