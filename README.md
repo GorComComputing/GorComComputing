@@ -145,9 +145,9 @@
 <!--img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="20" height="20"/>&nbsp;-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="20" height="20"/>&nbsp;
 <!--img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="20" height="20"/>&nbsp;-->
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="20" height="20"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="tomcat" alt="tomcat" width="20" height="20"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring" alt="spring" width="20" height="20"/>&nbsp;
+<!--img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="20" height="20"/>&nbsp;-->
+<!--img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="tomcat" alt="tomcat" width="20" height="20"/>&nbsp;-->
+<!--img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring" alt="spring" width="20" height="20"/>&nbsp;-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="20" height="20"/>&nbsp;
 <!--img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="20" height="20"/>&nbsp;-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="yii" alt="yii" width="20" height="20"/>&nbsp;
@@ -162,19 +162,14 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="20" height="20"/>&nbsp;-->
 <!--img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="20" height="20"/>&nbsp;-->
 <!--img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" alt="putty" width="20" height="20"/>&nbsp;-->
-<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="ruby" alt="ruby" width="20" height="20"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="rails" alt="rails" width="20" height="20"/>&nbsp;
+<!--img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="ruby" alt="ruby" width="20" height="20"/>&nbsp;-->
+<!--img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="rails" alt="rails" width="20" height="20"/>&nbsp;-->
 <!--img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" title="raspberrypi" alt="raspberrypi" width="20" height="20"/>&nbsp; -->
 <!--img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original-wordmark.svg" title="rspec" alt="rspec" width="20" height="20"/>&nbsp;-->
 <!--img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="tensorflow" alt="tensorflow" width="20" height="20"/>&nbsp;-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="terraform" alt="terraform" width="20" height="20"/>&nbsp;
 
 </div>
-
-##### ЧПУ:
-- **3D-принтеры**: Компас 3D, Cura
-- **G-code**: GRBL
-
 
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: x86-64, ARM, MIPS, RISC-V, PowerPC, AVR, Xtensa, MCS-51 <!-- - **SoC**: ATmega328, ESP32/8266, STM32, Raspberry Pi, TP-LINK MR3020 -->
@@ -183,19 +178,17 @@
 - **Embedded Linux**: Buildroot, OpenWrt, crosstool-ng, U-Boot, GRUB2, Linux kernel, BusyBox
 - **Go**: TinyGo
 
-
-
 ##### Приложения под <!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)-->:
 - **C**: POSIX, WinAPI, OpenGL, GTK
 - **C++**: <!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk, C++ Builder  
 - **Go**: Fyne, Tview
 - **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL)  
 - **Delphi**
-- **Java**: Swing
+<!-- - **Java**: Swing -->
 
 ##### Web back-end:
 - **Go**: Fiber
-- **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL <!--, gRPC , Lombok-->  
+<!-- - **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL, gRPC , Lombok-->  
 - **Python**: Django, Flask   
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 - **JavaScript**: Node.js <!-- Express.js -->
@@ -212,26 +205,28 @@
 
 ##### Системы сборки:
 - **C**/**C++**: Make, CMake
-- **Java**: Maven  <!-- , Ant+Ivy, Gradle, Jenkins -->
+<!-- - **Java**: Maven, Ant+Ivy, Gradle, Jenkins -->
 
 ##### Автоматизированное тестирование:
-- **Java**: JUnit  
+<!-- - **Java**: JUnit --> 
 - **Python**: Selenium 
-- **Ruby**: RSpec
+<!-- - **Ruby**: RSpec -->
 
 ##### Программный инжиниринг:
 - **ОС**: Linux, Windows  <!--, FreeBSD, Unix -->
 - **CLI**: Bash, Cmd, PowerShell, Tcl
 - **Контроль версий**: Git и GitHub <!-- , SVN -->
-- **Архитектура**: UML, BPMN, Archimate
-- **Управление проектами**: RUP, PMI, SCRUM, Kanban
+<!-- - **Архитектура**: UML, BPMN, Archimate
+- **Управление проектами**: RUP, PMI, SCRUM, Kanban -->
 
 ##### Виртуализация:
 <!--- **Yandex.Cloud**: Terraform, Ansible --> <!-- - **Hypervisor**: ESXi, mRemoteNG -->
 - **Контейнеры**: LXC, Docker <!-- , Kubernetes -->
 - **Виртуальные машины**: QEMU
 
-
+##### ЧПУ:
+- **3D-принтеры**: Компас 3D, Cura
+- **G-code**: GRBL
 
 
 
