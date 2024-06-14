@@ -175,13 +175,13 @@
 
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: x86-64, ARM, MIPS, RISC-V, PowerPC, AVR, Xtensa, MCS-51 <!-- - **SoC**: ATmega328, ESP32/8266, STM32, Raspberry Pi, TP-LINK MR3020 -->
-- **C**: FreeRTOS
+- **C** <!--: FreeRTOS -->
 - **C++**: Arduino <!-- Wiring --> <!-- - **Go**: TinyGo -->
 - **Embedded Linux**: Buildroot, OpenWrt, crosstool-ng, U-Boot, GRUB2, Linux kernel, BusyBox
 
 ##### Приложения под <!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)-->:
-- **C**: POSIX, WinAPI, OpenGL, GTK
-- **C++**: <!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk <!-- , C++ Builder -->
+<!-- - **C**: POSIX, WinAPI, OpenGL, GTK -->
+- **C++**: POSIX, WinAPI, OpenGL, GTK,<!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk <!-- , C++ Builder -->
 - **Go**: Fyne, Tview
 - **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL), Selenium  
 <!-- - **Delphi**-->
