@@ -183,7 +183,7 @@
 - **C**: POSIX, WinAPI, OpenGL, GTK
 - **C++**: <!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk <!-- , C++ Builder -->
 - **Go**: Fyne, Tview
-- **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL)   
+- **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL), Selenium  
 <!-- - **Delphi**-->
 <!-- - **Java**: Swing -->
 
@@ -209,7 +209,7 @@
 
 ##### DevOps:
 <!-- - **Java**: JUnit --> 
-- **Python**: Selenium
+- **Python**
 - **Системы сборки**: Make, CMake
 - **CLI**: Bash, Cmd, PowerShell, Tcl
 - **Контроль версий**: Git и GitHub <!-- , SVN --> <!-- - **Ruby**: RSpec --> <!-- ##### Виртуализация и облачные вычисления: -->
