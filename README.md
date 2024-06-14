@@ -207,25 +207,22 @@
 - **C**/**C++**: Make, CMake-->
 <!-- - **Java**: Maven, Ant+Ivy, Gradle, Jenkins -->
 
-##### Автоматизация и тестирование:
+##### Автоматизация инфраструктуры:
 <!-- - **Java**: JUnit --> 
 - **Python**: Selenium
 - **Системы сборки**: Make, CMake
 - **CLI**: Bash, Cmd, PowerShell, Tcl
 - **Контроль версий**: Git и GitHub <!-- , SVN -->
 <!-- - **Ruby**: RSpec -->
-
-<!--##### Программный инжиниринг:
-- **ОС**: Linux, Windows-->  <!--, FreeBSD, Unix -->
-<!-- - **CLI**: Bash, Cmd, PowerShell, Tcl
-- **Контроль версий**: Git и GitHub--> <!-- , SVN -->
-<!-- - **Архитектура**: UML, BPMN, Archimate
-- **Управление проектами**: RUP, PMI, SCRUM, Kanban -->
-
-##### Виртуализация и облачные вычисления:
+<!-- ##### Виртуализация и облачные вычисления: -->
 - **IaC**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
 - **Контейнеры**: LXC, Docker, Kubernetes
 - **Виртуальные машины**: QEMU
+
+<!--##### Программный инжиниринг:
+- **ОС**: Linux, Windows-->  <!--, FreeBSD, Unix -->
+<!-- - **Архитектура**: UML, BPMN, Archimate
+- **Управление проектами**: RUP, PMI, SCRUM, Kanban -->
 
 ##### ЧПУ:
 - **3D-принтеры**: Компас 3D, Cura
