@@ -207,7 +207,7 @@
 - **C**/**C++**: Make, CMake-->
 <!-- - **Java**: Maven, Ant+Ivy, Gradle, Jenkins -->
 
-##### Автоматизация инфраструктуры:
+##### DevOps:
 <!-- - **Java**: JUnit --> 
 - **Python**: Selenium
 - **Системы сборки**: Make, CMake
