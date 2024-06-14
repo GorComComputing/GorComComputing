@@ -115,7 +115,7 @@
 ##### Мобильные приложения
 * [Мобильная игра Driver](https://github.com/GorComComputing/Driver_J2ME) (на Java ME) - `написана в 2007 году` :calendar:
 
-
+---
 
 ## Технологии, используемые в проектах:
 
@@ -170,6 +170,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="terraform" alt="terraform" width="20" height="20"/>&nbsp;
 
 </div>
+
 ---
 
 ##### Микропроцессорные системы<!--Embedded-->:
