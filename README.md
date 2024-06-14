@@ -201,24 +201,27 @@
 - **SQL**: PostgreSQL, MySQL, SQLite
 - **NoSQL**: MongoDB, Redis 
 
-##### Системы сборки:
-- **C**/**C++**: Make, CMake
+<!--##### Системы сборки:
+- **C**/**C++**: Make, CMake-->
 <!-- - **Java**: Maven, Ant+Ivy, Gradle, Jenkins -->
 
-##### Автоматизированное тестирование:
+##### Автоматизация и тестирование:
 <!-- - **Java**: JUnit --> 
-- **Python**: Selenium 
-<!-- - **Ruby**: RSpec -->
-
-##### Программный инжиниринг:
-- **ОС**: Linux, Windows  <!--, FreeBSD, Unix -->
+- **Python**: Selenium
+- **Системы сборки**: Make, CMake
 - **CLI**: Bash, Cmd, PowerShell, Tcl
 - **Контроль версий**: Git и GitHub <!-- , SVN -->
+<!-- - **Ruby**: RSpec -->
+
+<!--##### Программный инжиниринг:
+- **ОС**: Linux, Windows-->  <!--, FreeBSD, Unix -->
+<!-- - **CLI**: Bash, Cmd, PowerShell, Tcl
+- **Контроль версий**: Git и GitHub--> <!-- , SVN -->
 <!-- - **Архитектура**: UML, BPMN, Archimate
 - **Управление проектами**: RUP, PMI, SCRUM, Kanban -->
 
-##### Виртуализация:
-<!--- **Yandex.Cloud**: Terraform, Ansible --> <!-- - **Hypervisor**: ESXi, mRemoteNG -->
+##### Виртуализация и облачные вычисления:
+- **Yandex.Cloud**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
 - **Контейнеры**: LXC, Docker <!-- , Kubernetes -->
 - **Виртуальные машины**: QEMU
 
