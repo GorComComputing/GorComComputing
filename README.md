@@ -223,7 +223,7 @@
 - **Управление проектами**: RUP, PMI, SCRUM, Kanban -->
 
 ##### Виртуализация и облачные вычисления:
-- **Yandex.Cloud**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
+- **IaC**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
 - **Контейнеры**: LXC, Docker, Kubernetes
 - **Виртуальные машины**: QEMU
 
