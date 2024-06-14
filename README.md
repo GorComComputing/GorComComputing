@@ -170,6 +170,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="terraform" alt="terraform" width="20" height="20"/>&nbsp;
 
 </div>
+---
 
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: x86-64, ARM, MIPS, RISC-V, PowerPC, AVR, Xtensa, MCS-51 <!-- - **SoC**: ATmega328, ESP32/8266, STM32, Raspberry Pi, TP-LINK MR3020 -->
