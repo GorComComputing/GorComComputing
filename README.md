@@ -213,8 +213,7 @@
 - **Системы сборки**: Make, CMake
 - **CLI**: Bash, Cmd, PowerShell, Tcl
 - **Контроль версий**: Git и GitHub <!-- , SVN -->
-<!-- - **Ruby**: RSpec -->
-<!-- ##### Виртуализация и облачные вычисления: -->
+<!-- - **Ruby**: RSpec --> <!-- ##### Виртуализация и облачные вычисления: -->
 - **IaC**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
 - **Контейнеры**: LXC, Docker, Kubernetes
 - **Виртуальные машины**: QEMU
