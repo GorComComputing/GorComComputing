@@ -224,7 +224,7 @@
 
 ##### Виртуализация и облачные вычисления:
 - **Yandex.Cloud**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
-- **Контейнеры**: LXC, Docker <!-- , Kubernetes -->
+- **Контейнеры**: LXC, Docker, Kubernetes
 - **Виртуальные машины**: QEMU
 
 ##### ЧПУ:
