@@ -180,8 +180,8 @@
 ##### Приложения под <!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)-->:
 - **C**: POSIX, WinAPI, OpenGL, GTK
 - **C++**: <!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk <!-- , C++ Builder -->
-- **Go**: Fyne, Tview, Fiber
-- **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL), Django, Flask   
+- **Go**: Fyne, Tview
+- **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL)   
 <!-- - **Delphi**-->
 <!-- - **Java**: Swing -->
 
