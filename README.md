@@ -86,7 +86,8 @@
 * [СУБД gSQL](https://github.com/GorComComputing/gSQL) (на Go)
 * [СУБД SQLite](https://github.com/GorComComputing/SQLite) (на C)
 * [Библиотека абстрактных типов данных](https://github.com/GorComComputing/Algorithms) (на C++)
-##### Embedded
+##### IoT
+* [Терминал управления Умным домом на ESP32](https://github.com/GorComComputing/TFT_Terminal) (на C++ Arduino)
 * [Игра на микроконтроллере ATmega328](https://github.com/GorComComputing/Game_Arduino) (на C++ Arduino)
 * [Basic на микроконтроллере ATmega328](https://github.com/GorComComputing/Basic_TCP_Arduino) (на C++ Arduino)
 ##### Web front-end
