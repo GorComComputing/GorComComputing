@@ -86,7 +86,7 @@
 * [СУБД gSQL](https://github.com/GorComComputing/gSQL) (на Go)
 * [СУБД SQLite](https://github.com/GorComComputing/SQLite) (на C)
 * [Библиотека абстрактных типов данных](https://github.com/GorComComputing/Algorithms) (на C++)
-##### IoT
+##### Микроконтроллеры
 * [Терминал управления Умным домом на ESP32](https://github.com/GorComComputing/TFT_Terminal) (на C++ Arduino)
 * [Wi-Fi модуль ESP01S UART на ESP8266](https://github.com/GorComComputing/ESP01S_UART) (на C++ Arduino)
 * [Робот, заваривающий чай на ATmega2560](https://github.com/GorComComputing/COFFEE) (на C++ Arduino)
