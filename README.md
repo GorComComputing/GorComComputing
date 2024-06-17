@@ -33,7 +33,7 @@
   <img src="https://media.giphy.com/media/3ohc157IyQlpWtqbug/giphy.gif" width="100"/>
 </div>
 
-**[Моя операционная система Doors](http://www.gorcom.online)** - `Вход без пароля!` 
+**[Моя операционная система Doors](http://www.gorcom.online)** - `Вход без пароля!`  
 [Мой Справочник](https://github.com/GorComComputing/knowledge) 
 
 
