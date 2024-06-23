@@ -33,7 +33,7 @@
   <img src="https://media.giphy.com/media/3ohc157IyQlpWtqbug/giphy.gif" width="100"/>
 </div>
 
-**[Моя операционная система Doors](http://www.gorcom.online)** - `Вход без пароля!`  
+**[Моя операционная система Doors](http://www.gorcom.online)**  
 [Мой Справочник](https://github.com/GorComComputing/knowledge)   
 [Мой Docker Hub](https://hub.docker.com/repositories/gorcomcomputing)
 
@@ -68,7 +68,7 @@
 
 ## Мои проекты
 ##### Операционные системы
-- [Операционная система Doors в браузере](https://github.com/GorComComputing/GUI_DOORS_Go) (Go) - ***[www.gorcom.online](http://www.gorcom.online)*** - `Вход без пароля!`
+- [Операционная система Doors в браузере](https://github.com/GorComComputing/GUI_DOORS_Go) (Go) - ***[www.gorcom.online](http://www.gorcom.online)***
 - [Операционная система Doors 3](https://github.com/GorComComputing/OS_Doors3) (C и Assembly i386, ARM32, MIPS32, RISC-V) - `в разработке` :clock10:
 - [Операционная система Doors 2 (32-бит)](https://github.com/GorComComputing/OS_Doors32) (C и Assembly i386)
 - [Оконный графический интерфейс (для операционной системы Doors)](https://github.com/GorComComputing/GUI_Window) (C)
