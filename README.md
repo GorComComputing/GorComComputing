@@ -70,7 +70,7 @@
 
 
 
-## Мои проекты
+## 💾 Мои проекты
 ##### Операционные системы
 - [Операционная система Doors в браузере](https://github.com/GorComComputing/GUI_DOORS_Go) (Go) - ***[www.gorcom.online](http://www.gorcom.online)***
 - [Операционная система Doors 3](https://github.com/GorComComputing/OS_Doors3) (C и Assembly i386, ARM32, MIPS32, RISC-V) - `в разработке` :clock10:
