@@ -213,7 +213,10 @@
 
 ##### Базы данных:
 - **SQL**: PostgreSQL, MySQL, SQLite
-- **NoSQL**: MongoDB, Redis 
+- **NoSQL**: MongoDB, Redis
+
+##### Системное администрирование
+- **Сетевые технологии**: TCP/IP, DNS, DHCP, VPN, Firewall
 
 <!--##### Системы сборки:
 - **C**/**C++**: Make, CMake-->
@@ -226,7 +229,7 @@
 - **CLI**: Bash, Cmd, PowerShell, Tcl
 - **Контроль версий Git**: GitHub, Bitbucket, GitLab <!-- , SVN --> <!-- - **Ruby**: RSpec --> <!-- ##### Виртуализация и облачные вычисления: -->
 - **IaC**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
-- **Контейнеры**: LXC, Docker, Kubernetes
+- **Контейнеры**: Docker, Kubernetes, LXC
 - **Виртуальные машины**: QEMU
 
 <!--##### Программный инжиниринг:
@@ -240,46 +243,14 @@
 
 ##### Инженерия ПО
 - **Управление проектами**: Jira, Confluence
+- **Архитектура ПО**: Microservices, Monolithic, SOA, MVC 
 
 
-<!-- ## Микропроцессорные системы
-- **Assembly**: x86-64, ARM, MIPS, RISC-V, PowerPC, AVR, Xtensa, MCS-51
-- **C**
-- **C++**: Arduino
-- **Embedded Linux**: Buildroot, OpenWrt, crosstool-ng, U-Boot, GRUB2, Linux kernel, BusyBox
-
-## Приложения под Linux и Windows
-- **C++**: POSIX, WinAPI, OpenGL, GTK, SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk
-- **Go**: Fyne, Tview
-- **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL), Selenium
-
-## Web back-end
-- **Go**: Fiber
-- **Python**: Django, Flask
-- **PHP**: Laravel, Yii, Modx, 1C:Bitrix
-
-## Web front-end
-- **JavaScript**: React, JQuery, AJAX, WebGL
-- **C++ | Go**: WebAssembly
-- **HTML & CSS**: Bootstrap
-
-## Базы данных
-- **SQL**: PostgreSQL, MySQL, SQLite
-- **NoSQL**: MongoDB, Redis
-
-## DevOps
-- **Python**
-- **Системы сборки**: Make, CMake
-- **CLI**: Bash, Cmd, PowerShell, Tcl
-- **Контроль версий**: Git и GitHub
-- **IaC**: Terraform, Ansible
-- **Контейнеры**: LXC, Docker, Kubernetes
-- **Виртуальные машины**: QEMU
+<!-- 
 
 ## Системное администрирование
 - **Операционные системы**: Linux (Debian, Ubuntu, CentOS), Windows Server
 - **Мониторинг и логирование**: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
-- **Сетевые технологии**: TCP/IP, DNS, DHCP, VPN, Firewall
 
 ## Безопасность
 - **Кибербезопасность**: Penetration Testing, Ethical Hacking, Security Audits
@@ -287,14 +258,11 @@
 
 ## Виртуализация и облачные технологии
 - **Облачные платформы**: AWS, Google Cloud Platform (GCP), Microsoft Azure
-- **Контейнеризация**: Docker, Kubernetes
-- **Оркестрация и управление контейнерами**: Kubernetes, Docker Swarm
 - **Инструменты автоматизации**: Jenkins, GitLab CI/CD
 
 ## Программирование
 - **Языки программирования**: Java, Rust, Swift, Kotlin, Ruby, TypeScript
 - **Фреймворки и библиотеки**: Spring Boot (Java), Ruby on Rails (Ruby), .NET (C#)
-- **Методологии разработки**: Agile, Scrum, Kanban
 
 ## Мобильная разработка
 - **Android**: Java, Kotlin, Android SDK
@@ -321,7 +289,7 @@
 
 ## Инженерия ПО
 - **Управление проектами**: Jira, Trello, Asana
-- **Архитектура ПО**: Microservices, Monolithic, SOA, MVC -->
+-->
 
 
 
