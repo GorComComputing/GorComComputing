@@ -215,7 +215,7 @@
 - **SQL**: PostgreSQL, MySQL, SQLite
 - **NoSQL**: MongoDB, Redis
 
-##### Системное администрирование
+##### Системное администрирование:
 - **Сетевые технологии**: TCP/IP, DNS, DHCP, VPN, Firewall
 
 <!--##### Системы сборки:
@@ -241,7 +241,7 @@
 - **3D-принтеры**: Компас 3D, Cura
 - **G-code**: GRBL
 
-##### Инженерия ПО
+##### Инженерия ПО:
 - **Управление проектами**: Jira, Confluence
 - **Архитектура ПО**: Microservices, Monolithic, SOA, MVC 
 
