@@ -77,7 +77,7 @@
 - [Операционная система Doors 2 (32-бит)](https://github.com/GorComComputing/OS_Doors32) (C и Assembly i386)
 - [Оконный графический интерфейс (для операционной системы Doors)](https://github.com/GorComComputing/GUI_Window) (C)
 ##### Компиляторы и виртуальные машины
-- [Виртуальный процессор 8-bit-AON и компилятор](https://github.com/GorComComputing/8-bit-AON-Computer) (С++ и JavaScript)
+- [Виртуальный процессор 8-bit-AON и компилятор](https://github.com/GorComComputing/8-bit-AON-Computer) (С++ и JavaScript) - ***[www.gorcom.online/aon](http://www.gorcom.online/aon)***
 - [Компилятор и ассемблер для процессора 8-bit-AON](https://github.com/GorComComputing/C_Compiler) (Delphi XE 10.3)
 - [Компилятор языка Oberon для стековой виртуальной машины OVM](https://github.com/GorComComputing/Oberon_Compiler) (Python)
 - [Текстовый редактор](https://github.com/GorComComputing/TextEditor) (C)
@@ -203,6 +203,7 @@
 - **Go**: Fiber <!-- - **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL, gRPC , Lombok-->  
 - **Python**: Django, Flask   
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
+- **Web-серверы**: nginx, Apache
 <!-- - **JavaScript**: Node.js, Express.js -->
 <!-- - **Ruby**: Ruby on Rails-->
 
@@ -213,7 +214,7 @@
 
 ##### Базы данных:
 - **SQL**: PostgreSQL, MySQL, SQLite
-- **NoSQL**: MongoDB, Redis
+- **NoSQL {ключ:значение}**: MongoDB, Redis
 
 ##### Системное администрирование:
 - **Сетевые технологии**: TCP/IP, DNS, DHCP, VPN, Firewall
