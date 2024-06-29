@@ -72,12 +72,12 @@
 
 ## 🚀 Мои проекты
 ##### Операционные системы
-- [Операционная система Doors в браузере](https://github.com/GorComComputing/GUI_DOORS_Go) (Go) - ***[www.gorcom.online](http://www.gorcom.online)***
+- [Операционная система Doors в браузере](https://github.com/GorComComputing/GUI_DOORS_Go) (Go) - ***[Посмотреть](http://www.gorcom.online)***
 - [Операционная система Doors 3](https://github.com/GorComComputing/OS_Doors3) (C и Assembly i386, ARM32, MIPS32, RISC-V) - `в разработке` :clock10:
 - [Операционная система Doors 2 (32-бит)](https://github.com/GorComComputing/OS_Doors32) (C и Assembly i386)
 - [Оконный графический интерфейс (для операционной системы Doors)](https://github.com/GorComComputing/GUI_Window) (C)
 ##### Компиляторы и виртуальные машины
-- [Виртуальный процессор 8-bit-AON и компилятор](https://github.com/GorComComputing/8-bit-AON-Computer) (С++ и JavaScript) - ***[www.gorcom.online/aon](http://www.gorcom.online/aon)***
+- [Виртуальный процессор 8-bit-AON и компилятор](https://github.com/GorComComputing/8-bit-AON-Computer) (С++ и JavaScript) - ***[Посмотреть](http://www.gorcom.online/aon)***
 - [Компилятор и ассемблер для процессора 8-bit-AON](https://github.com/GorComComputing/C_Compiler) (Delphi XE 10.3)
 - [Компилятор языка Oberon для стековой виртуальной машины OVM](https://github.com/GorComComputing/Oberon_Compiler) (Python)
 - [Текстовый редактор](https://github.com/GorComComputing/TextEditor) (C)
