@@ -81,7 +81,6 @@
 - [Компилятор и ассемблер для процессора 8-bit-AON](https://github.com/GorComComputing/C_Compiler) (Delphi XE 10.3)
 - [Компилятор языка Oberon для стековой виртуальной машины OVM](https://github.com/GorComComputing/Oberon_Compiler) (Python)
 - [Текстовый редактор](https://github.com/GorComComputing/TextEditor) (C)
-- [Эмулятор процессора 8-bit-AON](https://github.com/GorComComputing/8bitAON) (Go)
 ##### Компьютерная графика
 - [Графическая библиотека](https://github.com/GorComComputing/Graphics) (C)
 - [Игра (использование библиотеки PyGame)](https://github.com/GorComComputing/Game_PyGame) (Python)
