@@ -199,8 +199,9 @@
 <!-- - **Java**: Swing -->
 
 ##### Web back-end:
-- **Go**: Fiber <!-- - **Java**: Spring, Hibernate, JDBC, Tomcat, JSP, JSTL, gRPC , Lombok-->  
-- **Python**: Django, Flask   
+- **Go**: Fiber   
+- **Python**: Django, Flask
+- **Java**: JSP <!-- Spring, Hibernate, JDBC, Tomcat, JSTL, gRPC , Lombok-->
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 - **Web-серверы**: nginx, Apache
 - **Брокеры сообщений**: RabbitMQ
@@ -227,7 +228,7 @@
 ##### DevOps:
 <!-- - **Java**: JUnit --> 
 - **Python**
-- **Системы сборки**: Make, CMake
+- **Системы сборки**: Make, CMake, Maven
 - **CLI**: Bash, Cmd, PowerShell, Tcl
 - **Контроль версий Git**: GitHub, Bitbucket, GitLab <!-- , SVN --> <!-- - **Ruby**: RSpec --> <!-- ##### Виртуализация и облачные вычисления: -->
 - **IaC**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
