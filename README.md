@@ -194,7 +194,7 @@
 <!-- - **C**: POSIX, WinAPI, OpenGL, GTK -->
 - **C++**: POSIX, WinAPI, OpenGL, GTK,<!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk <!-- , C++ Builder -->
 - **Go**: Fyne, Tview
-- **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL), Selenium  
+- **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL), Selenium, Jupyter Notebook
 <!-- - **Delphi**-->
 <!-- - **Java**: Swing -->
 
@@ -208,9 +208,10 @@
 <!-- - **Ruby**: Ruby on Rails-->
 
 ##### Web front-end:
-- **JavaScript**: React, <!-- Angular, --> JQuery, AJAX, <!-- Vue.js --> <!-- - **TypeScript** --> WebGL
+- **JavaScript**: React, <!-- Angular, --> JQuery, AJAX, <!-- Vue.js --> WebGL
+- **TypeScript**: TSX (TypeScript + JSX)
 - **<!--C |--> C++ | Go<!-- | Rust | WAT -->**: WebAssembly
-- **HTML** & **CSS**: Bootstrap
+- **HTML** & **CSS**: Bootstrap, SCSS
 
 ##### Базы данных:
 - **SQL**: PostgreSQL, MySQL, SQLite
