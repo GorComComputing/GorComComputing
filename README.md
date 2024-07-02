@@ -203,6 +203,7 @@
 - **Python**: Django, Flask   
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 - **Web-серверы**: nginx, Apache
+- **Брокеры сообщений**: RabbitMQ
 <!-- - **JavaScript**: Node.js, Express.js -->
 <!-- - **Ruby**: Ruby on Rails-->
 
