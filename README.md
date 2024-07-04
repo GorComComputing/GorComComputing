@@ -204,7 +204,7 @@
 - **Java**: JSP, JDBC <!-- Spring, Hibernate, Tomcat, JSTL, gRPC , Lombok-->
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 - **Web-серверы**: nginx, Apache
-- **Брокеры сообщений**: RabbitMQ
+- **Брокеры сообщений**: RabbitMQ (AMQP, MQTT)
 <!-- - **JavaScript**: Node.js, Express.js -->
 <!-- - **Ruby**: Ruby on Rails-->
 
