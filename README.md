@@ -201,9 +201,9 @@
 ##### Web back-end:
 - **Go**: Fiber   
 - **Python**: Django, Flask
-- **Java**: JSP, JDBC <!-- Spring, Hibernate, Tomcat, JSTL, gRPC , Lombok-->
+- **Java**: JSP, JDBC <!-- Spring, Hibernate, JSTL, gRPC , Lombok-->
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
-- **Web-серверы**: nginx, Apache
+- **Web-серверы**: nginx, Apache, Tomcat
 - **Брокеры сообщений**: RabbitMQ (AMQP, MQTT)
 <!-- - **JavaScript**: Node.js, Express.js -->
 <!-- - **Ruby**: Ruby on Rails-->
