@@ -195,7 +195,7 @@
 - **C++**: POSIX, WinAPI, OpenGL, GTK,<!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk <!-- , C++ Builder -->
 - **Go**: Fyne, Tview
 - **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL), Selenium, Jupyter Notebook
-<!-- - **Delphi**-->
+- **Delphi**
 <!-- - **Java**: Swing -->
 
 ##### Web back-end:
