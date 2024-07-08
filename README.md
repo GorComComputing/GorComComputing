@@ -220,7 +220,7 @@
 - **NoSQL {ключ:значение}**: MongoDB, Redis
 
 ##### Системное администрирование:
-- **Сетевые технологии**: TCP/IP, DNS, DHCP, VPN, Firewall
+- **Сетевые технологии**: TCP/IP, SMTP, DNS, DHCP, VPN, Firewall
 
 <!--##### Системы сборки:
 - **C**/**C++**: Make, CMake-->
