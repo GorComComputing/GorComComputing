@@ -202,9 +202,9 @@
 ##### Web back-end:
 - **Go**: Fiber   
 - **Python**: Django, Flask
-- **Java**:
+- **Java**: Hibernate, Lombok, gRPC
   - **Jakarta EE**: Servlets, JSP/JSTL, JDBC
-  - **Spring**: Spring MVC, Spring Data JDBC, Spring Boot, Spring Security <!-- Hibernate, gRPC , Lombok-->
+  - **Spring**: Spring MVC, Spring Data JDBC, Spring Boot, Spring Security
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 - **Web-серверы**: nginx, Apache, Tomcat
 - **Брокеры сообщений**: RabbitMQ (AMQP, MQTT)
