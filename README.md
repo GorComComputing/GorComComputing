@@ -221,7 +221,7 @@
 - **SQL**: PostgreSQL, MySQL, SQLite
 - **NoSQL {ключ:значение}**: MongoDB, Redis
 
-##### Сетевые технологии:
+##### Сетевые технологии и протоколы:
 - **Прикладной**: HTTP/HTTPS, SMTP, DNS, FTP, DHCP, SNMP, NTP, SSH, MQTT <!-- POP3, IMAP, Telnet, SIP  --> <!-- Представления: SSL/TLS, JPEG, MPEG, GIF, ASCII, EBCDIC, XDR -->
 - **Транспортный**: TCP, UDP <!-- SCTP, DCCP --> <!-- Сеансовый: NetBIOS, PPTP, RPC -->
 - **Сетевой**: IP <!-- ICMP, IGMP, IPsec -->
