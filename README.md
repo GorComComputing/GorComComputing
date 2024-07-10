@@ -221,8 +221,12 @@
 - **SQL**: PostgreSQL, MySQL, SQLite
 - **NoSQL {ключ:значение}**: MongoDB, Redis
 
-##### Системное администрирование:
-- **Сетевые технологии**: TCP/IP, SMTP, DNS, DHCP, VPN, Firewall
+##### Сетевые технологии:
+- **Прикладной**: HTTP/HTTPS, SMTP, DNS, FTP, DHCP, SNMP, NTP, SSH, MQTT <!-- POP3, IMAP, Telnet, SIP  --> <!-- Представления: SSL/TLS, JPEG, MPEG, GIF, ASCII, EBCDIC, XDR -->
+- **Транспортный**: TCP, UDP <!-- SCTP, DCCP --> <!-- Сеансовый: NetBIOS, PPTP, RPC -->
+- **Сетевой**: IP <!-- ICMP, IGMP, IPsec -->
+- **Канальный**: Ethernet, ARP, IEEE 802.11 (Wi-Fi) <!-- PPP, HDLC, Frame Relay, ATM -->
+- **Физический**: Ethernet, USB, Bluetooth, IEEE 802.11 (Wi-Fi)
 
 <!--##### Системы сборки:
 - **C**/**C++**: Make, CMake-->
