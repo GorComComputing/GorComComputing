@@ -187,6 +187,7 @@
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: x86-64, ARM, MIPS, RISC-V, PowerPC, AVR, Xtensa, MCS-51
 - **SoC**: ATmega328/2560, ESP32/8266, STM32, RP2040 <!--, TP-LINK MR3020 -->
+- **Протоколы связи**: UART, SPI, I2C <!-- CAN, LIN, USB, RS-232/RS-485, Ethernet, Zigbee, Bluetooth -->
 - **C** <!--: FreeRTOS -->
 - **C++**: Arduino <!-- Wiring --> <!-- - **Go**: TinyGo -->
 - **Embedded Linux**: Buildroot, OpenWrt, crosstool-ng, U-Boot, GRUB2, Linux kernel, BusyBox
