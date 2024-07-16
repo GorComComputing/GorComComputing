@@ -242,6 +242,7 @@
 - **IaC**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
 - **Контейнеры**: Docker, Kubernetes, LXC
 - **Виртуальные машины**: QEMU
+- **Облачные платформы**: AWS <!--, Google Cloud Platform (GCP), Microsoft Azure -->
 
 <!--##### Программный инжиниринг:
 - **ОС**: Linux, Windows-->  <!--, FreeBSD, Unix -->
