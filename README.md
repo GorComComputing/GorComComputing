@@ -242,7 +242,7 @@
 - **IaC**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
 - **Контейнеры**: Docker, Kubernetes, LXC
 - **Виртуальные машины**: QEMU
-- **Облачные платформы**: AWS <!--, Google Cloud Platform (GCP), Microsoft Azure -->
+- **Облачные платформы**: AWS (Amazon S3) <!--, Google Cloud Platform (GCP), Microsoft Azure -->
 
 <!--##### Программный инжиниринг:
 - **ОС**: Linux, Windows-->  <!--, FreeBSD, Unix -->
@@ -269,7 +269,6 @@
 - **Инструменты**: Wireshark, Metasploit, OpenVAS
 
 ## Виртуализация и облачные технологии
-- **Облачные платформы**: AWS, Google Cloud Platform (GCP), Microsoft Azure
 - **Инструменты автоматизации**: Jenkins, GitLab CI/CD
 
 ## Программирование
