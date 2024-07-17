@@ -188,8 +188,10 @@
 - **Assembly**: x86-64, ARM, MIPS, RISC-V, PowerPC, AVR, Xtensa, MCS-51
 - **Микроконтроллеры**: ATmega328/2560, ESP32/8266, STM32, RP2040 <!--, TP-LINK MR3020 -->
 - **Протоколы связи**: UART, SPI, I2C, USB, PS/2 <!-- CAN, LIN, RS-232/RS-485, Ethernet, Zigbee, Bluetooth -->
-- **C**: Модули ядра Linux, системные вызовы ядра Linux <!--: FreeRTOS -->
 - **C++**: Arduino <!-- Wiring --> <!-- - **Go**: TinyGo -->
+
+##### Linux:
+- **C**: Модули ядра Linux, системные вызовы ядра Linux <!--: FreeRTOS -->
 - **Embedded Linux**: Buildroot, OpenWrt, crosstool-ng, U-Boot, GRUB2, Linux kernel, BusyBox
 
 ##### Приложения под <!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)-->:
@@ -197,7 +199,7 @@
 - **C++**: POSIX, WinAPI, OpenGL, GTK,<!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk <!-- , C++ Builder -->
 - **Go**: Fyne, Tview
 - **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL), Selenium, Jupyter Notebook
-- **Delphi**
+<!-- - **Delphi** -->
 <!-- - **Java**: Swing -->
 
 ##### Web back-end:
@@ -253,9 +255,9 @@
 - **3D-принтеры**: Компас 3D, Cura
 - **G-code**: GRBL
 
-##### Инженерия ПО:
+<!-- ##### Инженерия ПО:
 - **Управление проектами**: Jira, Confluence, Trello, Asana
-- **Архитектура ПО**: Микросервисная, Монолитная, SOA, MVC 
+- **Архитектура ПО**: Микросервисная, Монолитная, SOA, MVC -->
 
 
 <!-- 
