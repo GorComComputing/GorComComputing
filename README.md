@@ -227,7 +227,7 @@
 ##### Сетевые технологии и протоколы:
 - **Прикладной**: HTTP/HTTPS, SMTP, DNS, FTP, DHCP, SNMP, NTP, SSH, MQTT <!-- POP3, IMAP, Telnet, SIP  --> <!-- Представления: SSL/TLS, JPEG, MPEG, GIF, ASCII, EBCDIC, XDR -->
 - **Транспортный**: TCP, UDP, DCCP, SCTP <!-- Сеансовый: NetBIOS, PPTP, RPC -->
-- **Сетевой**: IPv4, IPv6, ARP <!-- ICMP, IGMP, IPsec -->
+- **Сетевой**: ARP, IPv4, IPv6, ICMP <!-- IGMP, IPsec -->
 - **Канальный**: IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi) <!-- PPP, HDLC, Frame Relay, ATM -->
 <!-- - **Физический**: IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi), Bluetooth -->
 
