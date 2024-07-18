@@ -226,7 +226,7 @@
 
 ##### Сетевые технологии и протоколы:
 - **Прикладной**: HTTP/HTTPS, SMTP, DNS, FTP, DHCP, SNMP, NTP, SSH, MQTT <!-- POP3, IMAP, Telnet, SIP  --> <!-- Представления: SSL/TLS, JPEG, MPEG, GIF, ASCII, EBCDIC, XDR -->
-- **Транспортный**: TCP, UDP <!-- SCTP, DCCP --> <!-- Сеансовый: NetBIOS, PPTP, RPC -->
+- **Транспортный**: TCP, UDP, DCCP, SCTP <!-- Сеансовый: NetBIOS, PPTP, RPC -->
 - **Сетевой**: IPv4, IPv6, ARP <!-- ICMP, IGMP, IPsec -->
 - **Канальный**: IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi) <!-- PPP, HDLC, Frame Relay, ATM -->
 <!-- - **Физический**: IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi), Bluetooth -->
@@ -244,7 +244,7 @@
 - **IaC**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
 - **Контейнеры**: Docker, Kubernetes, LXC
 - **Виртуальные машины**: QEMU
-- **Облачные платформы**: AWS (Amazon S3) <!--, Google Cloud Platform (GCP), Microsoft Azure -->
+- **Облачные платформы**: AWS (S3 Bucket, EC2) <!--, Google Cloud Platform (GCP), Microsoft Azure -->
 
 <!--##### Программный инжиниринг:
 - **ОС**: Linux, Windows-->  <!--, FreeBSD, Unix -->
