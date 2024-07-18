@@ -229,7 +229,7 @@
 - **Транспортный**: TCP, UDP <!-- SCTP, DCCP --> <!-- Сеансовый: NetBIOS, PPTP, RPC -->
 - **Сетевой**: IP <!-- ICMP, IGMP, IPsec -->
 - **Канальный**: Ethernet, ARP, IEEE 802.11 (Wi-Fi) <!-- PPP, HDLC, Frame Relay, ATM -->
-- **Физический**: Ethernet, IEEE 802.11 (Wi-Fi), Bluetooth
+- **Физический**: IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi), Bluetooth
 
 <!--##### Системы сборки:
 - **C**/**C++**: Make, CMake-->
