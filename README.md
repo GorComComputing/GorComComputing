@@ -225,6 +225,7 @@
 ##### Базы данных:
 - **SQL**: PostgreSQL, MySQL, SQLite
 - **NoSQL {ключ:значение}**: MongoDB, Redis
+- **Кэш-системы**: Redis, Memcached
 
 ##### Сетевые технологии и протоколы:
 - **Прикладной**: HTTP/HTTPS, SMTP, DNS, FTP, DHCP, SNMP, NTP, SSH, MQTT <!-- POP3, IMAP, Telnet, SIP  --> <!-- Представления: SSL/TLS, JPEG, MPEG, GIF, ASCII, EBCDIC, XDR -->
