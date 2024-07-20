@@ -80,6 +80,7 @@
 - [Виртуальный процессор 8-bit-AON и компилятор](https://github.com/GorComComputing/8-bit-AON-Computer) (С++ и JavaScript) - ***:eyes: [Посмотреть](http://www.gorcom.online/aon)***
 - [Компилятор и ассемблер для процессора 8-bit-AON](https://github.com/GorComComputing/C_Compiler) (Delphi XE 10.3)
 - [Компилятор языка Oberon для стековой виртуальной машины OVM](https://github.com/GorComComputing/Oberon_Compiler) (Python)
+- [Интерпретатор PHP](https://github.com/GorComComputing/php) (C++)
 - [Текстовый редактор](https://github.com/GorComComputing/TextEditor) (C)
 ##### Компьютерная графика
 - [Графическая библиотека](https://github.com/GorComComputing/Graphics) (C)
