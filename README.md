@@ -107,6 +107,7 @@
 - [Long Poll](https://github.com/GorComComputing/LongPoll) (Go и JavaScript)
 - [Веб-терминал для Linux](https://github.com/GorComComputing/WebConsole) (Go и JavaScript)
 ##### Web back-end
+- [Интерпретатор PHP](https://github.com/GorComComputing/apache) (C++)
 - [Web Server](https://github.com/GorComComputing/Web_Server) (C)
 - [Web Server (Сайт на Ассемблере)](https://github.com/GorComComputing/Site_on_Asm) (Assembly i386)
 ##### Сети
