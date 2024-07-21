@@ -242,6 +242,7 @@
 <!-- - **Java**: JUnit --> 
 - **Python**
 - **Системы сборки**: Make, CMake, Maven
+- **Юнит-тесты**: Google Test (gtest), Catch2, Boost.Test
 - **CLI**: Bash, Cmd, PowerShell, Tcl
 - **Контроль версий Git**: GitHub, Bitbucket, GitLab <!-- , SVN --> <!-- - **Ruby**: RSpec --> <!-- ##### Виртуализация и облачные вычисления: -->
 - **IaC**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
