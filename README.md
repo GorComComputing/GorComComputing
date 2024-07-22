@@ -235,7 +235,7 @@
 ##### DevOps:
 - **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL), Selenium, Jupyter Notebook
 - **Системы сборки**: Make, CMake, Maven
-- **Юнит-тесты**: Google Test (gtest), Catch2, Boost.Test, JUnit
+- **Юнит-тесты**: Google Test (gtest), Catch2, Boost.Test, JUnit (Java), testing (Go)
 - **CLI**: Bash, Cmd, PowerShell, Tcl
 - **Контроль версий Git**: GitHub, Bitbucket, GitLab <!-- , SVN --> <!-- - **Ruby**: RSpec --> <!-- ##### Виртуализация и облачные вычисления: -->
 <!-- - **Инструменты автоматизации**: Jenkins, GitLab CI/CD -->
