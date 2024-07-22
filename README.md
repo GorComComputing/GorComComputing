@@ -199,7 +199,6 @@
 <!-- - **C**: POSIX, WinAPI, OpenGL, GTK -->
 - **C++**: POSIX,<!-- WinAPI,--> OpenGL, GTK,<!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk <!-- , C++ Builder -->
 - **Go**: Fyne, Tview, Fiber
-- **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL), Selenium, Jupyter Notebook
 <!-- - **Delphi** -->
 <!-- - **Java**: Swing -->
 
@@ -209,11 +208,11 @@
 - **HTML** & **CSS**: Bootstrap, SCSS
 
 ##### Web back-end:  
-- **Python**: Django, Flask
 - **Java**: Hibernate, Lombok, gRPC
   - **Jakarta EE**: Servlets, JSP/JSTL, JDBC
   - **Spring**: Spring MVC, Spring Data JDBC, Spring Boot, Spring Security
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
+- **Python**: Django, Flask
 - **Web-серверы**: nginx, Apache, Tomcat
 - **Брокеры сообщений**: RabbitMQ (AMQP, MQTT)
 <!-- - **JavaScript**: Node.js, Express.js -->
@@ -234,10 +233,9 @@
 <!-- - **Java**: Maven, Ant+Ivy, Gradle, Jenkins -->
 
 ##### DevOps:
-<!-- - **Java**: JUnit --> 
-- **Python**
+- **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL), Selenium, Jupyter Notebook
 - **Системы сборки**: Make, CMake, Maven
-- **Юнит-тесты**: Google Test (gtest), Catch2, Boost.Test
+- **Юнит-тесты**: Google Test (gtest), Catch2, Boost.Test, JUnit
 - **CLI**: Bash, Cmd, PowerShell, Tcl
 - **Контроль версий Git**: GitHub, Bitbucket, GitLab <!-- , SVN --> <!-- - **Ruby**: RSpec --> <!-- ##### Виртуализация и облачные вычисления: -->
 - **IaC**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
