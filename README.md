@@ -213,9 +213,9 @@
   - **Spring**: Spring MVC, Spring Data JDBC, Spring Boot, Spring Security
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 - **Python**: Django, Flask
+<!-- - **JavaScript**: Node.js, Express.js -->
 - **Web-серверы**: nginx, Apache, Tomcat
 - **Брокеры сообщений**: RabbitMQ (AMQP, MQTT)
-<!-- - **JavaScript**: Node.js, Express.js -->
 <!-- - **Ruby**: Ruby on Rails-->
 - **Базы данных SQL**: PostgreSQL, MySQL, SQLite
 - **NoSQL {ключ:значение}**: MongoDB, Redis
