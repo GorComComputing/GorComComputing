@@ -238,8 +238,8 @@
 - **Юнит-тесты**: Google Test (gtest), Catch2, Boost.Test, JUnit
 - **CLI**: Bash, Cmd, PowerShell, Tcl
 - **Контроль версий Git**: GitHub, Bitbucket, GitLab <!-- , SVN --> <!-- - **Ruby**: RSpec --> <!-- ##### Виртуализация и облачные вычисления: -->
-- **IaC**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
 <!-- - **Инструменты автоматизации**: Jenkins, GitLab CI/CD -->
+- **IaC**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
 - **Контейнеры**: Docker, Kubernetes, LXC
 - **Виртуальные машины**: QEMU
 - **Облачные платформы**: AWS (S3 Bucket, EC2) <!--, Google Cloud Platform (GCP), Microsoft Azure -->
