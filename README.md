@@ -188,24 +188,27 @@
 
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: x86-64, ARM, MIPS, RISC-V, PowerPC, AVR, Xtensa, MCS-51
-- **Микроконтроллеры**: ATmega328/2560, ESP32/8266, STM32, RP2040 <!--, TP-LINK MR3020 -->
+- **C++**: Arduino <!-- Wiring -->(ATmega328/2560, ESP32/8266, STM32, RP2040) <!--, TP-LINK MR3020 -->
 - **Протоколы связи**: UART, SPI, I2C, USB, PS/2 <!-- CAN, LIN, RS-232/RS-485, Ethernet, Zigbee, Bluetooth -->
-- **C++**: Arduino <!-- Wiring --> <!-- - **Go**: TinyGo -->
+<!-- - **Go**: TinyGo -->
 
-##### Linux:
-- **C**: Модули ядра Linux, системные вызовы ядра Linux <!--: FreeRTOS -->
-- **Embedded Linux**: Buildroot, OpenWrt, crosstool-ng, U-Boot, GRUB2, Linux kernel, BusyBox
+##### Embedded Linux:
+- **C**: Buildroot, OpenWrt, crosstool-ng, U-Boot, GRUB2, Linux kernel, BusyBox, Модули ядра Linux (и системные вызовы) <!--: FreeRTOS -->
 
-##### Приложения под <!--Desktop (-->Linux, Windows<!--, FreeBSD --><!--)-->:
+##### Приложения под <!--Desktop (-->Linux<!--, Windows, FreeBSD --><!--)-->:
 <!-- - **C**: POSIX, WinAPI, OpenGL, GTK -->
 - **C++**: POSIX, WinAPI, OpenGL, GTK,<!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk <!-- , C++ Builder -->
-- **Go**: Fyne, Tview
+- **Go**: Fyne, Tview, Fiber
 - **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL), Selenium, Jupyter Notebook
 <!-- - **Delphi** -->
 <!-- - **Java**: Swing -->
 
-##### Web back-end:
-- **Go**: Fiber   
+##### Web front-end:
+- **JavaScript**: React, <!-- Angular, --> JQuery, AJAX, <!-- Vue.js --> WebGL, TSX (TypeScript + JSX)
+- **<!--C |--> C++ | Go<!-- | Rust | WAT -->**: WebAssembly
+- **HTML** & **CSS**: Bootstrap, SCSS
+
+##### Web back-end:  
 - **Python**: Django, Flask
 - **Java**: Hibernate, Lombok, gRPC
   - **Jakarta EE**: Servlets, JSP/JSTL, JDBC
@@ -215,15 +218,7 @@
 - **Брокеры сообщений**: RabbitMQ (AMQP, MQTT)
 <!-- - **JavaScript**: Node.js, Express.js -->
 <!-- - **Ruby**: Ruby on Rails-->
-
-##### Web front-end:
-- **JavaScript**: React, <!-- Angular, --> JQuery, AJAX, <!-- Vue.js --> WebGL
-- **TypeScript**: TSX (TypeScript + JSX)
-- **<!--C |--> C++ | Go<!-- | Rust | WAT -->**: WebAssembly
-- **HTML** & **CSS**: Bootstrap, SCSS
-
-##### Базы данных:
-- **SQL**: PostgreSQL, MySQL, SQLite
+- **Базы данных SQL**: PostgreSQL, MySQL, SQLite
 - **NoSQL {ключ:значение}**: MongoDB, Redis
 - **Кэш-системы**: Redis, Memcached
 
@@ -246,9 +241,11 @@
 - **CLI**: Bash, Cmd, PowerShell, Tcl
 - **Контроль версий Git**: GitHub, Bitbucket, GitLab <!-- , SVN --> <!-- - **Ruby**: RSpec --> <!-- ##### Виртуализация и облачные вычисления: -->
 - **IaC**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
+<!-- - **Инструменты автоматизации**: Jenkins, GitLab CI/CD -->
 - **Контейнеры**: Docker, Kubernetes, LXC
 - **Виртуальные машины**: QEMU
 - **Облачные платформы**: AWS (S3 Bucket, EC2) <!--, Google Cloud Platform (GCP), Microsoft Azure -->
+<!-- - **Мониторинг и логирование**: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana) -->
 
 <!--##### Программный инжиниринг:
 - **ОС**: Linux, Windows-->  <!--, FreeBSD, Unix -->
@@ -268,18 +265,15 @@
 
 ## Системное администрирование
 - **Операционные системы**: Linux (Debian, Ubuntu, CentOS), Windows Server
-- **Мониторинг и логирование**: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
 
 ## Безопасность
 - **Кибербезопасность**: Penetration Testing, Ethical Hacking, Security Audits
 - **Инструменты**: Wireshark, Metasploit, OpenVAS
 
-## Виртуализация и облачные технологии
-- **Инструменты автоматизации**: Jenkins, GitLab CI/CD
 
 ## Программирование
-- **Языки программирования**: Java, Rust, Swift, Kotlin, Ruby, TypeScript
-- **Фреймворки и библиотеки**: Spring Boot (Java), Ruby on Rails (Ruby), .NET (C#)
+- **Языки программирования**: Rust, Swift, Kotlin, Ruby
+- **Фреймворки и библиотеки**: Ruby on Rails (Ruby), .NET (C#)
 
 ## Мобильная разработка
 - **Android**: Java, Kotlin, Android SDK
@@ -292,8 +286,7 @@
 - **Big Data**: Apache Hadoop, Apache Spark
 
 ## IoT (Интернет вещей)
-- **Протоколы**: MQTT, CoAP
-- **Платформы**: Arduino, Raspberry Pi, ESP8266/ESP32
+- **Протоколы**: CoAP
 - **Сенсоры и актуаторы**: Температурные сенсоры, датчики движения, реле
 
 ## Геймдев
