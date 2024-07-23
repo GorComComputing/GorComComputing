@@ -88,6 +88,7 @@
 - [TUI - графический интерфейс в терминале (библиотека Tview)](https://github.com/GorComComputing/Tview) (Go)
 ##### Командные интерпретаторы
 - [Shell для Linux](https://github.com/GorComComputing/Shell) (C)
+- [Shell для Linux](https://github.com/GorComComputing/Shell_rust) (Rust)
 - [Shell для утилиты Chrony (NTP)](https://github.com/GorComComputing/Shell_Chrony) (Go)
 - [Basic 512 байт (в загрузочный сектор)](https://github.com/GorComComputing/Basic512) (Assembly x86)
 ##### Базы данных
