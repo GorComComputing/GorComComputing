@@ -202,12 +202,13 @@
 <!-- - **C**: POSIX, WinAPI, OpenGL, GTK -->
 - **C++**: POSIX,<!-- WinAPI,--> OpenGL, GTK,<!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk <!-- , C++ Builder -->
 - **Go**: Fyne, Tview, Fiber
+- **Rust**
 <!-- - **Delphi** -->
 <!-- - **Java**: Swing -->
 
 ##### Web front-end:
 - **JavaScript**: React, <!-- Angular, --> JQuery, AJAX, <!-- Vue.js --> WebGL, TSX (TypeScript + JSX)
-- **<!--C |--> C++ | Go<!-- | Rust | WAT -->**: WebAssembly
+- **<!--C |--> C++ | Go | Rust<!-- | WAT -->**: WebAssembly
 - **HTML** & **CSS**: Bootstrap, SCSS
 
 ##### Web back-end:  
