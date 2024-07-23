@@ -106,7 +106,7 @@
 - [Браузер](https://github.com/GorComComputing/Browser) (Python)
 - [Framework.js](https://github.com/GorComComputing/Framework.js) (JavaScript)
 - [Long Poll](https://github.com/GorComComputing/LongPoll) (Go и JavaScript)
-- [Веб-терминал для Linux](https://github.com/GorComComputing/WebConsole) (Go и JavaScript)
+- [Веб-интерфейс: терминал Linux](https://github.com/GorComComputing/WebConsole) (Go и JavaScript)
 - [Веб-интерфейс: для утилиты Chrony](https://github.com/GorComComputing/ChWeb) (Go и JavaScript)
 - [Веб-интерфейс: Диспетчер удаленных устройств](https://github.com/GorComComputing/DISPATCH) (Go и JavaScript)
 ##### Web back-end
