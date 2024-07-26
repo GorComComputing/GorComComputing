@@ -191,7 +191,7 @@
 
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: x86-64, ARM, MIPS, RISC-V, PowerPC, AVR, Xtensa, MCS-51
-- **C++**: Arduino <!-- Wiring -->(ESP32/8266, RP2040, STM32, ATmega328/2560) <!--, TP-LINK MR3020 -->
+- **C++**: Arduino/Wiring (ESP32/8266, RP2040, STM32, ATmega328/2560, Raspberry Pi 4B) <!--, TP-LINK MR3020 -->
 - **Протоколы связи**: UART, SPI, I2C, USB, PS/2 <!-- CAN, LIN, RS-232/RS-485, Ethernet, Zigbee, Bluetooth -->
 <!-- - **Go**: TinyGo -->
 
