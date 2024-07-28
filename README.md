@@ -242,7 +242,7 @@
 <!-- - **Java**: Maven, Ant+Ivy, Gradle, Jenkins -->
 
 ##### DevOps:
-- **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, NumPy, Pandas, Matplotlib, PyGame(SDL), Selenium, Jupyter Notebook
+- **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, PyGame(SDL), Selenium
 - **Системы сборки**: Make, CMake, Maven
 - **Юнит-тесты**: Google Test (gtest), Catch2, Boost.Test, JUnit (Java), testing (Go)
 - **CLI**: Bash, Cmd, PowerShell, Tcl
@@ -258,6 +258,9 @@
 - **ОС**: Linux, Windows-->  <!--, FreeBSD, Unix -->
 <!-- - **Архитектура**: UML, BPMN, Archimate
 - **Управление проектами**: RUP, PMI, SCRUM, Kanban -->
+
+#### Data Science и машинное обучение
+- **Python**: OpenCV, TensorFlow, Pandas, NumPy, Matplotlib, PyTorch, Jupyter Notebook
 
 ##### ЧПУ:
 - **3D-принтеры**: Компас 3D, Cura
