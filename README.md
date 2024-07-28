@@ -190,8 +190,8 @@
 ---
 
 ##### Микропроцессорные системы<!--Embedded-->:
-- **Assembly**: x86-64, ARMv8, MIPS 32, RISC-V,<!-- PowerPC, Xtensa, --> AVR, MCS-51
-- **Микроконтроллеры**: ESP32/8266, RP2040, STM32, ATmega328/2560, Raspberry Pi 4B, TP-LINK MR3020
+- **Assembly**: x86-64, ARMv8, MIPS 32, RISC-V,<!-- PowerPC, Xtensa, --> AVR <!--, MCS-51 -->
+- **Микроконтроллеры**: ESP32/8266, RP2040, ATmega328/2560, Raspberry Pi 4B, STM32 <!--, TP-LINK MR3020 -->
 - **C++**: Arduino/Wiring
 - **Протоколы связи**: UART, SPI, I2C, USB, PS/2, 1-Wire <!-- CAN, LIN, RS-232/RS-485, Ethernet, Zigbee, Bluetooth -->
 <!-- - **Go**: TinyGo -->
@@ -271,7 +271,7 @@
 <!-- 
 
 ## Системное администрирование
-- **Операционные системы**: Linux (Debian, Ubuntu, CentOS), Windows Server
+- **Операционные системы**: Linux (Debian, Ubuntu, CentOS, Kali), Windows Server
 
 ## Безопасность
 - **Кибербезопасность**: Penetration Testing, Ethical Hacking, Security Audits
@@ -279,7 +279,7 @@
 
 
 ## Программирование
-- **Языки программирования**: Rust, Swift, Kotlin, Ruby
+- **Языки программирования**: Swift, Kotlin, Ruby
 - **Фреймворки и библиотеки**: Ruby on Rails (Ruby), .NET (C#)
 
 ## Мобильная разработка
