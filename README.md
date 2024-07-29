@@ -206,7 +206,7 @@
 
 ##### Приложения под <!--Desktop (-->Linux<!--, Windows, FreeBSD --><!--)-->:
 <!-- - **C**: POSIX, WinAPI, OpenGL, GTK -->
-- **C++**: POSIX,<!-- WinAPI,--> OpenGL, GTK,<!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk, Wiring <!-- , C++ Builder -->
+- **C++**:<!-- WinAPI,--> OpenGL, GTK,<!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk, Wiring <!-- , C++ Builder -->
 - **Go**: Fyne, Tview, Fiber
 - **Rust**
 <!-- - **Delphi** -->
