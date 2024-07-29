@@ -196,11 +196,12 @@
 - **Протоколы связи**: UART, SPI, I2C, USB, PS/2, 1-Wire <!-- CAN, LIN, RS-232/RS-485, Ethernet, Zigbee, Bluetooth -->
 <!-- - **Go**: TinyGo -->
 
-##### Embedded Linux:
+##### Linux:
 - **Сборка**: Buildroot, OpenWrt, crosstool-ng
 - **Загрузчики**: U-Boot, GRUB2
 - **Linux kernel**: Модули ядра Linux (и свои системные вызовы)
 - **Shell**: BusyBox, Bash
+- **C**: glibc
 <!-- - **C**: Buildroot, OpenWrt, crosstool-ng, U-Boot, GRUB2, Linux kernel, BusyBox, Модули ядра Linux (и свои системные вызовы) --> <!--: FreeRTOS -->
 
 ##### Приложения под <!--Desktop (-->Linux<!--, Windows, FreeBSD --><!--)-->:
