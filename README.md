@@ -200,7 +200,7 @@
 - **Сборка**: Buildroot, OpenWrt, crosstool-ng
 - **Загрузчики**: U-Boot, GRUB2
 - **Linux kernel**: Модули ядра Linux (и свои системные вызовы)
-- **Shell**: BusyBox
+- **Shell**: BusyBox, Bash
 <!-- - **C**: Buildroot, OpenWrt, crosstool-ng, U-Boot, GRUB2, Linux kernel, BusyBox, Модули ядра Linux (и свои системные вызовы) --> <!--: FreeRTOS -->
 
 ##### Приложения под <!--Desktop (-->Linux<!--, Windows, FreeBSD --><!--)-->:
