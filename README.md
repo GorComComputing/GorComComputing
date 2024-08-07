@@ -201,7 +201,7 @@
 - **Сборка**: Buildroot, OpenWrt, crosstool-ng
 - **Загрузчики**: U-Boot, GRUB2
 - **Linux kernel**: Модули ядра, Системные вызовы, Драйверы
-- **Shell**: BusyBox, Bash
+- **Shell**: BusyBox, Bash, Zsh
 - **C**: glibc
 <!-- - **C**: Buildroot, OpenWrt, crosstool-ng, U-Boot, GRUB2, Linux kernel, BusyBox, Модули ядра Linux (и свои системные вызовы) --> <!--: FreeRTOS -->
 
