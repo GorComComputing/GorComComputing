@@ -188,6 +188,10 @@
 </div>
 
 ---
+##### Электроника:
+- **FPGA**: Intel FPGA MAX 10K (DE10-Lite)
+- **Verilog HDL**
+
 
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: x86-64, ARMv8, MIPS 32, RISC-V,<!-- PowerPC, Xtensa, --> AVR <!--, MCS-51 -->
