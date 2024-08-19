@@ -188,10 +188,6 @@
 </div>
 
 ---
-##### Электроника:
-- **FPGA**: Intel FPGA MAX 10K (DE10-Lite)
-- **Verilog HDL**
-
 
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: x86-64, ARMv8, MIPS 32, RISC-V,<!-- PowerPC, Xtensa, --> AVR <!--, MCS-51 -->
@@ -199,6 +195,8 @@
 - **Микроконтроллеры**: ESP32/8266, RP2040, ATmega328/2560, Raspberry Pi 4B, STM32 <!--, TP-LINK MR3020 -->
 - **C++**: Arduino/Wiring
 - **Протоколы связи**: UART, SPI, I2C, USB, PS/2, 1-Wire <!-- CAN, LIN, RS-232/RS-485, Ethernet, Zigbee, Bluetooth -->
+- **FPGA**: Intel FPGA MAX 10K (DE10-Lite)
+- **Verilog**
 <!-- - **Go**: TinyGo -->
 
 ##### Linux:
