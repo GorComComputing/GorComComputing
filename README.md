@@ -231,8 +231,9 @@
 - **Брокеры сообщений**: RabbitMQ (AMQP, MQTT)
 <!-- - **Ruby**: Ruby on Rails-->
 - **Базы данных SQL**: PostgreSQL, MySQL, SQLite
-- **NoSQL {ключ:значение}**: MongoDB, Redis
-- **Кэш-системы**: Memcached
+- **NoSQL**:
+  - **{ключ:значение}**: Memcached, Redis
+  - **{document store}**: MongoDB
 
 ##### Сетевые технологии и протоколы:
 - **Прикладной**: HTTP/HTTPS, SMTP, DNS, FTP, DHCP, SNMP, NTP, SSH, MQTT, PostgreSQL <!-- POP3, IMAP, Telnet, SIP  --> <!-- Представления: SSL/TLS, JPEG, MPEG, GIF, ASCII, EBCDIC, XDR -->
