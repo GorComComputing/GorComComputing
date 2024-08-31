@@ -207,6 +207,9 @@
 - **C**: glibc
 <!-- - **C**: Buildroot, OpenWrt, crosstool-ng, U-Boot, GRUB2, Linux kernel, BusyBox, Модули ядра Linux (и свои системные вызовы) --> <!--: FreeRTOS -->
 
+##### Компиляторы:
+- **LLVM**
+
 ##### Приложения под <!--Desktop (-->Linux<!--, Windows, FreeBSD --><!--)-->:
 <!-- - **C**: POSIX, WinAPI, OpenGL, GTK -->
 - **C++**:<!-- WinAPI,--> OpenGL, GTK,<!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk, Wiring <!-- , C++ Builder -->
