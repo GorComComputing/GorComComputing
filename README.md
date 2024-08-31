@@ -216,7 +216,7 @@
 <!-- - **Java**: Swing -->
 
 ##### Web front-end:
-<!-- - **JavaScript**: React, <!-- Angular, --> JQuery, AJAX, <!-- Vue.js --> WebGL, TSX (TypeScript + JSX) -->
+<!-- - **JavaScript**: React, JQuery, AJAX, WebGL, TSX (TypeScript + JSX) --><!-- Angular, --><!-- Vue.js -->
 - **<!--C |--> C++ | Go<!-- | Rust | WAT -->**: WebAssembly
 <!-- - **HTML** & **CSS**: Bootstrap, SCSS -->
 
