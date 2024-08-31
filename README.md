@@ -221,13 +221,13 @@
 - **HTML** & **CSS**: Bootstrap, SCSS
 
 ##### Web back-end:  
-- **Java**: Hibernate, Lombok, gRPC
+<!-- - **Java**: Hibernate, Lombok, gRPC
   - **Jakarta EE**: Servlets, JSP/JSTL, JDBC
   - **Spring**: Spring MVC, Spring Data JDBC, Spring Boot, Spring Security
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
-- **Python**: Django, Flask
+- **Python**: Django, Flask -->
 <!-- - **JavaScript**: Node.js, Express.js -->
-- **Web-серверы**: nginx, Apache, Tomcat
+- **Web-серверы**: nginx, Apache <!-- , Tomcat -->
 - **Брокеры сообщений**: RabbitMQ (AMQP, MQTT)
 <!-- - **Ruby**: Ruby on Rails-->
 - **Базы данных SQL**: PostgreSQL, MySQL, SQLite
@@ -248,8 +248,8 @@
 
 ##### DevOps:
 - **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, PyGame(SDL), Selenium
-- **Системы сборки**: Make, CMake, Maven
-- **Юнит-тесты**: Google Test (gtest), Catch2, Boost.Test, JUnit (Java), testing (Go)
+- **Системы сборки**: Make, CMake <!--, Maven -->
+- **Юнит-тесты**: Google Test (gtest), Catch2, Boost.Test, <!--JUnit (Java), -->testing (Go)
 - **CLI**: Bash, Cmd, PowerShell, Tcl
 - **Контроль версий Git**: GitHub, Bitbucket, GitLab <!-- , SVN --> <!-- - **Ruby**: RSpec --> <!-- ##### Виртуализация и облачные вычисления: -->
 <!-- - **Инструменты автоматизации**: Jenkins, GitLab CI/CD -->
