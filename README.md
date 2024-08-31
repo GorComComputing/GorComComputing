@@ -211,14 +211,14 @@
 <!-- - **C**: POSIX, WinAPI, OpenGL, GTK -->
 - **C++**:<!-- WinAPI,--> OpenGL, GTK,<!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk, Wiring <!-- , C++ Builder -->
 - **Go**: Fyne, Tview, Fiber
-- **Rust**
+<!-- - **Rust** -->
 <!-- - **Delphi** -->
 <!-- - **Java**: Swing -->
 
 ##### Web front-end:
-- **JavaScript**: React, <!-- Angular, --> JQuery, AJAX, <!-- Vue.js --> WebGL, TSX (TypeScript + JSX)
-- **<!--C |--> C++ | Go | Rust<!-- | WAT -->**: WebAssembly
-- **HTML** & **CSS**: Bootstrap, SCSS
+<!-- - **JavaScript**: React, <!-- Angular, --> JQuery, AJAX, <!-- Vue.js --> WebGL, TSX (TypeScript + JSX) -->
+- **<!--C |--> C++ | Go<!-- | Rust | WAT -->**: WebAssembly
+<!-- - **HTML** & **CSS**: Bootstrap, SCSS -->
 
 ##### Web back-end:  
 <!-- - **Java**: Hibernate, Lombok, gRPC
@@ -263,10 +263,10 @@
 - **ОС**: Linux, Windows-->  <!--, FreeBSD, Unix -->
 <!-- - **Архитектура**: UML, BPMN, Archimate
 - **Управление проектами**: RUP, PMI, SCRUM, Kanban -->
-
+<!--
 #### Data Science и машинное обучение
 - **Python**: OpenCV, TensorFlow, Pandas, NumPy, Matplotlib, PyTorch, Jupyter Notebook
-
+-->
 ##### ЧПУ:
 - **3D-принтеры**: Компас 3D, Cura
 - **G-code**: GRBL
