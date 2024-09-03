@@ -224,7 +224,7 @@
 
 ##### Web front-end:
 <!-- - **JavaScript**: React, JQuery, AJAX, WebGL, TSX (TypeScript + JSX) --><!-- Angular, --><!-- Vue.js -->
-- **<!--C |--> C++ | Go<!-- | Rust | WAT -->**: WebAssembly
+- **WebAssembly<!-- | Rust | WAT -->**: C | C++ | Go
 <!-- - **HTML** & **CSS**: Bootstrap, SCSS -->
 
 ##### Web back-end:  
