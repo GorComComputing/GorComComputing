@@ -193,10 +193,11 @@
 - **Assembly**: x86-64, ARMv8, MIPS 32, RISC-V,<!-- PowerPC, Xtensa, --> AVR <!--, MCS-51 -->
   - **Retro CPU**: 6502, 8088, Z80
 - **Микроконтроллеры**: ESP32/8266, RP2040, ATmega 328/128/2560, Raspberry Pi 4, STM32 <!--, TP-LINK MR3020 -->
+- **Протоколы связи**: UART, SPI, I2C, USB, PS/2, 1-Wire <!-- CAN, LIN, RS-232/RS-485, Ethernet, Zigbee, Bluetooth -->
+<!-- ---- -->
 - **C**: AVR
 - **C++**: Arduino/Wiring
 - **Go**: TinyGo 
-- **Протоколы связи**: UART, SPI, I2C, USB, PS/2, 1-Wire <!-- CAN, LIN, RS-232/RS-485, Ethernet, Zigbee, Bluetooth -->
 <!-- ---- -->
 - **FPGA**: Intel FPGA MAX 10K (DE10-Lite)
 - **Verilog**
