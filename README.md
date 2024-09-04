@@ -195,7 +195,7 @@
 - **Микроконтроллеры**: ESP32/8266, RP2040, ATmega 328/128/2560, Raspberry Pi 4, STM32 <!--, TP-LINK MR3020 -->
 - **Протоколы связи**: UART, SPI, I2C, USB, PS/2, 1-Wire <!-- CAN, LIN, RS-232/RS-485, Ethernet, Zigbee, Bluetooth -->
 <!-- ---- -->
-- **C**: AVR
+- **C**: AVR, CC65
 - **C++**: Arduino/Wiring
 - **Go**: TinyGo 
 <!-- ---- -->
