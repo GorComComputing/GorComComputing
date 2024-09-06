@@ -194,7 +194,7 @@
 - **Микроконтроллеры**: STM32 (Cortex-M), ESP32/8266, RP2040 (Cortex-M0+), Raspberry Pi 4 (Cortex-A), ATmega 328/128/2560 <!--, TP-LINK MR3020 -->
 - **FPGA / Verilog**: Intel FPGA MAX 10K (DE10-Lite)
 - **Протоколы связи**: UART, SPI, I2C, USB (OTG), PS/2, 1-Wire, CAN, Ethernet, I2S, SDIO <!--  LIN, RS-232/RS-485, Zigbee, Bluetooth -->
-- **C / C++**: STM32, HAL, AVR, Arduino/Wiring, CC65
+- **C / C++**: STM32, HAL, AVR, <!--Arduino/-->Wiring, CC65
 <!-- - **Go**: TinyGo --> 
 
 ##### Linux:
