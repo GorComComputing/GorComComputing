@@ -192,15 +192,13 @@
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: x86-64, ARMv8, MIPS 32, RISC-V,<!-- PowerPC, Xtensa, --> AVR <!--, MCS-51 -->
   - **Retro CPU**: 6502, 8088, Z80
-- **Микроконтроллеры**: ESP32/8266, RP2040, ATmega 328/128/2560, Raspberry Pi 4, STM32 <!--, TP-LINK MR3020 -->
+- **Микроконтроллеры**: STM32 (Cortex-M), ESP32/8266, RP2040 (Cortex-M0+), Raspberry Pi 4 (Cortex-A), ATmega 328/128/2560 <!--, TP-LINK MR3020 -->
 - **Протоколы связи**: UART, SPI, I2C, USB, PS/2, 1-Wire <!-- CAN, LIN, RS-232/RS-485, Ethernet, Zigbee, Bluetooth -->
 <!-- ---- -->
-- **C**: AVR, CC65
-- **C++**: Arduino/Wiring
-- **Go**: TinyGo 
+- **C / C++**: AVR, STM32, HAL, CC65, Arduino/Wiring
+<!-- - **Go**: TinyGo --> 
 <!-- ---- -->
-- **FPGA**: Intel FPGA MAX 10K (DE10-Lite)
-- **Verilog**
+- **FPGA / Verilog**: Intel FPGA MAX 10K (DE10-Lite)
 
 ##### Linux:
 - **Сборка**: Buildroot, OpenWrt, crosstool-ng
@@ -224,7 +222,7 @@
 
 ##### Web front-end:
 <!-- - **JavaScript**: React, JQuery, AJAX, WebGL, TSX (TypeScript + JSX) --><!-- Angular, --><!-- Vue.js -->
-- **WebAssembly<!-- | Rust | WAT -->**: C | C++ | Go
+- **WebAssembly<!-- | Rust | WAT -->**: C / C++ | Go
 <!-- - **HTML** & **CSS**: Bootstrap, SCSS -->
 
 ##### Web back-end:  
