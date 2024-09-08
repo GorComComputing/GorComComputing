@@ -202,7 +202,7 @@
 - **Загрузчики**: U-Boot, GRUB2
 - **Linux kernel**: Модули ядра, Системные вызовы, Драйверы
 - **Shell**: BusyBox, Bash, Zsh
-- **C**: glibc
+- **C**: glibc, uClibc
 <!--: FreeRTOS -->
 
 ##### Компиляторы:
