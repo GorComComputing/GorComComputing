@@ -223,7 +223,7 @@
 - **Сетевой**: ARP, IPv4, IPv6, ICMP <!-- IGMP, IPsec -->
 - **Канальный**: IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi) <!-- PPP, HDLC, Frame Relay, ATM -->
 <!-- - **Физический**: IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi), Bluetooth -->
-
+ 
 ##### Web:  
 <!-- - **Java**: Hibernate, Lombok, gRPC
   - **Jakarta EE**: Servlets, JSP/JSTL, JDBC
