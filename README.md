@@ -217,6 +217,13 @@
 <!-- - **JavaScript**: React, JQuery, AJAX, WebGL, TSX (TypeScript + JSX) --><!-- Angular, --><!-- Vue.js -->
 <!-- - **HTML** & **CSS**: Bootstrap, SCSS -->
 
+##### Сети:
+- **Прикладной**: HTTP/HTTPS, SMTP, DNS, FTP, DHCP, SNMP, NTP, SSH, MQTT, PostgreSQL <!-- POP3, IMAP, Telnet, SIP  --> <!-- Представления: SSL/TLS, JPEG, MPEG, GIF, ASCII, EBCDIC, XDR -->
+- **Транспортный**: TCP, UDP, DCCP, SCTP <!-- Сеансовый: NetBIOS, PPTP, RPC -->
+- **Сетевой**: ARP, IPv4, IPv6, ICMP <!-- IGMP, IPsec -->
+- **Канальный**: IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi) <!-- PPP, HDLC, Frame Relay, ATM -->
+<!-- - **Физический**: IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi), Bluetooth -->
+
 ##### Web:  
 <!-- - **Java**: Hibernate, Lombok, gRPC
   - **Jakarta EE**: Servlets, JSP/JSTL, JDBC
@@ -234,13 +241,6 @@
 - **NoSQL**:
   - **{ключ:значение}**: Memcached, Redis
   - **{document store}**: MongoDB
-
-##### Сети:
-- **Прикладной**: HTTP/HTTPS, SMTP, DNS, FTP, DHCP, SNMP, NTP, SSH, MQTT, PostgreSQL <!-- POP3, IMAP, Telnet, SIP  --> <!-- Представления: SSL/TLS, JPEG, MPEG, GIF, ASCII, EBCDIC, XDR -->
-- **Транспортный**: TCP, UDP, DCCP, SCTP <!-- Сеансовый: NetBIOS, PPTP, RPC -->
-- **Сетевой**: ARP, IPv4, IPv6, ICMP <!-- IGMP, IPsec -->
-- **Канальный**: IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi) <!-- PPP, HDLC, Frame Relay, ATM -->
-<!-- - **Физический**: IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi), Bluetooth -->
 
 <!--##### Системы сборки:
 - **C**/**C++**: Make, CMake-->
