@@ -71,21 +71,29 @@
 
 
 ## 🚀 Мои проекты
+##### Микроконтроллеры
+- [Терминал управления Умным домом на ESP32](https://github.com/GorComComputing/TFT_Terminal) (C++)
+- [Wi-Fi модуль ESP01S UART на ESP8266](https://github.com/GorComComputing/ESP01S_UART) (C++)
+- [Робот, заваривающий чай на ATmega2560](https://github.com/GorComComputing/COFFEE) (C++)
+- [Домашний робот на RP2040](https://github.com/GorComComputing/PICO) (C++)
+- [Промышленный робот манипулятор на ESP32](https://github.com/GorComComputing/ArmRobot) (C++)
+- [Игра на микроконтроллере ATmega328](https://github.com/GorComComputing/Game_Arduino) (C++)
+- [Basic на микроконтроллере ATmega328](https://github.com/GorComComputing/Basic_TCP_Arduino) (C++)
 ##### Операционные системы
 - [Операционная система Doors в браузере](https://github.com/GorComComputing/GUI_DOORS_Go) (Go) - ***:eyes: [Посмотреть](http://www.gorcom.online)***
 - [Операционная система Doors 3](https://github.com/GorComComputing/OS_Doors3) (C и Assembly i386, ARM32, MIPS32, RISC-V) - `в разработке` :clock10:
 - [Операционная система Doors 2 (32-бит)](https://github.com/GorComComputing/OS_Doors32) (C и Assembly i386)
 - [Оконный графический интерфейс (для операционной системы Doors)](https://github.com/GorComComputing/GUI_Window) (C)
+##### Компьютерная графика
+- [Графическая библиотека](https://github.com/GorComComputing/Graphics) (C)
+- [Игра (использование библиотеки PyGame)](https://github.com/GorComComputing/Game_PyGame) (Python)
+- [TUI - графический интерфейс в терминале (библиотека Tview)](https://github.com/GorComComputing/Tview) (Go)
 ##### Компиляторы и виртуальные машины
 - [Виртуальный процессор 8-bit-AON и компилятор](https://github.com/GorComComputing/8-bit-AON-Computer) (С++ и JavaScript) - ***:eyes: [Посмотреть](http://www.gorcom.online/aon)***
 - [Компилятор и ассемблер для процессора 8-bit-AON](https://github.com/GorComComputing/C_Compiler) (Delphi XE 10.3)
 - [Компилятор языка Oberon для стековой виртуальной машины OVM](https://github.com/GorComComputing/Oberon_Compiler) (Python)
 - [Интерпретатор PHP](https://github.com/GorComComputing/php) (C++)
 - [Текстовый редактор](https://github.com/GorComComputing/TextEditor) (C)
-##### Компьютерная графика
-- [Графическая библиотека](https://github.com/GorComComputing/Graphics) (C)
-- [Игра (использование библиотеки PyGame)](https://github.com/GorComComputing/Game_PyGame) (Python)
-- [TUI - графический интерфейс в терминале (библиотека Tview)](https://github.com/GorComComputing/Tview) (Go)
 ##### Командные интерпретаторы
 - [Shell для Linux](https://github.com/GorComComputing/Shell) (C)
 - [Shell для Linux](https://github.com/GorComComputing/Shell_rust) (Rust)
@@ -95,14 +103,6 @@
 - [СУБД gSQL](https://github.com/GorComComputing/gSQL) (Go)
 - [СУБД SQLite](https://github.com/GorComComputing/SQLite) (C)
 - [Библиотека абстрактных типов данных](https://github.com/GorComComputing/Algorithms) (C++)
-##### Микроконтроллеры
-- [Терминал управления Умным домом на ESP32](https://github.com/GorComComputing/TFT_Terminal) (C++)
-- [Wi-Fi модуль ESP01S UART на ESP8266](https://github.com/GorComComputing/ESP01S_UART) (C++)
-- [Робот, заваривающий чай на ATmega2560](https://github.com/GorComComputing/COFFEE) (C++)
-- [Домашний робот на RP2040](https://github.com/GorComComputing/PICO) (C++)
-- [Промышленный робот манипулятор на ESP32](https://github.com/GorComComputing/ArmRobot) (C++)
-- [Игра на микроконтроллере ATmega328](https://github.com/GorComComputing/Game_Arduino) (C++)
-- [Basic на микроконтроллере ATmega328](https://github.com/GorComComputing/Basic_TCP_Arduino) (C++)
 ##### Web front-end
 - [Браузер](https://github.com/GorComComputing/Browser) (Python)
 - [Framework.js](https://github.com/GorComComputing/Framework.js) (JavaScript)
@@ -118,13 +118,10 @@
 - [SNMP](https://github.com/GorComComputing/GoSNMP) (Go)
 - [Чат клиент-сервер (TCP)](https://github.com/GorComComputing/Chat_TCP) (C)
 - [Чат p2p (TCP)](https://github.com/GorComComputing/p2p_chat) (Python)
-##### Blockchain
+##### Прочее
 - [Blockchain](https://github.com/GorComComputing/Blockchain) (Python)
-##### Автоматизированное тестирование
 - [Бот для Tinder](https://github.com/GorComComputing/AutoTinder) (Python)
-##### 1С:Предприятие
 - [1С:Дневник](https://github.com/GorComComputing/1C_Diary) (1С:Предприятие 8.3)
-##### Мобильные приложения
 - [Мобильная игра Driver](https://github.com/GorComComputing/Driver_J2ME) (Java ME) - `написана в 2007 году` :calendar:
 
 ---
