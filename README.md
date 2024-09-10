@@ -267,10 +267,10 @@
 #### Data Science и машинное обучение
 - **Python**: OpenCV, TensorFlow, Pandas, NumPy, Matplotlib, PyTorch, Jupyter Notebook
 -->
-##### Производство на ЧПУ:
+<!--##### Производство на ЧПУ:
 - **3D-принтеры**: Компас 3D, Cura
 - **G-code**: GRBL
-- **EDA/CAD**: DipTrace
+- **EDA/CAD**: DipTrace-->
 
 <!-- ##### Инженерия ПО:
 - **Управление проектами**: Jira, Confluence, Trello, Asana
