@@ -233,7 +233,7 @@
   - **{ключ:значение}**: Memcached, Redis
   - **{document store}**: MongoDB
 
-##### Сетевые технологии и протоколы:
+##### Сети:
 - **Прикладной**: HTTP/HTTPS, SMTP, DNS, FTP, DHCP, SNMP, NTP, SSH, MQTT, PostgreSQL <!-- POP3, IMAP, Telnet, SIP  --> <!-- Представления: SSL/TLS, JPEG, MPEG, GIF, ASCII, EBCDIC, XDR -->
 - **Транспортный**: TCP, UDP, DCCP, SCTP <!-- Сеансовый: NetBIOS, PPTP, RPC -->
 - **Сетевой**: ARP, IPv4, IPv6, ICMP <!-- IGMP, IPsec -->
