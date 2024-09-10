@@ -217,7 +217,7 @@
 <!-- - **JavaScript**: React, JQuery, AJAX, WebGL, TSX (TypeScript + JSX) --><!-- Angular, --><!-- Vue.js -->
 <!-- - **HTML** & **CSS**: Bootstrap, SCSS -->
 
-##### Web back-end:  
+##### Web:  
 <!-- - **Java**: Hibernate, Lombok, gRPC
   - **Jakarta EE**: Servlets, JSP/JSTL, JDBC
   - **Spring**: Spring MVC, Spring Data JDBC, Spring Boot, Spring Security
@@ -225,7 +225,7 @@
 - **Python**: Django, Flask -->
 <!-- - **JavaScript**: Node.js, Express.js -->
 - **WebAssembly<!-- | Rust | WAT -->**:
-  - c / C++
+  - C / C++
   - Go
 - **Web-серверы**: nginx, Apache <!-- , Tomcat -->
 - **Брокеры сообщений**: RabbitMQ (AMQP, MQTT)
