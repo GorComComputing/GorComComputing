@@ -207,15 +207,14 @@
 
 ##### Приложения под <!--Desktop (-->Linux<!--, Windows, FreeBSD --><!--)-->:
 <!-- - **C**: POSIX, WinAPI, OpenGL, GTK -->
-- **C++**:<!-- WinAPI,--> OpenGL, GTK,<!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk, Wiring <!-- , C++ Builder -->
+- **C / C++**: POSIX,<!-- WinAPI,--> OpenGL, GTK,<!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk, Wiring <!-- , C++ Builder -->
 - **Go**: Fyne, Tview, Fiber
 <!-- - **Rust** -->
 <!-- - **Delphi** -->
 <!-- - **Java**: Swing -->
 
-##### Web front-end:
+<!--##### Web front-end:-->
 <!-- - **JavaScript**: React, JQuery, AJAX, WebGL, TSX (TypeScript + JSX) --><!-- Angular, --><!-- Vue.js -->
-- **WebAssembly<!-- | Rust | WAT -->**: C++ | Go
 <!-- - **HTML** & **CSS**: Bootstrap, SCSS -->
 
 ##### Web back-end:  
@@ -225,6 +224,9 @@
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 - **Python**: Django, Flask -->
 <!-- - **JavaScript**: Node.js, Express.js -->
+- **WebAssembly<!-- | Rust | WAT -->**:
+  - c / C++
+  - Go
 - **Web-серверы**: nginx, Apache <!-- , Tomcat -->
 - **Брокеры сообщений**: RabbitMQ (AMQP, MQTT)
 <!-- - **Ruby**: Ruby on Rails-->
