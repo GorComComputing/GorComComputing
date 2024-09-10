@@ -244,10 +244,10 @@
 - **C**/**C++**: Make, CMake-->
 <!-- - **Java**: Maven, Ant+Ivy, Gradle, Jenkins -->
 
-##### DevOps:
+##### CI/CD:
 - **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, PyGame(SDL), Selenium
 - **Системы сборки**: Make, CMake <!--, Maven -->
-- **Юнит-тесты**: Google Test (gtest), Catch2, Boost.Test, <!--JUnit (Java), -->testing (Go)
+<!-- - **Юнит-тесты**: Google Test (gtest), Catch2, Boost.Test, --><!--JUnit (Java), --><!--testing (Go)-->
 - **Контроль версий Git**: GitHub, Bitbucket, GitLab <!-- , SVN --> <!-- - **Ruby**: RSpec --> <!-- ##### Виртуализация и облачные вычисления: -->
 <!-- - **CLI**: Bash, Cmd, PowerShell, Tcl-->
 <!-- - **Инструменты автоматизации**: Jenkins, GitLab CI/CD -->
