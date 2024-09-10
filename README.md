@@ -191,10 +191,10 @@
 
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Assembly**: x86-64, ARMv8, MIPS 32, RISC-V,<!-- PowerPC, Xtensa, --> AVR, 6502, 8051 <!--, 8088, Z80, MCS-51 -->
-- **Микроконтроллеры**: STM32 (Cortex-M3,M4,M7), RP2040 (Cortex-M0+), Raspberry Pi 4 (Cortex-A72), ESP32/8266, ATmega <!--, TP-LINK MR3020 -->
+- **Микроконтроллеры**: STM32 (Cortex-M3,M4,M7), RP2040 (Cortex-M0+), Raspberry Pi 4 (Cortex-A72), ESP32/8266, AVR <!--, TP-LINK MR3020 -->
 - **FPGA / Verilog**: Intel FPGA MAX 10K (DE10-Lite)
 - **Протоколы связи**: UART, SPI, I2C, USB (OTG), PS/2, 1-Wire, CAN, Ethernet, I2S, SDIO <!--  LIN, RS-232/RS-485, Zigbee, Bluetooth -->
-- **C / C++**: STM32 (CMSIS, HAL, LL), AVR, <!--Arduino/-->Wiring, CC65
+- **C / C++**: STM32 (CMSIS, HAL, LL), AVR, <!--Arduino/-->Wiring <!--, CC65-->
 <!-- - **Go**: TinyGo --> 
 
 ##### Linux:
@@ -204,10 +204,6 @@
 - **Shell**: BusyBox, Bash, Zsh
 - **C**: glibc, uClibc
 <!--: FreeRTOS -->
-
-##### Компиляторы:
-- **GCC**
-- **LLVM**
 
 ##### Приложения под <!--Desktop (-->Linux<!--, Windows, FreeBSD --><!--)-->:
 <!-- - **C**: POSIX, WinAPI, OpenGL, GTK -->
@@ -252,8 +248,8 @@
 - **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, PyGame(SDL), Selenium
 - **Системы сборки**: Make, CMake <!--, Maven -->
 - **Юнит-тесты**: Google Test (gtest), Catch2, Boost.Test, <!--JUnit (Java), -->testing (Go)
-- **CLI**: Bash, Cmd, PowerShell, Tcl
 - **Контроль версий Git**: GitHub, Bitbucket, GitLab <!-- , SVN --> <!-- - **Ruby**: RSpec --> <!-- ##### Виртуализация и облачные вычисления: -->
+<!-- - **CLI**: Bash, Cmd, PowerShell, Tcl-->
 <!-- - **Инструменты автоматизации**: Jenkins, GitLab CI/CD -->
 - **IaC**: Terraform, Ansible  <!-- - **Hypervisor**: ESXi, mRemoteNG -->
 - **Контейнеры**: Docker, Kubernetes, LXC
