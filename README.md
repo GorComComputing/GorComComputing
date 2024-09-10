@@ -122,10 +122,6 @@
 - [Blockchain](https://github.com/GorComComputing/Blockchain) (Python)
 ##### Автоматизированное тестирование
 - [Бот для Tinder](https://github.com/GorComComputing/AutoTinder) (Python)
-##### Программная инжинирия
-- [Git](https://github.com/GorComComputing/Git) (Python) - `в разработке` :clock10:
-##### Виртуализация
-- [Docker](https://github.com/GorComComputing/Docker) (C) - `в разработке` :clock10:
 ##### 1С:Предприятие
 - [1С:Дневник](https://github.com/GorComComputing/1C_Diary) (1С:Предприятие 8.3)
 ##### Мобильные приложения
