@@ -71,6 +71,11 @@
 
 
 ## 🚀 Мои проекты
+##### Операционные системы
+- [Операционная система Doors в браузере](https://github.com/GorComComputing/GUI_DOORS_Go) (Go) - ***:eyes: [Посмотреть](http://www.gorcom.online)***
+- [Операционная система Doors 3](https://github.com/GorComComputing/OS_Doors3) (C и Assembly i386, ARM32, MIPS32, RISC-V) - `в разработке` :clock10:
+- [Операционная система Doors 2 (32-бит)](https://github.com/GorComComputing/OS_Doors32) (C и Assembly i386)
+- [Оконный графический интерфейс (для операционной системы Doors)](https://github.com/GorComComputing/GUI_Window) (C)
 ##### Микроконтроллеры
 - [Терминал управления Умным домом на ESP32](https://github.com/GorComComputing/TFT_Terminal) (C++)
 - [Wi-Fi модуль ESP01S UART на ESP8266](https://github.com/GorComComputing/ESP01S_UART) (C++)
@@ -79,11 +84,6 @@
 - [Промышленный робот манипулятор на ESP32](https://github.com/GorComComputing/ArmRobot) (C++)
 - [Игра на микроконтроллере ATmega328](https://github.com/GorComComputing/Game_Arduino) (C++)
 - [Basic на микроконтроллере ATmega328](https://github.com/GorComComputing/Basic_TCP_Arduino) (C++)
-##### Операционные системы
-- [Операционная система Doors в браузере](https://github.com/GorComComputing/GUI_DOORS_Go) (Go) - ***:eyes: [Посмотреть](http://www.gorcom.online)***
-- [Операционная система Doors 3](https://github.com/GorComComputing/OS_Doors3) (C и Assembly i386, ARM32, MIPS32, RISC-V) - `в разработке` :clock10:
-- [Операционная система Doors 2 (32-бит)](https://github.com/GorComComputing/OS_Doors32) (C и Assembly i386)
-- [Оконный графический интерфейс (для операционной системы Doors)](https://github.com/GorComComputing/GUI_Window) (C)
 ##### Компьютерная графика
 - [Графическая библиотека](https://github.com/GorComComputing/Graphics) (C)
 - [Игра (использование библиотеки PyGame)](https://github.com/GorComComputing/Game_PyGame) (Python)
