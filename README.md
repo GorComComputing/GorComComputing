@@ -183,12 +183,11 @@
 ---
 
 ##### Микропроцессорные системы<!--Embedded-->:
-- **Assembly**: x86-64, ARMv8, MIPS 32, RISC-V,<!-- PowerPC, Xtensa, --> AVR, 6502, 8051 <!--, 8088, Z80, MCS-51 -->
+- **Assembly**: x86-64, ARMv8, MIPS 32, RISC-V,<!-- PowerPC, Xtensa, --> AVR, 6502, MCS-51 <!--, 8088, Z80-->
 - **Микроконтроллеры**: STM32 (Cortex-M3,M4,M7), RP2040 (Cortex-M0+), Raspberry Pi 4 (Cortex-A72), ESP32/8266, ATmega (AVR), CH32V (RISC-V) <!--, TP-LINK MR3020 -->
 - **FPGA / Verilog**: Intel FPGA MAX 10K (DE10-Lite)
 - **Протоколы связи**: UART, SPI, I2C, USB (OTG), PS/2, 1-Wire, CAN, Ethernet, I2S, SDIO <!--  LIN, RS-232/RS-485, Zigbee, Bluetooth -->
-- **C**: STM32 (CMSIS, HAL, LL), AVR, <!--Arduino/-->Wiring, FreeRTOS <!--, CC65-->
-- **C++**: <!--Arduino/-->Wiring
+- **C / C++**: STM32 (CMSIS, HAL, LL), <!--AVR, Arduino/-->Wiring, FreeRTOS <!--, CC65-->
 <!-- - **Go**: TinyGo --> 
 
 ##### Linux:
