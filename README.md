@@ -187,7 +187,8 @@
 - **Микроконтроллеры**: STM32 (Cortex-M3,M4,M7), RP2040 (Cortex-M0+), Raspberry Pi 4 (Cortex-A72), ESP32/8266, ATmega (AVR), CH32V (RISC-V) <!--, TP-LINK MR3020 -->
 - **FPGA / Verilog**: Intel FPGA MAX 10K (DE10-Lite)
 - **Протоколы связи**: UART, SPI, I2C, USB (OTG), PS/2, 1-Wire, CAN, Ethernet, I2S, SDIO <!--  LIN, RS-232/RS-485, Zigbee, Bluetooth -->
-- **C / C++**: STM32 (CMSIS, HAL, LL), AVR, <!--Arduino/-->Wiring <!--, CC65-->
+- **C**: STM32 (CMSIS, HAL, LL), AVR, <!--Arduino/-->Wiring, FreeRTOS <!--, CC65-->
+- **C++**: <!--Arduino/-->Wiring
 <!-- - **Go**: TinyGo --> 
 
 ##### Linux:
@@ -196,7 +197,6 @@
 - **Linux kernel**: Модули ядра, Системные вызовы, Драйверы
 - **Shell**: BusyBox, Bash, Zsh
 - **C**: glibc, uClibc
-<!--: FreeRTOS -->
 
 ##### Приложения под <!--Desktop (-->Linux<!--, Windows, FreeBSD --><!--)-->:
 <!-- - **C**: POSIX, WinAPI, OpenGL, GTK -->
