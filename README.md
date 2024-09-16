@@ -193,7 +193,7 @@
 ##### Linux:
 - **Сборка**: Buildroot, OpenWrt, Сrosstool-ng
 - **Загрузчики**: U-Boot, GRUB2
-- **Linux kernel**: Модули ядра, Системные вызовы, Драйверы
+- **Linux kernel**: Модули ядра (Драйверы, Обработчики прерываний)
 - **Shell**: BusyBox, Bash, Zsh
 - **C**: glibc, uClibc
 
