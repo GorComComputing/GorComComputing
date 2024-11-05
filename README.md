@@ -183,12 +183,12 @@
 ---
 
 ##### Микропроцессорные системы<!--Embedded-->:
-- **Assembly**: x86, ARM, MIPS, RISC-V,<!-- PowerPC, Xtensa, --> AVR, 6502, MCS-51 <!--, 8088, Z80-->
+- **Assembly**: x86, ARM, MIPS, RISC-V,<!-- PowerPC, Xtensa, --> AVR, MCS-51, Retro (8088, Z80, 6502)
 - **Микроконтроллеры**: STM32 (Cortex-M3,M4,M7), RP2040 (Cortex-M0+), Raspberry Pi 4 (Cortex-A72), ESP32/8266, ATmega (AVR), CH32V (RISC-V) <!--, TP-LINK MR3020 -->
 - **FPGA / Verilog**: Intel FPGA MAX 10K (DE10-Lite)
-- **Протоколы связи**: UART (RS-232/485), SPI, I2C, USB (OTG), PS/2, 1-Wire, CAN, Ethernet, I2S, SDIO, PCI/PCIE, LPT <!--  LIN, Zigbee, Bluetooth -->
-- **C / C++**: STM32 (CMSIS, HAL, LL, Libopencm3), <!--AVR, Arduino/-->Wiring, FreeRTOS <!--, CC65-->
-- **SDR**: GNU Radio, SDR#
+- **Протоколы связи**: UART (RS-232/485), SPI, I2C, USB (OTG), PS/2, 1-Wire, CAN, Ethernet,<!-- I2S, SDIO,--> PCI/PCIE, LPT <!--  LIN, Zigbee, Bluetooth -->
+- **C / C++**: STM32 (CMSIS, HAL, LL, DSP<!--, Libopencm3-->), AVR, Arduino/Wiring, FreeRTOS <!--, CC65-->
+- **SDR**: GNU Radio, SDR#, MatLab
 <!-- - **Go**: TinyGo --> 
 
 ##### Linux:
@@ -205,10 +205,6 @@
 <!-- - **Rust** -->
 <!-- - **Delphi** -->
 <!-- - **Java**: Swing -->
-
-<!--##### Web front-end:-->
-<!-- - **JavaScript**: React, JQuery, AJAX, WebGL, TSX (TypeScript + JSX) --><!-- Angular, --><!-- Vue.js -->
-<!-- - **HTML** & **CSS**: Bootstrap, SCSS -->
 
 ##### Сети:
 - **Прикладной**: HTTP/HTTPS, SMTP, DNS, FTP, DHCP, SNMP, NTP, SSH, MQTT, PostgreSQL <!-- POP3, IMAP, Telnet, SIP  --> <!-- Представления: SSL/TLS, JPEG, MPEG, GIF, ASCII, EBCDIC, XDR -->
@@ -227,6 +223,9 @@
 - **WebAssembly<!-- | Rust | WAT -->**:
   - C / C++
   - Go
+- **JavaScript**: React, JQuery, AJAX, WebGL, TSX (TypeScript + JSX) <!-- Angular, --><!-- Vue.js -->
+- **HTML** & **CSS**: Bootstrap, SCSS
+<!-- - **Ruby**: Ruby on Rails-->
 - **Web-серверы**: nginx, Apache <!-- , Tomcat -->
 - **Брокеры сообщений**: RabbitMQ (AMQP, MQTT)
 <!-- - **Ruby**: Ruby on Rails-->
@@ -260,10 +259,10 @@
 #### Data Science и машинное обучение
 - **Python**: OpenCV, TensorFlow, Pandas, NumPy, Matplotlib, PyTorch, Jupyter Notebook
 -->
-<!--##### Производство на ЧПУ:
+##### Производство на ЧПУ:
 - **3D-принтеры**: Компас 3D, Cura
 - **G-code**: GRBL
-- **EDA/CAD**: DipTrace-->
+- **EDA/CAD**: DipTrace
 
 <!-- ##### Инженерия ПО:
 - **Управление проектами**: Jira, Confluence, Trello, Asana
