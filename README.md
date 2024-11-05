@@ -188,7 +188,7 @@
 - **FPGA / Verilog**: Intel FPGA MAX 10K (DE10-Lite)
 - **Протоколы связи**: UART (RS-232/485), SPI, I2C, USB (OTG), PS/2, 1-Wire, CAN, Ethernet,<!-- I2S, SDIO,--> PCI/PCIE, LPT <!--  LIN, Zigbee, Bluetooth -->
 - **C / C++**: STM32 (CMSIS, HAL, LL, DSP<!--, Libopencm3-->), AVR, Arduino/Wiring, FreeRTOS <!--, CC65-->
-- **SDR**: GNU Radio, SDR#, MatLab
+- **SDR**: GNU Radio, SDR# (HackRF One), MatLab
 <!-- - **Go**: TinyGo --> 
 
 ##### Linux:
