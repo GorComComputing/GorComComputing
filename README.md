@@ -183,10 +183,10 @@
 ---
 
 ##### Микропроцессорные системы<!--Embedded-->:
-- **Assembly**: x86, ARM, MIPS, RISC-V,<!-- PowerPC, Xtensa, --> AVR, MCS-51, Retro (8088, Z80, 6502)
+- **Assembly**: x86, ARM, MIPS, RISC-V,<!-- PowerPC, Xtensa, --> AVR, MCS-51<!--, Retro (8088, Z80, 6502)-->
 - **Микроконтроллеры**: STM32 (Cortex-M3,M4,M7), RP2040 (Cortex-M0+), Raspberry Pi 4 (Cortex-A72), ESP32/8266, ATmega (AVR), CH32V (RISC-V) <!--, TP-LINK MR3020 -->
 - **FPGA / Verilog**: Intel FPGA MAX 10K (DE10-Lite)
-- **Протоколы связи**: UART (RS-232/485), SPI, I2C, USB (OTG), PS/2, 1-Wire, CAN, Ethernet,<!-- I2S, SDIO,--> PCI/PCIE, LPT <!--  LIN, Zigbee, Bluetooth -->
+- **Протоколы связи**: UART (RS-232/485), SPI, I2C, USB<!-- (OTG)-->, PS/2, 1-Wire, CAN, Ethernet,<!-- I2S, SDIO,--> PCI/PCIE, LPT <!--  LIN, Zigbee, Bluetooth -->
 - **C / C++**: STM32 (CMSIS, HAL, LL, DSP<!--, Libopencm3-->), AVR, Arduino/Wiring, FreeRTOS <!--, CC65-->
 - **SDR**: GNU Radio, SDR# (HackRF One), MatLab
 <!-- - **Go**: TinyGo --> 
@@ -211,7 +211,7 @@
 - **Транспортный**: TCP, UDP, DCCP, SCTP <!-- Сеансовый: NetBIOS, PPTP, RPC -->
 - **Сетевой**: ARP, IPv4, IPv6, ICMP <!-- IGMP, IPsec -->
 - **Канальный**: IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi) <!-- PPP, HDLC, Frame Relay, ATM -->
-<!-- - **Физический**: IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi), Bluetooth -->
+- **Физический**: IEEE 802.3 (Ethernet)<!--, IEEE 802.11 (Wi-Fi), Bluetooth -->
  
 ##### Web:  
 <!-- - **Java**: Hibernate, Lombok, gRPC
