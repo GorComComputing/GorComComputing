@@ -201,7 +201,7 @@
 ##### Приложения под <!--Desktop (-->Linux<!--, Windows, FreeBSD --><!--)-->:
 <!-- - **C**: POSIX, WinAPI, OpenGL, GTK -->
 - **C / C++**: POSIX,<!-- WinAPI,--> OpenGL, GTK,<!--STL,--> SFML, SDL, Qt, wxWidgets, FLTK, Tcl/Tk, Wiring <!-- , C++ Builder -->
-- **Go**: Fyne, Tview, Fiber
+- **Go**<!--: Fyne, Tview, Fiber-->
 <!-- - **Rust** -->
 <!-- - **Delphi** -->
 <!-- - **Java**: Swing -->
@@ -237,7 +237,7 @@
 <!-- - **Java**: Maven, Ant+Ivy, Gradle, Jenkins -->
 
 ##### CI/CD:
-- **Python**: Qt, GTK, wxPython, pyFLTK, TkInter, PyGame(SDL), Selenium
+- **Python**<!--: Qt, GTK, wxPython, pyFLTK, TkInter, PyGame(SDL), Selenium-->
 - **Системы сборки**: Make, CMake <!--, Maven -->
 - **Контроль версий Git**: GitHub, Bitbucket, GitLab <!-- , SVN --> <!-- - **Ruby**: RSpec --> <!-- ##### Виртуализация и облачные вычисления: -->
 <!-- - **Юнит-тесты**: Google Test (gtest), Catch2, Boost.Test, --><!--JUnit (Java), --><!--testing (Go)-->
