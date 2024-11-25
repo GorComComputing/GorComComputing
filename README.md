@@ -220,11 +220,9 @@
 - **PHP**: Laravel, Yii, Modx, 1C:Bitrix
 - **Python**: Django, Flask -->
 <!-- - **JavaScript**: Node.js, Express.js -->
-- **WebAssembly<!-- | Rust | WAT -->**:
-  - C / C++
-  - Go
-- **JavaScript**: React, JQuery, AJAX, WebGL, TSX (TypeScript + JSX) <!-- Angular, --><!-- Vue.js -->
-- **HTML** & **CSS**: Bootstrap, SCSS
+- **WebAssembly<!-- | Rust | WAT -->**: C / C++, Go
+<!--- **JavaScript**: React, JQuery, AJAX, WebGL, TSX (TypeScript + JSX)--> <!-- Angular, --><!-- Vue.js -->
+<!-- - **HTML** & **CSS**: Bootstrap, SCSS-->
 <!-- - **Ruby**: Ruby on Rails-->
 - **Web-серверы**: nginx, Apache <!-- , Tomcat -->
 - **Брокеры сообщений**: RabbitMQ (AMQP, MQTT)
