@@ -32,11 +32,11 @@
 <!--div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjgzYWFiMTY0ZTA2MzM0YzU3NGYwM2VhZjdlMzUwOTg5YWU1MTA3MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SmaYvew52UlC9MmB6l/giphy.gif" width="200"/>
 </div-->
-
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3ohc157IyQlpWtqbug/giphy.gif" width="100"/>
 </div>
-
+-->
 **[Моя операционная система Doors](http://www.gorcom.online)**  
 [Мой Справочник](https://github.com/GorComComputing/knowledge)   
 [Мой Docker Hub](https://hub.docker.com/repositories/gorcomcomputing)
