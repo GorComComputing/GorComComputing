@@ -187,7 +187,7 @@
 - **Протоколы связи**: UART (RS-232/485), SPI, I2C, USB<!-- (OTG)-->, PS/2, 1-Wire, CAN, Ethernet,<!-- I2S, SDIO,--> PCI/PCIE, VGA<!--, LPT, LIN, Zigbee, Bluetooth -->
 - **C / C++**: STM32 (CMSIS, HAL, LL, DSP<!--, Libopencm3-->), ESP-IDF, AVR, <!--Arduino/-->Wiring, FreeRTOS <!--, CC65-->
 - **Assembly**: ARM, x86<!--, MIPS-->, RISC-V,<!-- PowerPC, Xtensa, --> AVR<!--, MCS-51--><!--, Retro (8088, Z80, 6502)-->
-- **FPGA / Verilog**: Intel FPGA MAX 10K (DE10-Lite), Xilinx
+- **FPGA / Verilog**: Intel FPGA MAX 10K (DE10-Lite), Altera Cyclone IV, Xilinx
 - **SDR**: GNU Radio, SDR# (HackRF One), MatLab
 <!-- - **Go**: TinyGo --> 
 
