@@ -185,9 +185,9 @@
 ##### Микропроцессорные системы<!--Embedded-->:
 - **Микроконтроллеры**: STM32<!-- (Cortex-M3,M4,M7,M33)-->, ESP32/8266, RP2040/2350<!-- (Cortex-M0+)-->, CH32V (RISC-V), AVR, Raspberry Pi 4<!-- (Cortex-A72)--> <!--, TP-LINK MR3020 -->
 - **Протоколы связи**: UART (RS-232/485), SPI, I2C, USB<!-- (OTG)-->, PS/2, 1-Wire, CAN, Ethernet,<!-- I2S, SDIO,--> PCI/PCIE, VGA<!--, LPT, LIN, Zigbee, Bluetooth -->
-- **C / C++**: STM32 (CMSIS, HAL, LL, DSP<!--, Libopencm3-->), ESP-IDF, AVR, Arduino/Wiring, FreeRTOS <!--, CC65-->
+- **C / C++**: STM32 (CMSIS, HAL, LL, DSP<!--, Libopencm3-->), ESP-IDF, AVR, <!--Arduino/-->Wiring, FreeRTOS <!--, CC65-->
 - **Assembly**: ARM, x86<!--, MIPS-->, RISC-V,<!-- PowerPC, Xtensa, --> AVR<!--, MCS-51--><!--, Retro (8088, Z80, 6502)-->
-- **FPGA / Verilog**: Intel FPGA MAX 10K (DE10-Lite)
+- **FPGA / Verilog**: Intel FPGA MAX 10K (DE10-Lite), Xilinx
 - **SDR**: GNU Radio, SDR# (HackRF One), MatLab
 <!-- - **Go**: TinyGo --> 
 
